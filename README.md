@@ -2,13 +2,18 @@
 
 ## About this Solution
 
-This solution is designed to be used as a Boilerplate starter for the DemoSite, with root technology consisting of
-Sitecore Helix, Sitecore Containers, the Sitecore Next.js SDK, and Sitecore
-Content Serialization.
+This solution is designed to be used as a Boilerplate starter for the DemoSite, with root technology consisting of the following high-level features:
 
-## Configured for Sitecore-based workflow
+- Sitecore Helix Publishing Pipeline
+- Sitecore Helix Principles
+- Local Sitecore Containers
+- Sitecore Next.js v21.1.6 (versions managed by branching: version/21.1.6)
+- Sitecore Content Serialization (SCS)
+- Plop templates for .Net Project and React Component generation
 
-On first run, the JSS Styleguide sample will be imported via `jss deploy items`, then serialized via `sitecore ser pull`. It is intended that you work directly in Sitecore to define templates and renderings, instead of using the code-first approach. This is also known as "Sitecore-first" JSS workflow. To support this:
+## Configured for Sitecore-first workflow
+
+It is intended that you work directly in Sitecore to define templates and renderings, instead of using the code-first approach. To support this mode:
 
 - The JSS content workflow is disabled
 - Imported items will not be marked as 'protected'
@@ -25,24 +30,23 @@ On first run, the JSS Styleguide sample will be imported via `jss deploy items`,
 
 See Sitecore Containers documentation for more information on system requirements.
 
-## What's Included
+## Helix Publishing Pipeline
+
+- A Helix Publishing Pipeline project called "Environment" controls publishing and deploying all projects configuration and code into the Sitecore Content Management role. (see `src\Environment`).
+
+## Local Docker: What's Included
 
 - A `docker-compose` environment for each Sitecore topology (XPO, XP1, XM1)
-  with an ASP.NET Core rendering host. The project is configured to run XM1 already, so the other topology folders can be ignored.
+  with Sitecore's Next.js rendering host. The project is configured to run XM1 by default, so the other topology folders can be ignored or switched to.
 
   > The containers structure is organized by specific topology environment (see `run\sitecore-xp0`, `run\sitecore-xp1`, `run\sitecore-xm1`).
   > The included `docker-compose.yml` is a stock environment from the Sitecore
   > Container Support Package. All changes/additions for this solution are included
   > in the `docker-compose.override.yml`.
 
-- Sitecore Content Serialization configuration.
-- An Helix Publishing Pipeline project called "Environment" for deploying configuration and code into
-  the Sitecore Content Management role. (see `src\Environment`).
-- A Plop.js generator for scaffolding React Components customized to the Project and Next.js
-
 <br>
 
-# Docker-Desktop Initial Set Up
+# Local Docker: Docker-Desktop Initial Set Up
 
 Some machines will have permission issues and random faults that occur after installing Docker-Desktop.
 <br>
