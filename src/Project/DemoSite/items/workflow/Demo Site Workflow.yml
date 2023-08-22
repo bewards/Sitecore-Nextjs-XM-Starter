@@ -13,7 +13,7 @@ SharedFields:
   - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
     Hint: __Security
     Value: |
-      ar|sitecore\UPMC HP Author|pd|+workflowState:delete|+item:write|+item:read|+workflowState:write|+workflowCommand:execute|pe|+workflowState:delete|+item:write|+item:read|+workflowState:write|+workflowCommand:execute|
+      ar|sitecore\DemoSite Author|pd|+workflowState:delete|+item:write|+item:read|+workflowState:write|+workflowCommand:execute|pe|+workflowState:delete|+item:write|+item:read|+workflowState:write|+workflowCommand:execute|
 Languages:
   - Language: en
     Versions:

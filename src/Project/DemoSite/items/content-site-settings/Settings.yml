@@ -62,7 +62,7 @@ SharedFields:
   - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
     Hint: __Security
     Value: |
-      ar|sitecore\UPMC HP Author|pe|-item:rename|-item:write|
+      ar|sitecore\DemoSite Author|pe|-item:rename|-item:write|
   - ID: "e8881464-38af-4655-be4a-ee10586578a2"
     Hint: Templates
     Value: "{20F00FC6-81FD-48E0-820A-FB906B2B09FA}"

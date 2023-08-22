@@ -4,95 +4,95 @@ Parent: "cfb1b4c7-75c0-4dd2-ae2e-fd5d159a106d"
 Template: "f0627599-b3fb-537e-adfd-d52988327385"
 Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Grid System/Page Data/ContentBlock-1"
 Languages:
-  - Language: en
-    Versions:
-      - Version: 1
-        Fields:
-          - ID: "5c6571dd-9cd7-594c-8024-7153f1647020"
-            Hint: content
-            Value: |
-              <style>
-              .container-sm {
-                          margin-left: 0;
-                          width: 320px;
-                        }
-                      
-                        .container-md {
-                          margin-left: 0;
-                          width: 768px;
-                        }
-                      
-                        .container-lg {
-                          margin-left: 0;
-                          width: 1280px;
-                        }
-                        
-                        .row {
-                          background-color: var(--bs-accent1-40);
-                          height: 10rem;
-                        }
-                      
-                        .col {
-                          background-clip: content-box;
-                          background-color: var(--bs-accent1-20);
-                          text-align: center;
-                        }
-              </style>
-
-              <section class="py-5">
-                      <h2>Grid Styles</h2>
-                      <section class="py-3">
-                      <h3>Mobile Experience</h3>
-                      <div class="container-sm">
-                      <div class="row">
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      </div>
-                      </div>
-                      </section>
-                      <section class="py-3">
-                      <h3>Tablet Experience</h3>
-                      <div class="container-md">
-                      <div class="row">
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      </div>
-                      </div>
-                      </section>
-                      <section class="py-3">
-                      <h3>Desktop Experience</h3>
-                      <div class="container-lg">
-                      <div class="row">
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      <div class="col"></div>
-                      </div>
-                      </div>
-                      </section>
-                      </section>
-          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-            Hint: __Created by
-            Value: |
-              sitecore\Admin
-          - ID: "8a36e526-2683-52dd-8c09-1fb791c42e65"
-            Hint: heading
-            Value: Grid System Test Page
-          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-            Hint: __Revision
-            Value: "8935c39f-9928-4ddd-8123-e4acd6bf1563"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5c6571dd-9cd7-594c-8024-7153f1647020"
+      Hint: content
+      Value: |
+        <style>
+        .container-sm {
+                    margin-left: 0;
+                    width: 320px;
+                  }
+                
+                  .container-md {
+                    margin-left: 0;
+                    width: 768px;
+                  }
+                
+                  .container-lg {
+                    margin-left: 0;
+                    width: 1280px;
+                  }
+                  
+                  .row {
+                    background-color: var(--bs-accent1-40);
+                    height: 10rem;
+                  }
+                
+                  .col {
+                    background-clip: content-box;
+                    background-color: var(--bs-accent1-20);
+                    text-align: center;
+                  }
+        </style>
+        
+        <section class="py-5">
+                <h2>Grid Styles</h2>
+                <section class="py-3">
+                <h3>Mobile Experience</h3>
+                <div class="container-sm">
+                <div class="row">
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                </div>
+                </div>
+                </section>
+                <section class="py-3">
+                <h3>Tablet Experience</h3>
+                <div class="container-md">
+                <div class="row">
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                </div>
+                </div>
+                </section>
+                <section class="py-3">
+                <h3>Desktop Experience</h3>
+                <div class="container-lg">
+                <div class="row">
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+                </div>
+                </div>
+                </section>
+                </section>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8a36e526-2683-52dd-8c09-1fb791c42e65"
+      Hint: heading
+      Value: Grid System Test Page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8935c39f-9928-4ddd-8123-e4acd6bf1563"

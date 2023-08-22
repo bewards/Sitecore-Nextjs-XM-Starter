@@ -2,7 +2,7 @@
 ID: "abecf9d8-a610-4dff-a8d7-39c0a664522c"
 Parent: "2ade0432-93c0-4fd3-bb6c-4e5843d3d159"
 Template: "4dd932c2-fe9b-494d-8853-b00afaf084e6"
-Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Footer/Page Data/Footer/Footer Section Two/Column Three/Visit UPMC
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Footer/Page Data/Footer/Footer Section Two/Column Three/Visit Demo Site
 Languages:
   - Language: en
     Versions:
@@ -15,7 +15,7 @@ Languages:
           - ID: "6c7cc1cf-4c58-4ada-80fa-221186f2667c"
             Hint: link
             Value: |
-              <link text="Visit UPMC.com" linktype="external" url="https://www.google.com/" anchor="" target="|Custom" />
+              <link text="Visit Google.com" linktype="external" url="https://www.google.com/" anchor="" target="|Custom" />
           - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
             Hint: __Revision
             Value: "4e0fa79d-c42b-408f-9240-efc59ff5084d"

@@ -4,65 +4,65 @@ Parent: "e310f9a3-0969-4f03-9cb9-0e383dfd179f"
 Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
 Path: /sitecore/system/Modules/PowerShell/Script Library/DemoSite/Resolve tokens/Content Editor/Context Menu/Resolve Tokens
 SharedFields:
-  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
-    Hint: __Icon
-    Value: office/32x32/redo.png
-  - ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
-    Hint: Script
-    Value: |
-      $defaultTemplate = Get-Item -Path "master:/sitecore/templates/Project/DemoSite/Page"
-
-      $dialog= Read-Variable -Parameters `
-      @{ Name = "root"; Title = "Path"; Root="/sitecore/content/DemoSite/DemoSiteWebsite"; Editor="item";},
-      @{ Name = "contentType"; Title = "Content Type"; Root="/sitecore/templates"; Value=$defaultTemplate; Editor="item";} `
-      -Title "Resolve field tokens" `
-      -Description "Updates any tokens to their associated values." `
-      -Width 500 -Height 500 `
-      -OkButtonName "Proceed" `
-      -CancelButtonName "Abort"
-
-      if ($dialog -ne "ok")
-       {   
-         Exit
-       }
-       
-      Write-Host -Foreground Red "Starting Expand-Tokens works in the context of 'master' database"
-
-      cd "master:$($root.Paths.FullPath)"
-
-      Set-HostProperty -ForegroundColor Green
-
-      function GetAllLanguageVersions($item) 
-      {
-          Get-Item $item.ProviderPath -Language * -Version *
-      }
-
-      $itemsToProcess = Get-ChildItem -Recurse . | Where-Object {$_.TemplateID -eq $contentType.ID} | foreach { GetAllLanguageVersions($_) }
-      $itemsToProcess | ForEach-Object { $_.Fields.ReadAll() }
-      $itemsToProcess | Expand-Token | Show-ListView -Property Name, ItemPath, @{Expression={$_.Version};Label="Version"}, ID
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/redo.png
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    $defaultTemplate = Get-Item -Path "master:/sitecore/templates/Project/DemoSite/Page"
+    
+    $dialog= Read-Variable -Parameters `
+    @{ Name = "root"; Title = "Path"; Root="/sitecore/content/DemoSite/DemoSiteWebsite"; Editor="item";},
+    @{ Name = "contentType"; Title = "Content Type"; Root="/sitecore/templates"; Value=$defaultTemplate; Editor="item";} `
+    -Title "Resolve field tokens" `
+    -Description "Updates any tokens to their associated values." `
+    -Width 500 -Height 500 `
+    -OkButtonName "Proceed" `
+    -CancelButtonName "Abort"
+    
+    if ($dialog -ne "ok")
+     {   
+       Exit
+     }
+     
+    Write-Host -Foreground Red "Starting Expand-Tokens works in the context of 'master' database"
+    
+    cd "master:$($root.Paths.FullPath)"
+    
+    Set-HostProperty -ForegroundColor Green
+    
+    function GetAllLanguageVersions($item) 
+    {
+        Get-Item $item.ProviderPath -Language * -Version *
+    }
+    
+    $itemsToProcess = Get-ChildItem -Recurse . | Where-Object {$_.TemplateID -eq $contentType.ID} | foreach { GetAllLanguageVersions($_) }
+    $itemsToProcess | ForEach-Object { $_.Fields.ReadAll() }
+    $itemsToProcess | Expand-Token | Show-ListView -Property Name, ItemPath, @{Expression={$_.Version};Label="Version"}, ID
 Languages:
-  - Language: en
-    Versions:
-      - Version: 1
-        Fields:
-          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-            Hint: __Created
-            Value: 20230811T152539Z
-          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-            Hint: __Owner
-            Value: |
-              sitecore\Admin
-          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-            Hint: __Created by
-            Value: |
-              sitecore\Admin
-          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-            Hint: __Revision
-            Value: "0e5eb0ca-39ec-4e69-ac2d-eb9df2b6f839"
-          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-            Hint: __Updated by
-            Value: |
-              sitecore\Admin
-          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-            Hint: __Updated
-            Value: 20230814T144155Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230811T152539Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e5eb0ca-39ec-4e69-ac2d-eb9df2b6f839"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230814T144155Z
