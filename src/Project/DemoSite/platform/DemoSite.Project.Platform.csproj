@@ -71,7 +71,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\Project\DemoSite.config" />
-    <Content Include="css\EFF\styles.css" />
     <Content Include="err502.html" />
     <Content Include="richtext\full.css" />
     <Content Include="richtext\default.css" />
