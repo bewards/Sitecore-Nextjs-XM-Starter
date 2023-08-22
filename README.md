@@ -1,8 +1,8 @@
 # DemoSite - Sitecore Next.js Starter Kit
 
-## About this Solution
+## About this Project
 
-This solution is designed to be used as a Boilerplate starter for the DemoSite, with root technology consisting of the following high-level features:
+This project is designed to be used as a Boilerplate starter for the DemoSite, with root technology consisting of the following high-level features:
 
 - Sitecore Helix Publishing Pipeline
 - Sitecore Helix Principles
