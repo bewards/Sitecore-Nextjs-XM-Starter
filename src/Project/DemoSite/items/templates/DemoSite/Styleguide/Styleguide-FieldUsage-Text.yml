@@ -1,0 +1,30 @@
+﻿---
+ID: "c1bb6ebf-6508-5b09-8774-c7c6a843d37a"
+Parent: "119a73fd-6392-42fc-8240-7eb4650296da"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Project/DemoSite/Styleguide/Styleguide-FieldUsage-Text"
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: Office/16x16/text.png
+  - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+    Hint: __Base template
+    Value: "{E0EDBFEF-4B0B-5383-8047-6A186AE551A1}"
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 1350
+  - ID: "f7d48a55-2158-4f02-9356-756654404f73"
+    Hint: __Standard values
+    Value: "{FDCE4A20-FCE4-5583-9BC0-81ACB439E5C1}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c31b8f4c-7e75-479d-8271-0f3b3781888b"

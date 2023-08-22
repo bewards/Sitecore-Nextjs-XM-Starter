@@ -1,0 +1,46 @@
+﻿---
+ID: "9f0281ca-eda0-436b-8750-48a2692a8d67"
+Parent: "262739da-804b-4d2d-b3e9-478cd0413060"
+Template: "262739da-804b-4d2d-b3e9-478cd0413060"
+Path: /sitecore/templates/Feature/DemoSite/Listings/Tout Card Listings/ThreeColumnToutListing/__Standard Values
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: office/32x32/layout_vertical.png
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: "{0AE5C452-7CA0-49C6-9B69-8EF75E95384C}"
+  - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+    Hint: __Default workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230726T144457Z
+          - ID: "3b9da384-d1b3-40a0-8a6f-96808f011fc5"
+            Hint: headingTextStyle
+            Value: "{61984BBC-1EC5-4C6B-B3F7-5E6FD4C45095}"
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "88cf0b70-34f3-426b-b3d3-aacdc7950498"
+            Hint: heading
+            Value: $name
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "ecc5254a-0068-4d45-8bb9-0909c3f525d3"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230726T144457Z
+          - ID: "f494121f-c37e-49c5-b164-9e709482dcb0"
+            Hint: headingLevel
+            Value: "{9F06C920-7BCB-4F11-9ECE-26F2DBE9EA09}"

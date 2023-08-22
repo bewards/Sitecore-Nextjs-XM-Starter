@@ -1,0 +1,61 @@
+﻿---
+ID: "cc0ee053-fe72-49ab-8b45-c821a3ab4f28"
+Parent: "fa8da256-7629-4316-8a59-b96e0028e290"
+Template: "604475fb-2854-4a30-ba42-b5d4e7dba32c"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Sign In 50 50/Page Data/Sign In Folder/Sign In 50 50
+SharedFields:
+  - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+    Hint: __Default workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+            Hint: __Lock
+            Value: <r />
+          - ID: "10777b33-c16a-4b25-a062-06900ce0b047"
+            Hint: usernameFieldLabel
+            Value: Username
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230711T185251Z
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{A8C98852-2762-41D3-B367-A2345442EE1F}"
+          - ID: "515fe52a-5fdb-4eda-b10c-4c86cf6a41ef"
+            Hint: signInButtonLabel
+            Value: Sign In
+          - ID: "52127902-8a8d-4d79-8f76-a0b7c238deda"
+            Hint: content
+            Value: |
+              <h3>Access <i>My</i>Health OnLine</h3>
+              <p>MyHealth OnLine—our secure, members-only website—makes it easy to manage your health and your health benefits. With MyHealth OnLine you can print ID cards, access claims information, view your benefit details, check your progress toward reaching your deductible and out-of-pocket minimum, and more.</p>
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "628df010-1ab2-40ac-ae31-bab121902869"
+            Hint: customerType
+            Value: "{711FF4C2-2071-42EE-A656-8FBC81B6349E}"
+          - ID: "67578c72-f19f-4fa4-9445-8c7c63b59ec0"
+            Hint: errorText
+            Value: Please enter your username
+          - ID: "6dd9f3da-a5eb-4df6-aa1c-ee845ada9c14"
+            Hint: titleContent
+            Value: <h3>Provider Online Login</h3>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "549ee9f8-e511-4523-b1cf-08478268bab1"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230727T194917Z

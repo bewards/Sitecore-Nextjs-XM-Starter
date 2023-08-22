@@ -1,0 +1,24 @@
+﻿---
+ID: "f0627599-b3fb-537e-adfd-d52988327385"
+Parent: "1f973495-22d0-41d7-a93e-dee8b712f70c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/DemoSite/Samples/ContentBlock
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: Office/16x16/document_tag.png
+  - ID: "f7d48a55-2158-4f02-9356-756654404f73"
+    Hint: __Standard values
+    Value: "{5097B9B3-8527-5C61-B6B4-19AF40D0D252}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "79119691-6494-4154-8a16-4b179dbbc4ed"

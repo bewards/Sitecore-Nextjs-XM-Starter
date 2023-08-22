@@ -1,0 +1,17 @@
+﻿---
+ID: "e1dc4ca4-8eef-41f4-b9f8-ae3003246c22"
+Parent: "c626493f-1cc3-4986-a701-f28b83d649f7"
+Template: "1404a77a-d5fd-46b3-aa4c-200f3d519979"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/SXA
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Experience Accelerator
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ea98ac3-5c7b-45e6-8a83-e24688856299"

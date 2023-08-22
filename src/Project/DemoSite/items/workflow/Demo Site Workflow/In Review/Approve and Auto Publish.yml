@@ -1,0 +1,28 @@
+﻿---
+ID: "d27d1da5-a724-4641-8361-88286ad96ba3"
+Parent: "3a9289dc-66cd-4dfe-a123-3390e3d71aee"
+Template: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
+Path: /sitecore/system/Workflows/Demo Site Workflow/In Review/Approve and Auto Publish
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: office/16x16/check.png
+  - ID: "dcbebc58-6124-4100-a248-fc717d6c78d5"
+    Hint: Next state
+    Value: "{2C62529D-8629-4CD2-8368-AFC8C5D9D3C3}"
+  - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+    Hint: __Security
+    Value: |
+      ar|sitecore\Sitecore Client Authoring|pd|+workflowCommand:execute|pe|+workflowCommand:execute|
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "024dc8e4-9d4f-424d-9e4e-c05e54691858"

@@ -1,0 +1,23 @@
+﻿---
+ID: "2f5f4186-79aa-4c6f-8a6a-3b7d47f96892"
+Parent: "a0653471-f534-4e8f-9150-094032b5e136"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Testing/Container 5050 Intro
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1>50/50 Container</h1>
+              <p>The 50/50 Container is a structural component that divides part of the page it is placed on into two equally sized columns with a small gutter in between. Each column has it's own dynamic placeholder (hp-container-5050-left &amp; hp-container-5050-right), allowing content editors to drop in any number of other components to build out the page.</p>
+              <p>On smaller mobile devices, the left column will stack on top of the right column, creating a single column layout.</p>
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3351ca2e-a094-40d0-b6f7-e45415361589"

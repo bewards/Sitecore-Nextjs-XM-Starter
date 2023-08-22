@@ -1,0 +1,21 @@
+﻿---
+ID: "941e2561-a9f9-430d-b827-e2da806cac86"
+Parent: "9f067597-52f2-4b51-8765-6411eef82f9a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Full/Font Sizes
+BranchID: "30235f43-6242-4107-87ab-5267e34edf0c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d5041124-4b55-4131-9ba9-0f89f2221fbc"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125515

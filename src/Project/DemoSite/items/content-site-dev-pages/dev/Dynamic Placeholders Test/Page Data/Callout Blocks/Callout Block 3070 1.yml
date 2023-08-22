@@ -1,0 +1,40 @@
+﻿---
+ID: "96137c87-2cc0-43dd-8772-7d11934bf68b"
+Parent: "b5724102-5b96-40a3-b949-691d5a9e9fab"
+Template: "e9778725-f086-4afc-b374-bc80feb1896e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Dynamic Placeholders Test/Page Data/Callout Blocks/Callout Block 3070 1
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230720T161928Z
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "50bbcfaf-830d-4ee8-ab45-33b1a23c4b4e"
+            Hint: content
+            Value: Callout Block 3070 1 Content Lorem Ipsum dolor sit amet <strong>callout block instance one</strong>.
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "9afefdf8-b555-4d57-9920-d152bd85c6da"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d4e7c575-c1cc-45f7-a5bd-f4faeda44b46"
+            Hint: backgroundColor
+            Value: "{B0A3836D-973C-45A8-86B3-9DAE91A1DC73}"
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230720T162003Z

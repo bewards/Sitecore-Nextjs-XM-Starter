@@ -1,0 +1,186 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4B052EB5-ADA6-4773-9989-17FCC28A4132}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DemoSite.Project.Platform</RootNamespace>
+    <AssemblyName>DemoSite.Project.Platform</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Sitecore.Services.GraphQL.EdgeSchema">
+      <HintPath>..\..\..\..\lib\Sitecore.Services.GraphQL.EdgeSchema.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\zzz\Sitecore.Settings.config" />
+    <Content Include="App_Config\Include\zzz\Sitecore.Cache.Tuning.config" />
+    <Content Include="App_Config\Include\zzz\Sitecore.Custom.PublishingTargets.config" />
+    <None Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Project\DemoSite.config" />
+    <Content Include="css\EFF\styles.css" />
+    <Content Include="err502.html" />
+    <Content Include="richtext\full.css" />
+    <Content Include="richtext\default.css" />
+    <Content Include="sitecore\shell\Controls\Rich Text Editor\ToolsFile.xml" />
+    <Content Include="static-assets\svg-icons\App.svg" />
+    <Content Include="static-assets\svg-icons\Calendar.svg" />
+    <Content Include="static-assets\svg-icons\Carat.svg" />
+    <Content Include="static-assets\svg-icons\Chat.svg" />
+    <Content Include="static-assets\svg-icons\Checkmark in Circle.svg" />
+    <Content Include="static-assets\svg-icons\Checkmark.svg" />
+    <Content Include="static-assets\svg-icons\Clock.svg" />
+    <Content Include="static-assets\svg-icons\Close.svg" />
+    <Content Include="static-assets\svg-icons\Dental.svg" />
+    <Content Include="static-assets\svg-icons\Document.svg" />
+    <Content Include="static-assets\svg-icons\Dollar Sign.svg" />
+    <Content Include="static-assets\svg-icons\Download.svg" />
+    <Content Include="static-assets\svg-icons\Edit.svg" />
+    <Content Include="static-assets\svg-icons\Error.svg" />
+    <Content Include="static-assets\svg-icons\External Link.svg" />
+    <Content Include="static-assets\svg-icons\Face-ID.svg" />
+    <Content Include="static-assets\svg-icons\Facebook.svg" />
+    <Content Include="static-assets\svg-icons\Filter.svg" />
+    <Content Include="static-assets\svg-icons\Flag.svg" />
+    <Content Include="static-assets\svg-icons\Grid.svg" />
+    <Content Include="static-assets\svg-icons\Handicap Accessible.svg" />
+    <Content Include="static-assets\svg-icons\Hide Information.svg" />
+    <Content Include="static-assets\svg-icons\Home.svg" />
+    <Content Include="static-assets\svg-icons\Hospital.svg" />
+    <Content Include="static-assets\svg-icons\ID Card.svg" />
+    <Content Include="static-assets\svg-icons\Information.svg" />
+    <Content Include="static-assets\svg-icons\Instagram.svg" />
+    <Content Include="static-assets\svg-icons\LinkedIn.svg" />
+    <Content Include="static-assets\svg-icons\List.svg" />
+    <Content Include="static-assets\svg-icons\Location.svg" />
+    <Content Include="static-assets\svg-icons\Locked.svg" />
+    <Content Include="static-assets\svg-icons\Mail.svg" />
+    <Content Include="static-assets\svg-icons\Medical.svg" />
+    <Content Include="static-assets\svg-icons\Menu.svg" />
+    <Content Include="static-assets\svg-icons\Minus.svg" />
+    <Content Include="static-assets\svg-icons\Mobile Texting %28SMS%29.svg" />
+    <Content Include="static-assets\svg-icons\More.svg" />
+    <Content Include="static-assets\svg-icons\Person.svg" />
+    <Content Include="static-assets\svg-icons\Pharmacy.svg" />
+    <Content Include="static-assets\svg-icons\Phone.svg" />
+    <Content Include="static-assets\svg-icons\Pinterest.svg" />
+    <Content Include="static-assets\svg-icons\Play.svg" />
+    <Content Include="static-assets\svg-icons\Plus.svg" />
+    <Content Include="static-assets\svg-icons\Printer.svg" />
+    <Content Include="static-assets\svg-icons\Question.svg" />
+    <Content Include="static-assets\svg-icons\Search.svg" />
+    <Content Include="static-assets\svg-icons\Settings.svg" />
+    <Content Include="static-assets\svg-icons\Shopping Cart.svg" />
+    <Content Include="static-assets\svg-icons\Show Information.svg" />
+    <Content Include="static-assets\svg-icons\Sort.svg" />
+    <Content Include="static-assets\svg-icons\Star-Filled.svg" />
+    <Content Include="static-assets\svg-icons\Star-Unfilled.svg" />
+    <Content Include="static-assets\svg-icons\Stethoscope.svg" />
+    <Content Include="static-assets\svg-icons\Thumbs Down.svg" />
+    <Content Include="static-assets\svg-icons\Thumbs Up.svg" />
+    <Content Include="static-assets\svg-icons\Touch-ID.svg" />
+    <Content Include="static-assets\svg-icons\Trash.svg" />
+    <Content Include="static-assets\svg-icons\Twitter.svg" />
+    <Content Include="static-assets\svg-icons\Unlocked.svg" />
+    <Content Include="static-assets\svg-icons\Upload.svg" />
+    <Content Include="static-assets\svg-icons\Video.svg" />
+    <Content Include="static-assets\svg-icons\Vision.svg" />
+    <Content Include="static-assets\svg-icons\Warning.svg" />
+    <Content Include="static-assets\svg-icons\YouTube.svg" />
+    <None Include="README.md" />
+    <Content Include="static-assets\sc_logo.svg" />
+    <Content Include="Web.config.xdt" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:64547/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

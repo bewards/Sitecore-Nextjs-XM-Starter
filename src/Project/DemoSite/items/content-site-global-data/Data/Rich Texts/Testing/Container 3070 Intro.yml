@@ -1,0 +1,22 @@
+﻿---
+ID: "72eb3e52-8364-4160-9800-6a644a84048f"
+Parent: "a0653471-f534-4e8f-9150-094032b5e136"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Testing/Container 3070 Intro
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1>30/70 Container</h1>
+              <p>The 30/70 Container is a structural component that divides part of the page it is placed on into two columns, with the first column occupying 30% of the container and the second taking up the remaining 70%. Each column has it's own dynamic placeholder (hp-container-3070-left &amp; hp-container-3070-right), allowing content editors to drop in any number of other components to build out the page.</p>
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "10515d05-454d-4d62-b41c-5b3dbce78dca"

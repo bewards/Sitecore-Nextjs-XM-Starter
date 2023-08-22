@@ -1,0 +1,16 @@
+﻿---
+ID: "f06abce4-a928-4075-8dbe-3ed5c9c5dcd8"
+Parent: "825f1b3e-3998-4473-a444-9ba193acf8c2"
+Template: "76106b77-f6ef-4463-abd1-88f91d95ca1a"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Dynamic Buttons/Testing/Sample/Choice 3/Choice 3 Section
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5054d77f-cb07-4edc-a894-d9ab46a30f75"
+            Hint: sectionTitle
+            Value: Choice 3 Section
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "6bcd15e0-6643-4194-81aa-cf48db1c6138"

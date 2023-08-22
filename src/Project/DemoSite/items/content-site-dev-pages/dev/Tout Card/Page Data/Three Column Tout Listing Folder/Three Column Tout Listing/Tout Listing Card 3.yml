@@ -1,0 +1,34 @@
+﻿---
+ID: "f578df74-8f6f-4cf7-99c2-fd7e288a4fc7"
+Parent: "22e2f751-6d8b-4b1e-a58d-65aaffcf7652"
+Template: "0ae5c452-7ca0-49c6-9b69-8ef75e95384c"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Tout Card/Page Data/Three Column Tout Listing Folder/Three Column Tout Listing/Tout Listing Card 3
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{2C62529D-8629-4CD2-8368-AFC8C5D9D3C3}"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c40bb0f2-3dd6-4306-af23-b00f25156274"
+          - ID: "8d143174-5d94-44cd-a4fb-27e586316613"
+            Hint: buttonLink
+            Value: |
+              <link text="How Our Health Tools Can Help You" anchor="" linktype="internal" class="" title="How Our Health Tools Can Help You" target="|Custom" querystring="" id="{DE3BB58A-A5E8-41FD-A0FF-4BB1C4D8E7D3}" />
+          - ID: "c9fd82cc-ee32-4c18-bb31-0496c77c605e"
+            Hint: image
+            Value: |
+              <image mediaid="{516338A3-D406-4B4E-8048-54A99FF5ACF2}" />
+          - ID: "d236e294-2dcc-4cbd-8639-bf26e4eb77df"
+            Hint: description
+            Value: Our free tools and resources can help you get or stay healthy.
+          - ID: "d28ff2e6-e13f-4f05-ba59-b0bf3ec2d54a"
+            Hint: title
+            Value: Health tools at your fingertips

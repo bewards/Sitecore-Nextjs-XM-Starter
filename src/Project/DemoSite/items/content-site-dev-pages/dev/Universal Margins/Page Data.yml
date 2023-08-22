@@ -1,0 +1,36 @@
+﻿---
+ID: "6213d8c1-1320-4744-a89f-0d5e1973a4d5"
+Parent: "b061bdfa-e7b0-4681-88fa-6075629cdd59"
+Template: "8dd734a1-9d72-43a0-8b4a-d09fcfd55503"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Universal Margins/Page Data
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{AE5B86BD-D1EB-4AA4-BDA2-7DB20C340928}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230721T132049Z
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "34a892e8-7bc0-4948-8d75-6c9c0f47a127"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230721T132049Z

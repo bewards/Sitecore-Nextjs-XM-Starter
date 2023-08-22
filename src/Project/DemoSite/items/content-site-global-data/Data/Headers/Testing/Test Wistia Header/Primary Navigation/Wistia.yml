@@ -1,0 +1,27 @@
+﻿---
+ID: "3b5130d8-07b9-458c-a532-f60e65d7d65e"
+Parent: "a3852772-7818-4765-a8e5-dbe179730611"
+Template: "e29a8175-d3d3-4b00-949a-3b1e8ea15e45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Wistia Header/Primary Navigation/Wistia
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{2C62529D-8629-4CD2-8368-AFC8C5D9D3C3}"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3a66ce1c-fcba-4469-8e48-e297e30fccaa"
+          - ID: "b5f94aca-b64a-4aee-94af-8f9c8645d15e"
+            Hint: title
+            Value: Wistia
+          - ID: "e552a988-a7cd-49aa-876c-da52e471fca6"
+            Hint: link
+            Value: |
+              <link text="Test link for For Members section" linktype="external" url="/dev/wistia-new" anchor="" title="Alt text" target="" />

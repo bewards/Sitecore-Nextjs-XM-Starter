@@ -1,0 +1,13 @@
+﻿---
+ID: "65b76f34-af44-4d29-9da5-9d33e68727a1"
+Parent: "ee20f819-f8e1-4071-b6b1-8a21dd3d8a38"
+Template: "773bae1d-7de0-45f7-bf0b-9a9dedd48507"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/404 Not Found/Page Data/Standard Page Banner
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "1268beed-0c7d-40ba-8190-04640c754bd7"

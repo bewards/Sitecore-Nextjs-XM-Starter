@@ -1,0 +1,18 @@
+﻿---
+ID: "e1f70bd2-cbc4-4fda-a2ac-3218da0bc6d8"
+Parent: "f00d1536-e011-4082-a2ce-2b06e287c5a9"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Container 70/Page Data/Rich Texts/Container 70 Intro
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1>Container 70</h1>
+              <p>This component is a structural component that creates a centered dynamic placeholders that other components can be placed into. The division of space on the page is 15-70-15, with  the dynamic placeholder taking up the central 70% and the sides equally divided. The sides do not allow for component placement. </p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "1a5eef45-090a-4f33-b854-aa48ff0692a3"

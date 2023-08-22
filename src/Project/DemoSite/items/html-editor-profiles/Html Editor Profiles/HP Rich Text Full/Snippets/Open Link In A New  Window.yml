@@ -1,0 +1,25 @@
+﻿---
+ID: "7ac66e26-740d-430b-a7dc-8d2b631b0565"
+Parent: "0c5e4be2-bfee-435d-a217-8aa96b913484"
+Template: "3825fe6a-6ca1-489b-a7c9-c3b4b3b38272"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Full/Snippets/Open Link In A New  Window
+SharedFields:
+- ID: "7dff83d2-e609-4c5f-99a9-13ec8536d65b"
+  Hint: Value
+  Value: |
+    <a  class="link--external" target="_blank" rel="noopener noreferrer" href="https://www.lipsum.com/">Lorem Ipsum<span class="visually-hidden"> - Opens in a new window</span></a>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01e252c0-a656-43d8-96d7-228e5f9ebbe9"
+    - ID: "8e5179b0-2a09-4624-885d-619c0e3d0390"
+      Hint: Header
+      Value: Open Link In A New  Window

@@ -1,0 +1,41 @@
+﻿---
+ID: "8511fc31-58db-46ab-aabf-782aea440c30"
+Parent: "9cc44cbb-bb38-4dab-8954-790619cd6170"
+Template: "cb59dd72-c79b-4207-9387-2c9d73c7be1c"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with Primary Nav and Utility Links/Utility Link Section/Test
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230717T135931Z
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "50a79d57-2402-4c8c-97b1-c9affaa80fdc"
+            Hint: userTypeDropdownLabel
+            Value: I am a
+          - ID: "6b24a9a5-4509-409b-aed7-c54b9c2d20d9"
+            Hint: mobileIcon
+            Value: |
+              <image mediaid="{6AAEF5F0-693A-4780-95D7-3D5A6C1E54FF}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "8fb0138f-44f8-4631-b145-737d86ba5e00"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230717T135931Z
+          - ID: "ebb30cd2-0e2a-4a15-9067-49396bcf986b"
+            Hint: mobileDestination
+            Value: |
+              <link text="Log in" linktype="external" url="http://www.google.com" anchor="" target="" />

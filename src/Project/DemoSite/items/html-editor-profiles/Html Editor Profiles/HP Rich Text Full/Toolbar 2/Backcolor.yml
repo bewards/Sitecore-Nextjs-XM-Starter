@@ -1,0 +1,28 @@
+﻿---
+ID: "7a508801-56db-4c0c-b663-e03b207ca208"
+Parent: "19e83d9a-1b0a-4b50-8ea9-6d66c7e69194"
+Template: "73ab3d58-6bf7-4db5-bedd-5eb7072d11b7"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Full/Toolbar 2/Backcolor
+BranchID: "b9ed3ccb-9ec5-4c8c-825b-3dbc2eb0e676"
+SharedFields:
+- ID: "3eab3ea1-8ff5-45d4-827c-31ec72baee3b"
+  Hint: Click
+  Value: BackColor
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 225
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa76811d-581d-4c34-a0ca-ea4a9a96d49b"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125613

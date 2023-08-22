@@ -1,0 +1,23 @@
+﻿---
+ID: "7ab9f4e1-db1e-483c-9ea6-3b551f151481"
+Parent: "0fd9a528-b50b-455a-9551-de0a94a5bc8b"
+Template: "cb59dd72-c79b-4207-9387-2c9d73c7be1c"
+Path: /sitecore/templates/Branches/Project/DemoSite/Header/Header with Subnavigation and Utility Links/$name/Utility Nav Fly Out
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230717T135928Z
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "d8e37c25-1d2c-4af8-ab75-48d8db677fe4"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230717T135928Z

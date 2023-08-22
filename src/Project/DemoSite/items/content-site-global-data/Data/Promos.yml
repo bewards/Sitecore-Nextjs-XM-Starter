@@ -1,0 +1,17 @@
+﻿---
+ID: "c0d247e4-c3ca-465d-bd79-e18163751c46"
+Parent: "181302b4-ceef-4f97-822c-efc83aaf712c"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Promos
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3a7e5a69-9a45-4959-b0ca-716d5951c52e"

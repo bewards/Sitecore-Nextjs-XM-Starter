@@ -1,0 +1,20 @@
+﻿---
+ID: "e4a2b0f6-5ec9-42b5-81bd-d7dce702525b"
+Parent: "733d2102-2c62-4ef0-a495-de78396ecbc1"
+Template: "512c2857-ae92-42e3-b88e-0ab0421dbbe4"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with Primary Nav and Subnavigation/Utility Link Section/Sign in
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "7d3e4a94-5a9a-4457-ba25-e4a5eec7e827"
+          - ID: "c051d45f-a5c1-46b6-80a3-53c7e67f034e"
+            Hint: linkText
+            Value: Sign in/Register
+          - ID: "c5b9e650-0dd5-4656-9db9-1c6448a041fe"
+            Hint: link
+            Value: |
+              <link text="Test link: Sign in/Register" linktype="external" url="https://www.google.com" anchor="" title="Only goes to register page" target="_blank" />

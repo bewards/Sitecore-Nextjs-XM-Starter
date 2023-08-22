@@ -1,0 +1,31 @@
+﻿---
+ID: "c1b595ec-27f6-4ec1-83ac-12916dcbe58b"
+Parent: "1824d5b4-82c3-4bae-810f-86a1e0ad3d05"
+Template: "b16be6d1-3791-4c45-bac8-2daad22ed438"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with Primary Nav and Subnavigation
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0ef38ce7-c157-4358-b974-d7914624fd50"
+            Hint: firstLogo
+            Value: |
+              <image mediaid="{E355C43A-A1D8-444E-9B4A-3C28D7A3F1FA}" alt="" height="21" width="248" hspace="0" vspace="0" />
+          - ID: "114ade78-be36-4079-86e7-334fcce8c524"
+            Hint: homeLink
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A6904518-754A-4340-9349-9B773D05AF1A}" />
+          - ID: "1e5012a9-22e3-4609-b6d6-21a6e9e34c93"
+            Hint: enableTranslation
+            Value: 1
+          - ID: "357197ab-7dfa-4142-8779-c7f820e1e0dd"
+            Hint: homeLinkText
+            Value: <em>Demo Site</em> Demo Site
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "a7b1a044-772d-4d49-8dd6-0b38b3f0df32"
+          - ID: "f1ec5da5-d1a2-426e-adaa-c2263eb87957"
+            Hint: firstLogoLink
+            Value: |
+              <link text="Test link" linktype="external" url="https://www.google.com" anchor="" title="Alt text" target="" />

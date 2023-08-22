@@ -1,0 +1,43 @@
+﻿---
+ID: "0cf97f87-d672-55a2-b30e-122331856a9a"
+Parent: "258b9285-7ea1-41a7-9d92-5ea67c2af900"
+Template: "fc84c0c1-346d-4305-8e22-e8f469c511a8"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/styleguide/custom-route-type"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+            Hint: __Final Renderings
+            Value: |
+              <r xmlns:p="p" xmlns:s="s"
+                p:p="1">
+                <d
+                  id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+                  <r
+                    uid="{621128A6-CC4D-5287-8ED6-E4A89A7DBBDB}"
+                    p:after="*[1=2]"
+                    s:rname="Styleguide-CustomRouteType"
+                    s:ds=""
+                    s:id="{E7BB75D8-6C60-516D-97C4-BE239DF673CF}"
+                    s:par=""
+                    s:ph="hp-main"
+                    s:ccb="Clear on publish" />
+                </d>
+              </r>
+          - ID: "3714a0a6-c655-4136-97ff-b03268f5ebd2"
+            Hint: openGraphTitle
+            Value: "custom-route-type"
+          - ID: "86a025eb-7608-435c-a904-6e26dff88624"
+            Hint: headline
+            Value: custom page headline
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "b346be9a-c254-402e-b81f-ae16e824768b"
+          - ID: "ac1da9d9-c87f-40fb-8acc-aeaf126df8e5"
+            Hint: pageMetaTitle
+            Value: Custom Route Type
+          - ID: "ce70bdbc-e062-415c-b878-c90758e8c542"
+            Hint: author
+            Value: custom page author

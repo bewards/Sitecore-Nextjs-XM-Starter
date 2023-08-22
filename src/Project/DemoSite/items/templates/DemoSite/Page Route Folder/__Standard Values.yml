@@ -1,0 +1,36 @@
+﻿---
+ID: "a90c753b-6a0a-4064-bf99-19ed3a1f371e"
+Parent: "2fad270e-01f9-4ea2-bead-fca6fe74da18"
+Template: "2fad270e-01f9-4ea2-bead-fca6fe74da18"
+Path: /sitecore/templates/Project/DemoSite/Page Route Folder/__Standard Values
+SharedFields:
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: |
+      {9AE2795D-DB8A-486F-8D67-C7F78C6A55B9}
+      {3AC7734B-4846-499C-906C-EE4835F04721}
+  - ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+    Hint: __Enable item fallback
+    Value: 1
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230718T185755Z
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c8b3574a-bdfc-4c69-8f84-a73272413286"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230718T185755Z

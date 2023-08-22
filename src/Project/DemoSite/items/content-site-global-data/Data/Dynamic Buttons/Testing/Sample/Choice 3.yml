@@ -1,0 +1,19 @@
+﻿---
+ID: "825f1b3e-3998-4473-a444-9ba193acf8c2"
+Parent: "9e7174bd-d0a4-4365-86c6-ea8c7a2c5e2b"
+Template: "9c46baf3-8f0b-4c17-a79f-b103c51f23be"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Dynamic Buttons/Testing/Sample/Choice 3
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "2efe6884-aeb6-4f29-8508-6424e683df3f"
+            Hint: choiceText
+            Value: Choice 3
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "dffeed72-3c0e-4b6c-8374-bb3d3b82683d"
+          - ID: "d80415ab-ffe9-4b56-98cc-d0970ae6481f"
+            Hint: linkLocation
+            Value:

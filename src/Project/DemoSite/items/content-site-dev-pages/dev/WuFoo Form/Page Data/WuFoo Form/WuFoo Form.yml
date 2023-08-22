@@ -1,0 +1,26 @@
+﻿---
+ID: "8f5ff743-e5b1-448c-bc7a-e37435d8d100"
+Parent: "25d92f98-e8d5-4a90-ba44-769d16e0b0bd"
+Template: "8ea69dc2-e752-4496-8194-43cd24dea7b2"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/WuFoo Form/Page Data/WuFoo Form/WuFoo Form
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "188fe816-ff21-4db0-9861-0d3a2475abc8"
+            Hint: formId
+            Value: mywl8z60j79d0h
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230817T144123Z
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "93831e06-0eab-4a16-971a-28134e9e96d9"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230817T144433Z

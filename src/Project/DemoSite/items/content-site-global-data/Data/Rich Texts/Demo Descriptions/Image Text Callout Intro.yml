@@ -1,0 +1,29 @@
+﻿---
+ID: "5349251f-33d7-4778-a26d-9076ba79f5d7"
+Parent: "ef6d7523-5022-4915-9791-239ff25ececf"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Demo Descriptions/Image Text Callout Intro
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1 style="text-align: center;">Image Text Callout</h1>
+              <p>Image Text callout is Feature Component. This component creates 2 column on page which allows to set content in one column and image in other. Content editor needs to set following parameters<span style="background-color: var(--bs-body-bg); color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);">&nbsp;</span></p>
+              <ul>
+                  <li><strong mlp="18" style="color: rgba(0, 0, 0, 0.9);"><em mlp="19">Title</em></strong><span style="color: rgba(0, 0, 0, 0.9);">= Title of Content</span></li>
+                  <li><strong mlp="21" style="color: rgba(0, 0, 0, 0.9);"><em mlp="22">Title heading level</em></strong><span style="color: rgba(0, 0, 0, 0.9);">&nbsp;=allows to set heading as H1, H2, H3, H4 and H5 and defaulted to H2</span></li>
+                  <li><strong mlp="24" style="color: rgba(0, 0, 0, 0.9);"><em mlp="25">Link</em></strong><span style="color: rgba(0, 0, 0, 0.9);">= Link information</span></li>
+                  <li><strong mlp="27" style="color: rgba(0, 0, 0, 0.9);"><em mlp="28">Link mode</em></strong><span style="color: rgba(0, 0, 0, 0.9);">&nbsp;=allows to set link as default link, link with arrow and button</span></li>
+                  <li><strong mlp="30" style="color: rgba(0, 0, 0, 0.9);"><em mlp="31">Image direction</em></strong><span style="color: rgba(0, 0, 0, 0.9);">&nbsp;=decides the placement of image either on left or right column and defaulted to left.</span></li>
+                  <li><strong mlp="33" style="color: rgba(0, 0, 0, 0.9);"><em mlp="34">Content</em></strong><span style="color: rgba(0, 0, 0, 0.9);">&nbsp;= allows to set richtext content</span></li>
+                  <li><strong mlp="36" style="color: rgba(0, 0, 0, 0.9);"><em mlp="37">Presentation mode</em></strong><span style="color: rgba(0, 0, 0, 0.9);">&nbsp;=divides the screen into 50 50, 30 70 and 70 30 and defaulted to 50 50</span></li>
+                  <li><strong mlp="39" style="color: rgba(0, 0, 0, 0.9);"><em mlp="40">Image</em></strong><span style="color: rgba(0, 0, 0, 0.9);">&nbsp;=Allows to set images for mobile, tablet, desktop </span></li>
+                  <li><strong mlp="48" style="color: rgba(0, 0, 0, 0.9);"><em mlp="49">horizontal Border Mode</em></strong><span style="color: rgba(0, 0, 0, 0.9);">&nbsp;= allows to add HR line top, bottom and both</span></li>
+              </ul>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "715f8b16-d9c9-4548-827b-84f7870782fe"

@@ -1,0 +1,33 @@
+﻿---
+ID: "8e326174-bf6a-44f8-929f-c74e8284858f"
+Parent: "4ee3fe0b-6950-46e1-8597-face3434ab30"
+Template: "3db1f77d-8463-4f9b-af91-e5d7c47f92bb"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Footer/Page Data/Footer/Footer Section Three/Column Four/Footer Apps
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 200
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0ae505c5-b70f-4b9b-9d7b-300a787ab8df"
+            Hint: googlePlayImage
+            Value: |
+              <image mediaid="{E296BB36-6E5D-456E-9FBF-8D760D3E393F}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "ffecb13c-5d61-474c-b7bd-6d742d734034"
+          - ID: "b0629ef6-c60f-4551-8741-e3b92c1d7c70"
+            Hint: appStoreLink
+            Value: |
+              <link linktype="external" url="https://apps.apple.com" anchor="" title="Download our app from the Apple Store." target="_blank" />
+          - ID: "c2098f9a-2be9-4b11-958c-547023a31b23"
+            Hint: googlePlayLink
+            Value: |
+              <link linktype="external" url="https://play.google.com/store" anchor="" title="Download our app from Google Play." target="" />
+          - ID: "ffb2ffd4-32ad-463a-8619-c6cc2e96c7f2"
+            Hint: appStoreImage
+            Value: |
+              <image mediaid="{A727B1D1-85A1-4696-B19F-06C1D60F0701}" />

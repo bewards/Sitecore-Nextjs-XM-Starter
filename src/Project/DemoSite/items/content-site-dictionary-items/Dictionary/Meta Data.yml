@@ -1,0 +1,17 @@
+﻿---
+ID: "64fdf2a6-5fb5-4360-afeb-f322ab734b25"
+Parent: "3e69cc9b-938d-48ff-874a-417d2dbcdec0"
+Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Dictionary/Meta Data
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "7b3458fa-6f95-43a1-ae3f-c3be29705d79"

@@ -1,0 +1,23 @@
+﻿---
+ID: "4db1d1af-6be3-4b79-b929-19772f109680"
+Parent: "cdf965f6-9794-48d8-a369-d2de60485915"
+Template: "773bae1d-7de0-45f7-bf0b-9a9dedd48507"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Image Type Icon Centered/Page Data/Standard Page Banner Folder
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230808T125237Z
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "6405d90f-859c-460c-a26d-263440391148"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230808T125237Z

@@ -1,0 +1,33 @@
+﻿---
+ID: "0c804070-2290-4206-9c28-c367e36a7c6d"
+Parent: "3ab5b1f9-9314-4d58-ac32-a1df8a2254ee"
+Template: "3ab5b1f9-9314-4d58-ac32-a1df8a2254ee"
+Path: /sitecore/templates/Feature/DemoSite/Basic Content/FAQ/FaqSection/__Standard Values
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: /~/icon/applications/32x32/question_and_answer.png
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: "{F327A842-1AAB-4739-922F-D88030DD93E9}"
+  - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+    Hint: __Default workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "85878f98-9bf5-4f67-95f6-2ea614b5664b"
+            Hint: titleHeadingLevel
+            Value: H2
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "978527a9-48aa-4ba9-b864-fb38a04c42cf"
+          - ID: "b92d25f5-eefb-4304-a0fb-5563d2cedd6c"
+            Hint: faqHeadingLevel
+            Value: H3

@@ -1,0 +1,28 @@
+﻿---
+ID: "7edf32ed-2922-4ca0-8cab-1e8f977e1027"
+Parent: "16166f36-14ad-41aa-ac82-8ffea010ae6b"
+Template: "a473cbd2-4e48-41b3-8b1b-5695daf90b5c"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Full/Toolbar 3/Font Name
+BranchID: "b9ed3ccb-9ec5-4c8c-825b-3dbc2eb0e676"
+SharedFields:
+- ID: "8d4f1b9f-d46b-4842-845d-4a3795da1c0b"
+  Hint: Click
+  Value: FontName
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 40
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd2eedf0-f35b-4099-8ae6-5c419159d79f"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125628

@@ -1,0 +1,20 @@
+﻿---
+ID: "25632724-9a94-4634-a5e5-63427e1e117c"
+Parent: "6bf39a0c-2b37-4ecb-912e-5922fe275c7e"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/CSSBackgroundColors/Standard Page Banner/Purple 60
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 0
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: "bg-purple-60 text-white"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "264ad90c-e5fe-4f33-905d-6791c2583e05"

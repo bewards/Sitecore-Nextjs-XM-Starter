@@ -1,0 +1,31 @@
+﻿---
+ID: "68e6edfd-4d10-550b-9b25-b2c8f9f93e26"
+Parent: "1b439dd3-0318-5698-ab08-8069c56d545f"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/DemoSite/jss-main"
+SharedFields:
+  - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+    Hint: Placeholder Key
+    Value: "hp-main"
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 300
+  - ID: "e391b526-d0c5-439d-803e-17512eae6222"
+    Hint: Allowed Controls
+    Value:
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: Main
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "cb68498b-43b1-4e41-ae0b-c04e1d20fe82"

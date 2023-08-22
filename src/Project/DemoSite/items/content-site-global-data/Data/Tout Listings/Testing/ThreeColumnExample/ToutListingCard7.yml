@@ -1,0 +1,58 @@
+﻿---
+ID: "3c84e0e6-ff63-4060-b190-418add71ed9e"
+Parent: "476521df-d2a1-4b24-a514-1c0666da99ad"
+Template: "0ae5c452-7ca0-49c6-9b69-8ef75e95384c"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Tout Listings/Testing/ThreeColumnExample/ToutListingCard7
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 600
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+            Hint: __Lock
+            Value: <r />
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230727T135405Z
+          - ID: "5025d0c3-2b74-4ea0-9cd9-4f95f4353c0a"
+            Hint: buttonLinkMode
+            Value: "{9374D14E-A968-4B18-94E4-52E6BCFAF109}"
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "77ca938d-31cf-457d-827d-107f91bc059a"
+            Hint: arrowLink
+            Value: |
+              <link text="Home" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2e5f18d7-0bc1-499c-956e-5a64e1f73c01"
+          - ID: "8d143174-5d94-44cd-a4fb-27e586316613"
+            Hint: buttonLink
+            Value: |
+              <link text="Home" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "c9fd82cc-ee32-4c18-bb31-0496c77c605e"
+            Hint: image
+            Value: |
+              <image mediaid="{0839EAE4-F6C3-4B42-8706-E19E073ECED5}" alt="tout" height="" width="" hspace="" vspace="" ></image>
+          - ID: "cf4ea6f0-159a-4f19-89db-3f254354fd10"
+            Hint: titleLevel
+            Value: "{9F06C920-7BCB-4F11-9ECE-26F2DBE9EA09}"
+          - ID: "d236e294-2dcc-4cbd-8639-bf26e4eb77df"
+            Hint: description
+            Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget nullam non nisi est sit amet facilisis magna.
+          - ID: "d28ff2e6-e13f-4f05-ba59-b0bf3ec2d54a"
+            Hint: title
+            Value: Full card
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230727T135405Z

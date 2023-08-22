@@ -1,0 +1,17 @@
+﻿---
+ID: "4ca8e58d-d0b4-4bd7-ab01-887eeb8ba6cd"
+Parent: "d86ea4cb-4a36-4080-a123-88dc30b9659c"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Branches/Project/DemoSite/Header/Header with Primary Nav and Utility Links
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "59e24565-f851-4ff6-926c-46c6421efe1f"

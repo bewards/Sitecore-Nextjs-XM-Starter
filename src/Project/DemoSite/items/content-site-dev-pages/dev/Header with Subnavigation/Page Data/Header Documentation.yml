@@ -1,0 +1,47 @@
+﻿---
+ID: "fbafa4ac-c58a-4bb5-8600-75d30df30250"
+Parent: "fb237326-3b7a-4382-abbb-b2e284e263fb"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Header with Subnavigation/Page Data/Header Documentation
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1>Sub-navigation Links</h1>
+              <p>Content authors can extend the navigation options for visitors by creating a sub-navigation item under a primary navigation section. Once created, the sub-navigation can be separated into multiple sections consisting of a link-able header and any number of links.</p>
+              <p style="text-align: center;"><img alt="Screenshot of a sub-navigation menu on desktop." src="-/media/102C18DFD2774E208DE11A64E334E31D.ashx?h=310&amp;w=600" style="height: 310px; width: 600px; margin: 12px;" /></p>
+              <p>
+              On mobile, each sub-navigation menu will condense down into a single column menu, that can be opened by clicking on or tabbing to the corresponding navigation section title. Closing the sub-navigation is done by clicking the back button or tabbing through or back to another navigation section title.</p>
+              <p style="text-align: center;"><img alt="Screenshot of navigation menu with sub-navigation on mobile." src="-/media/B18B4545803F4C7E9C4F60E5F18DEF71.ashx?h=508&amp;w=250" style="width: 250px; height: 508px; margin: 12px; vertical-align: top;" /><img alt="Screenshot of open sub-navigation on mobile." src="-/media/BA791C40E96A4EF38A636E8D7D4E8340.ashx?h=488&amp;w=250" style="width: 250px; height: 488px; margin: 12px; vertical-align: top;" /></p>
+              <h2>Primary Navigation Menu Button Template</h2>
+              <p>To create a sub-navigation content authors need to insert a&nbsp;<em>Primary Navigation Menu Button</em>&nbsp;item underneath the&nbsp;<em>Primary Navigation&nbsp;</em>item that need the sub-navigation, and then insert a number of&nbsp;<em>Subnavigation Link</em>&nbsp;items.</p>
+              <p style="text-align: center;"><img alt="Screenshot of a sample header with new primary navigation menu button." src="-/media/F7F404B11427481D857A5AD29F0684D4.ashx?h=99&amp;w=250" style="width: 250px; height: 99px; vertical-align: top; margin: 12px;" /></p>
+              <p>The&nbsp;<em>Title&nbsp;</em>property is the text that will appear within the primary navigation bar, this property does allow content authors to use inline HTML element such as strong and em. While the&nbsp;<em>Page Link</em>&nbsp;property is page this menu item represents or associated with. This page is what will be used to the determine if the current page is a sub-page of this menu item so it can be appropriately marked.&nbsp;</p>
+              <p style="text-align: center;"><span style="background-color: var(--bs-body-bg); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align); font-family: var(--bs-body-font-family); color: var(--bs-body-color);"></span></p>
+              <h2>Sub-navigation Link Template</h2>
+              <p>To add links to a sub-navigation section content authors need to insert a <em>Subnavigation Link</em>&nbsp;template underneath the <em>Subnavigation Section&nbsp;</em>template they want to include the link under. The&nbsp;<em>Link Text</em>&nbsp;property is the text that will appear in the sub-navigation, and inline HTML is supported. The&nbsp;<em>Link</em>&nbsp;property is the page or URL that visitors will go to when they click the link. The&nbsp;<em>Lang Attribute Value</em>&nbsp;is the language of the link text.&nbsp;</p>
+              <p style="text-align: center;"><img alt="Screenshot of a Subnavigation Link template" src="-/media/05555D23B14548B6A5DFAFBFD7D0E63B.ashx?h=213&amp;w=600" style="height: 213px; width: 600px; margin: 12px;" /></p>
+              <h2 style="text-align: left;">Sub-navigation Back Dictionary Item</h2>
+              <p style="text-align: left;">The text of the&nbsp;<em>Back</em>&nbsp;button at the top of any sub-navigation menu on mobile screens is pulled from the&nbsp;<em>Subnav Back Button&nbsp;</em>dictionary item. Allowing content authors to change the phrase at any time and to create different versions as the site expands to different languages.</p>
+              <p style="text-align: center;"><img alt="Screenshot of the Subnavigation Back Btn dictionary item." src="-/media/E350539BA1174A96B828047FEF22E17F.ashx?h=348&amp;w=600" style="height: 348px; width: 600px; margin: 12px;" /></p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "76695209-7c72-4096-8772-45aa262ccb93"
+  - Language: "es-ES"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: "Spanish!"
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "6c197209-1d6c-4fe7-99d0-2fda0b114d60"

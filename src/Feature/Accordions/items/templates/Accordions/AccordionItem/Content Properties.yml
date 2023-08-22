@@ -1,0 +1,17 @@
+﻿---
+ID: "011e81c3-11d9-4b16-9175-5fa2e3026b3b"
+Parent: "e0315da6-e681-48f8-a8f1-86e7828d4130"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/DemoSite/Accordions/AccordionItem/Content Properties
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2cabb405-07c3-4ca3-9ac1-9b61e135b3aa"

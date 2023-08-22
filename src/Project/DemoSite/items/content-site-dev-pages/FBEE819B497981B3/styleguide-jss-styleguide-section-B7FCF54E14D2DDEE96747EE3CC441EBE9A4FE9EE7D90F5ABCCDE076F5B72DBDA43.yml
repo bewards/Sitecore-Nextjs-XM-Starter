@@ -1,0 +1,39 @@
+﻿---
+ID: "92049b15-3ba2-565d-b06a-b7f9d6554703"
+Parent: "ed20e49c-fd6a-515b-8a8f-cb9b4ea7efeb"
+Template: "57d23d36-951f-5885-abe5-fa7c086120e2"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/styleguide/Page Data/styleguide-jss-styleguide-section-B7FCF54E14D2DDEE96747EE3CC441EBE9A4FE9EE7D90F5ABCCDE076F5B72DBDA43"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: "Styleguide-FieldUsage-Link-9"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04d46078-11b7-5878-96bb-7d762753b405"
+            Hint: heading
+            Value: General Link
+          - ID: "212d1e4b-2a81-5ae1-a8f6-fee4b2fbe326"
+            Hint: description
+            Value: <p>A <em>General Link</em> is a field that represents an <code>&lt;a&gt;</code> tag.</p>
+          - ID: "2ca49684-b28d-504e-aa9f-825ec8c2434a"
+            Hint: externalLink
+            Value: |
+              <link linktype="external" text="Link to Sitecore" url="https://www.sitecore.com" />
+          - ID: "5ac3592c-ca44-58d9-8d7f-4d1ab20fdc55"
+            Hint: internalLink
+            Value: |
+              <link text="Link Description" anchor="LinkAnchor" linktype="internal" class="style-class" title="Alternative Text" target="" querystring="queryStringValue" id="{A6904518-754A-4340-9349-9B773D05AF1A}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "b74ace9f-9c38-4ce5-a657-9e6490d7ca69"
+          - ID: "8e971194-21c5-5e3b-b532-164d12b563a9"
+            Hint: emailLink
+            Value: |
+              <link linktype="mailto" text="Send an Email" url="mailto:foo@bar.com" />
+          - ID: "fd276210-a8a9-5fc9-b5ea-be3c7eacbc62"
+            Hint: paramsLink
+            Value: |
+              <link class="font-weight-bold" target="_blank" title="&lt;a&gt; title attribute" linktype="external" text="Sitecore Dev Site" url="https://dev.sitecore.net" />

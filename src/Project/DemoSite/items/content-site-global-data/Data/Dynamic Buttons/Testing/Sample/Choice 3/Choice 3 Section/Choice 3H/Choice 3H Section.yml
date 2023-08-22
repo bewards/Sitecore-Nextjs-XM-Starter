@@ -1,0 +1,16 @@
+﻿---
+ID: "d193d09c-ff12-4866-ad32-04865c0c1fab"
+Parent: "c9a5eb4e-1e69-4dfd-b8ed-3ea348eab2b7"
+Template: "76106b77-f6ef-4463-abd1-88f91d95ca1a"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Dynamic Buttons/Testing/Sample/Choice 3/Choice 3 Section/Choice 3H/Choice 3H Section
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5054d77f-cb07-4edc-a894-d9ab46a30f75"
+            Hint: sectionTitle
+            Value: Choice 3H Section
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "7d5782ed-0262-4e79-a87c-c7e25b10dbc8"

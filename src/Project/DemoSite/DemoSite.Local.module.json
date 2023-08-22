@@ -1,0 +1,52 @@
+{
+  "namespace": "DemoSite.Content.Local",
+  "references": ["DemoSite.Content"],
+  "tags": ["content"],
+  "items": {
+    "includes": [
+      {
+        "name": "content-site-local-pages",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Home",
+        "scope": "descendantsOnly",
+        "allowedPushOperations": "createUpdateAndDelete",
+        "rules": [
+          {
+            "path": "/dev",
+            "scope": "ignored"
+          },
+          {
+            "path": "/Page Data",
+            "scope": "ignored"
+          },
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "content-site-media-local",
+        "path": "/sitecore/media library/Project/DemoSite/DemoSiteWebsite",
+        "scope": "descendantsOnly",
+        "allowedPushOperations": "createUpdateAndDelete",
+        "rules": [
+          {
+            "path": "/Samples",
+            "scope": "ignored"
+          },
+          {
+            "path": "*",
+            "scope": "itemAndDescendants"
+          }
+        ]
+      },
+      {
+        "name": "local-global-data-alerts",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Data/Alert Banners",
+        "scope": "descendantsOnly",
+        "allowedPushOperations": "createUpdateAndDelete"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+﻿---
+ID: "d2fd6577-9563-41c4-867b-33a8635cb50d"
+Parent: "d370f933-994e-4ab2-90b9-b19a1d1c843e"
+Template: "ca25e0b6-c5a8-47c0-b70c-510a361c1db1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Contact Information/Members
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230724T181057Z
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c507c007-5580-410d-bd7d-29ae22c835e2"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230724T181057Z

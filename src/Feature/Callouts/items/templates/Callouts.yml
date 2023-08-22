@@ -1,0 +1,17 @@
+﻿---
+ID: "d3938942-2ec4-4f65-8d93-d372ef6870f1"
+Parent: "2a7cd3ce-73e0-4c45-9aaa-fd893a65588c"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/DemoSite/Callouts
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "f872cb63-991f-4a0d-9a7d-7e86317665e2"

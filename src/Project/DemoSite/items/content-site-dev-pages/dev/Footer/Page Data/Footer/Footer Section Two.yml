@@ -1,0 +1,13 @@
+﻿---
+ID: "b7723b02-8d34-474b-b252-856ec27b64f4"
+Parent: "4c990c2f-0450-404e-bdd8-534073870bee"
+Template: "d24a15f4-427e-422f-bd90-ac672e3dadb9"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Footer/Page Data/Footer/Footer Section Two
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "ebfe7422-4593-4a7e-b661-ea52b0bbfd15"

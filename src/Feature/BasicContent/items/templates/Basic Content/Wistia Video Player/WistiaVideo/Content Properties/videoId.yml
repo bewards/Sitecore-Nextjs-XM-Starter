@@ -1,0 +1,31 @@
+﻿---
+ID: "80908f74-c269-4836-ab6d-faa51753681f"
+Parent: "6a109690-04f2-4b03-8a21-298f9d95e107"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/DemoSite/Basic Content/Wistia Video Player/WistiaVideo/Content Properties/videoId
+SharedFields:
+  - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+    Hint: Type
+    Value: "Single-Line Text"
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 100
+Languages:
+  - Language: en
+    Fields:
+      - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
+        Hint: Title
+        Value: Video ID
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: Video ID
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3ddcab49-f409-4afa-9472-c3edb56eed28"

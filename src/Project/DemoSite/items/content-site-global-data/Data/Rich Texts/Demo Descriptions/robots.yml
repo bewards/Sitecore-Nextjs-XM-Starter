@@ -1,0 +1,19 @@
+﻿---
+ID: "e039a988-4edf-4c50-8169-e710a1559cf4"
+Parent: "ef6d7523-5022-4915-9791-239ff25ececf"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Demo Descriptions/robots
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1>Robots Meta Directive</h1>
+              <p><span style="color: rgba(0, 0, 0, 0.9); background-color: #ffffff;">Choose which directives to include in the robots meta tag</span></p>
+              <p><img alt="" height="290" width="353" src="-/media/BBAAD25DF1E04388AB18390251EF858B.ashx" /></p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "7dc3431c-6a7d-4a8e-86e4-5599c704a950"

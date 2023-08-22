@@ -1,0 +1,18 @@
+﻿---
+ID: "200334d8-04a9-433a-a5c6-dd0e2352d461"
+Parent: "81c4856f-790d-433a-aa16-b7ab878018f9"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/500 Server Error/Page Data/500 Error Content
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1><span style="color: #771b61;">We're sorry, the page you requested cannot be found</span></h1>
+
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "5827e582-1f6d-432d-bb59-16a7aa834675"

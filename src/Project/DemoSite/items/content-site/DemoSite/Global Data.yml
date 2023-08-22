@@ -1,0 +1,36 @@
+﻿---
+ID: "717cee10-df8c-44b0-85c5-808002be5149"
+Parent: "f61ffb8a-5670-4432-8ef4-3aa5ecf10740"
+Template: "e621b419-6ff2-4728-8f31-6d13715b8968"
+Path: /sitecore/content/DemoSite/Global Data
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: /~/icon/applications/32x32/folder_gear.png
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: "{86C45184-1C9F-4953-B8A1-3E9AD5772FB9}"
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230717T135928Z
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "db810bd7-31f2-470c-a6c9-0148ce2e64c1"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230717T135928Z

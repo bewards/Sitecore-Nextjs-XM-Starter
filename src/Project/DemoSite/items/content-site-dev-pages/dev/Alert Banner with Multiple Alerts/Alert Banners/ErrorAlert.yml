@@ -1,0 +1,25 @@
+﻿---
+ID: "7df1c3ad-3120-4bb7-be53-2a38ac3086c9"
+Parent: "f8c6b525-cc02-452d-9620-13d400dcf08e"
+Template: "0e9d289b-b2c8-4413-87bc-3b7acbfcd23e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Alert Banner with Multiple Alerts/Alert Banners/ErrorAlert
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0873e998-ae64-497e-8a91-26176714a24a"
+            Hint: title
+            Value: Error
+          - ID: "109eae0a-ee73-438f-b7ff-2b5f8180e295"
+            Hint: statusType
+            Value: "{24B9EDE2-5C0B-47DF-9876-44654F37DEEC}"
+          - ID: "3efab781-0e1d-434a-bb7c-dbbcd504c680"
+            Hint: body
+            Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "af5ed49e-091c-43f9-87e8-2dea07d7e727"
+          - ID: "d6d8f731-ef53-4805-a32c-9be90f99aacc"
+            Hint: alertPriority
+            Value: 2

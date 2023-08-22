@@ -1,0 +1,16 @@
+﻿---
+ID: "17a9c12e-007e-4cd1-be4c-ecd2484b3d46"
+Parent: "2a0f086a-979a-4f86-b999-fcb9e96ee063"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Text Style/32_Honeydew
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: honeydew
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "a789a95d-874a-481b-862d-6c97749de27b"

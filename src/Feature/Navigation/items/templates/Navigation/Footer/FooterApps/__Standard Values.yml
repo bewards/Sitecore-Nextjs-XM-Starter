@@ -1,0 +1,27 @@
+﻿---
+ID: "ed83a16a-a4ff-4bac-8bd7-3f1001ae170b"
+Parent: "3db1f77d-8463-4f9b-af91-e5d7c47f92bb"
+Template: "3db1f77d-8463-4f9b-af91-e5d7c47f92bb"
+Path: /sitecore/templates/Feature/DemoSite/Navigation/Footer/FooterApps/__Standard Values
+SharedFields:
+  - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+    Hint: __Default workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+  - ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+    Hint: __Enable item fallback
+    Value: 1
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "7bb93aeb-b9e2-405e-9193-a63536bfe976"
+            Hint: title
+            Value: Download our Mobile App
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "1e67fa8a-ff50-4c4c-8fb8-9d8f7640cf86"

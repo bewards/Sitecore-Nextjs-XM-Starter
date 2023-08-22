@@ -1,0 +1,20 @@
+﻿---
+ID: "9c994ea2-71e8-44dd-b8aa-38c4b3b3c805"
+Parent: "d8c02991-bbd3-4412-bea4-243689991eda"
+Template: "512c2857-ae92-42e3-b88e-0ab0421dbbe4"
+Path: /sitecore/templates/Branches/Project/DemoSite/Header/Header with Subnavigation and Utility Links/$name/Utility Link Section/Utility Link 1
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "23fccd3b-26c1-444c-ab13-4458cea756f1"
+          - ID: "c051d45f-a5c1-46b6-80a3-53c7e67f034e"
+            Hint: linkText
+            Value: Utility Link 1
+          - ID: "c5b9e650-0dd5-4656-9db9-1c6448a041fe"
+            Hint: link
+            Value: |
+              <link linktype="external" url="https://www.google.com" anchor="" target="_blank" />

@@ -1,0 +1,22 @@
+﻿---
+ID: "48e4a035-8900-4f74-960a-626ca94037b0"
+Parent: "a0653471-f534-4e8f-9150-094032b5e136"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Testing/Container 3070 Rendering Parameters
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h5><span style="color: #b82c97;">Rendering Parameters</span></h5>
+              <p><strong>Flip Container Sizes -&nbsp;</strong>By default the left-hand column takes up 30% of the space while the right-hand column occupies the remaining 70%. Checking this parameter will make the left-hand column take up 70% of the space and the right-hand column occupies the remaining 30%.</p>
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "dd1b2a00-9ba2-4bac-a5eb-6784a7a289d5"

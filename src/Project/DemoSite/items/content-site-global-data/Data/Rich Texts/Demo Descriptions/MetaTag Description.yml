@@ -1,0 +1,124 @@
+﻿---
+ID: "87abf05c-076a-479d-b5c1-2b334ce002e4"
+Parent: "ef6d7523-5022-4915-9791-239ff25ececf"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Demo Descriptions/MetaTag Description
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1>Meta Data</h1>
+              <p>Meta tags are placed in the <em>head</em> of the html to be processed by search engines and other clients. If present and unsupported, they are ignored. The meta tags allow content authors to set the preview copy, imagery, and other features for bots and sharing services. This allows content authors to control how a page preview displays on third-party sites.</p>
+              <h2>SEO</h2>
+              <table border="1">
+                  <tbody>
+                      <tr>
+                          <th style="border: 1px solid Black;">Page Meta Title</th>
+                          <td style="border: 1px solid Black;">Title is set explicitly in Sitecore Title element, or falls back to Page Meta Title, or defaults to "<strong>Page</strong>" if previous entries are both blank</td>
+                      </tr>
+                      <tr style="background-color: #DDDDDD;">
+                          <th style="border: 1px solid Black;">Append Site Suffix</th>
+                          <td style="border: 1px solid Black;">If checked, Append Site Suffix will add " | Demo Site" to the end of the page title</td>
+                      </tr>
+                      <tr>
+                          <th style="border: 1px solid Black;">Page Meta Description</th>
+                          <td style="border: 1px solid Black;">Not added to page if left blank</td>
+                      </tr>
+                      <tr style="background-color: #DDDDDD;">
+                          <th style="border: 1px solid Black;">Viewport</th>
+                          <td style="border: 1px solid Black;">Set to "<strong>width=device-width, initial-scale=1.0</strong>". Cannot be changed by content authors</td>
+                      </tr>
+                      <tr>
+                          <th style="border: 1px solid Black;">Page Meta Keywords</th>
+                          <td style="border: 1px solid Black;">Not added to page if left blank</td>
+                      </tr>
+                  </tbody>
+              </table>
+              <p><img height="360" alt="SEO" width="1610" src="-/media/4203F7FC39234C4983FA9745220931DF.ashx" /></p>
+              <h2>OpenGraph</h2>
+              <table border="1">
+                  <tbody>
+                      <tr>
+                          <th style="border: 1px solid Black;">OpenGraph Title</th>
+                          <td style="border: 1px solid Black;">If left blank, default to match Page Meta Title</td>
+                      </tr>
+                      <tr style="background-color: #DDDDDD;">
+                          <th style="border: 1px solid Black;">OpenGraph Description</th>
+                          <td style="border: 1px solid Black;">If left blank, default to match Page Meta Description</td>
+                      </tr>
+                      <tr>
+                          <th style="border: 1px solid Black;">OpenGraph URL</th>
+                          <td style="border: 1px solid Black;">If left blank, default to current page's absolute URL</td>
+                      </tr>
+                      <tr style="background-color: #DDDDDD;">
+                          <th style="border: 1px solid Black;">OpenGraph Image</th>
+                          <td style="border: 1px solid Black;">If left blank, skip meta tag</td>
+                      </tr>
+                      <tr>
+                          <th style="border: 1px solid Black;">OpenGraph Site Name</th>
+                          <td style="border: 1px solid Black;">If left blank, defaults to "<strong>Demo Site</strong>"</td>
+                      </tr>
+                      <tr style="background-color: #DDDDDD;">
+                          <th style="border: 1px solid Black;">OpenGraph Locale</th>
+                          <td style="border: 1px solid Black;">Default is set to "<strong>US_en</strong>"</td>
+                      </tr>
+                      <tr>
+                          <th style="border: 1px solid Black;">Canonical URL</th>
+                          <td style="border: 1px solid Black;">If left blank, default to current page's absolute URL</td>
+                      </tr>
+                  </tbody>
+              </table>
+              <h2><img alt="" height="812" width="1610" src="-/media/F1FB2AA143A946389C1ACD9420B774DA.ashx" /></h2>
+              <h2>Current page settings</h2>
+              <table border="1">
+                  <tbody>
+                      <tr>
+                          <th style="border: 1px solid Black;">SEO Title</th>
+                          <td style="border: 1px solid Black;"><u id="pagetitle"></u></td>
+                      </tr>
+                      <tr style="background-color: #DDDDDD;">
+                          <th style="border: 1px solid Black;">SEO Description</th>
+                          <td style="border: 1px solid Black;"><u id="pagedescription"></u></td>
+                      </tr>
+                      <tr>
+                          <th style="border: 1px solid Black;">SEO Keywords</th>
+                          <td style="border: 1px solid Black;"><u id="pagekeywords"></u></td>
+                      </tr>
+                      <tr style="background-color: #DDDDDD;">
+                          <th style="border: 1px solid Black;">OG Title</th>
+                          <td style="border: 1px solid Black;"><u id="ogtitle"></u></td>
+                      </tr>
+                      <tr>
+                          <th style="border: 1px solid Black;">OG Description</th>
+                          <td style="border: 1px solid Black;"><u id="ogdescription"></u></td>
+                      </tr>
+                      <tr style="background-color: #DDDDDD;">
+                          <th style="border: 1px solid Black;">OG URL</th>
+                          <td style="border: 1px solid Black;"><u id="ogurl"></u></td>
+                      </tr>
+                      <tr>
+                          <th style="border: 1px solid Black;">OG Image</th>
+                          <td style="border: 1px solid Black;"><u id="ogimage"></u></td>
+                      </tr>
+                      <tr style="background-color: #DDDDDD;">
+                          <th style="border: 1px solid Black;">OG Site Name</th>
+                          <td style="border: 1px solid Black;"><u id="ogsitename"></u></td>
+                      </tr>
+                      <tr>
+                          <th style="border: 1px solid Black;">OG Locale</th>
+                          <td style="border: 1px solid Black;"><u id="oglocale"></u></td>
+                      </tr>
+                      <tr style="background-color: #DDDDDD;">
+                          <th style="border: 1px solid Black;">Canonical URL</th>
+                          <td style="border: 1px solid Black;"><u id="canonicalurl"></u></td>
+                      </tr>
+                  </tbody>
+              </table>
+              <br /><br /><br /><br />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "738f7b92-c846-4124-8fa2-b3a6d6c8a364"

@@ -1,0 +1,17 @@
+﻿---
+ID: "93fc6e4c-9119-4c05-b8b5-41446a9bb5fa"
+Parent: "e1dc4ca4-8eef-41f4-b9f8-ae3003246c22"
+Template: "814c1dbb-b118-4511-ba2b-7288ed3d490b"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/SXA/Page List Contents Resolver
+SharedFields:
+- ID: "de218ede-a9ad-4b04-86c5-9ff593ccf39d"
+  Hint: Type
+  Value: Sitecore.XA.Feature.LayoutServices.Integration.Serialization.Renderings.PageListSerializer,Sitecore.XA.Feature.LayoutServices.Integration
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83d0947d-1848-496c-9bca-a9ae5f9d9e83"

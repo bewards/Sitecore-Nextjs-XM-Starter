@@ -1,0 +1,24 @@
+﻿---
+ID: "8d5e0883-6c9e-4567-8b83-e020b910cbea"
+Parent: "c9ebbf4b-e7ea-44d4-b779-7c50f4a50ca4"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/DemoSite/Base Field Types/_CalloutPresentationMode
+SharedFields:
+  - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+    Hint: __Base template
+    Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+  - ID: "f7d48a55-2158-4f02-9356-756654404f73"
+    Hint: __Standard values
+    Value: "{9018A976-8270-472A-BA87-F6298DC26839}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "575c0367-1f49-47b1-a2ca-1aff9cf9c75a"

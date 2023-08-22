@@ -1,0 +1,51 @@
+﻿---
+ID: "3499c9c6-ba92-456d-94db-32e5566801a2"
+Parent: "260ba939-45c1-4649-be2a-b542cb7610e5"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/RTE Styles/Page Data/Rich Texts/Rich Text Full Example
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{0CFB43C5-BA12-4184-ADBE-BA4E5CBDA1E6}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <style>
+                  ul.rte {
+                  display: flex;
+                  flex-direction: column;
+                  gap: 1rem;
+                  list-style-type: none;
+                  padding-inline-start: 0;
+                  }
+              </style>
+              <h2>RTE Styles</h2>
+              <section>
+              <h3>Link Links</h3>
+              <ul class="rte">
+                  <li><a href="https://www.google.com">Link</a></li>
+                  <li><a href="https://www.google.com" class="link--arrow">Link Arrow</a></li>
+                  <li><a href="https://www.google.com" class="link--download">Link Download</a></li>
+                  <li><a href="https://www.google.com" class="link--external">Link External</a></li>
+              </ul>
+              </section>
+              <section>
+              <h3>Button Links</h3>
+              <ul class="rte">
+                  <li><a href="https://www.google.com" class="btn-primary">Button Primary</a></li>
+                  <li><a href="https://www.google.com" class="btn-secondary">Button Secondary</a></li>
+                  <li><a href="https://www.google.com" class="btn-tertiary">Button Tertiary</a></li>
+                  <li><a href="https://www.google.com" class="btn-success">Button Success</a></li>
+                  <li><a href="https://www.google.com" class="btn-warning">Button Warning</a></li>
+                  <li><a href="https://www.google.com" class="btn-danger">Button Danger</a></li>
+              </ul>
+              </section>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "d4830a8b-9815-45ca-9d0d-2500c6ffd574"

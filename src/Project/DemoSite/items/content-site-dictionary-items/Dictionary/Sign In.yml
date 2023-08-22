@@ -1,0 +1,17 @@
+﻿---
+ID: "89a8730e-8f43-4f37-b546-13ed8396a4d8"
+Parent: "3e69cc9b-938d-48ff-874a-417d2dbcdec0"
+Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Dictionary/Sign In
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "344123f2-9c15-4014-a713-7ee61aae0413"

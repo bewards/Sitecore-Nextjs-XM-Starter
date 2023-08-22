@@ -1,0 +1,34 @@
+﻿---
+ID: "24916e95-289b-4320-95aa-913b318e0fea"
+Parent: "22e2f751-6d8b-4b1e-a58d-65aaffcf7652"
+Template: "0ae5c452-7ca0-49c6-9b69-8ef75e95384c"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Tout Card/Page Data/Three Column Tout Listing Folder/Three Column Tout Listing/Tout Listing Card 2
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{2C62529D-8629-4CD2-8368-AFC8C5D9D3C3}"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3a2c66a9-0904-4074-ab5c-f68efc401038"
+          - ID: "8d143174-5d94-44cd-a4fb-27e586316613"
+            Hint: buttonLink
+            Value: |
+              <link text="More About Our Outstanding Service" anchor="" linktype="internal" class="" title="More About Our Outstanding Service" target="|Custom" querystring="" id="{2A0F4ACC-E1A7-4075-BF75-FF6382DF8B9E}" />
+          - ID: "c9fd82cc-ee32-4c18-bb31-0496c77c605e"
+            Hint: image
+            Value: |
+              <image mediaid="{824A4E18-6B4F-4939-BD9E-A4D2BA5F966C}" />
+          - ID: "d236e294-2dcc-4cbd-8639-bf26e4eb77df"
+            Hint: description
+            Value: Our Health Care Concierge team provides efficient, personal service.
+          - ID: "d28ff2e6-e13f-4f05-ba59-b0bf3ec2d54a"
+            Hint: title
+            Value: "Award-winning service"

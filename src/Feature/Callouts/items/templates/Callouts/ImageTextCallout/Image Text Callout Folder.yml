@@ -1,0 +1,27 @@
+﻿---
+ID: "240f8b55-7b4b-4211-b9b3-45dd632c2e45"
+Parent: "3917a9f5-8262-40c6-833d-54659e969e02"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/DemoSite/Callouts/ImageTextCallout/Image Text Callout Folder
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: Office/32x32/folder.png
+  - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+    Hint: __Base template
+    Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+  - ID: "f7d48a55-2158-4f02-9356-756654404f73"
+    Hint: __Standard values
+    Value: "{D32B831A-5647-4D28-9618-CAFB92636005}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "167a4123-5d0a-4467-a60b-f98670a1f8d9"

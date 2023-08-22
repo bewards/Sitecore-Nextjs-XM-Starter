@@ -1,0 +1,48 @@
+﻿---
+ID: "7da91567-b0cb-4fca-b548-6b79762e863f"
+Parent: "efa1376b-fea0-4fcf-b2df-d605a87f82d9"
+Template: "41f24b47-194d-4e26-95b8-c0f1ae00932f"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Responsive Image Sample/Page Data/Responsive Image Sample
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0844385d-5e16-4058-b607-208c320a9aa6"
+            Hint: desktopImage
+            Value: |
+              <image mediaid="{F935DEFB-19AC-4759-A254-972D55004E31}" />
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230719T012102Z
+          - ID: "31e355ea-f1a7-4a0f-9483-e3b8bd007b4b"
+            Hint: backgroundColor
+            Value: "{93FBC1CA-DE9A-4305-B673-6128744D542E}"
+          - ID: "4e936db5-802d-4b36-b5ed-55cda84b109f"
+            Hint: tabletImage
+            Value: |
+              <image mediaid="{AC7300C8-BF4F-457C-A18D-F7ABEF450BE7}" />
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "73256c28-5a1b-473a-be46-701f2b0d362b"
+            Hint: testTextField
+            Value: Displaying Usage of the Responsive Image Sample Component
+          - ID: "810f98b5-d45f-43b7-b1c4-eb46dd58dc8a"
+            Hint: mobileImage
+            Value: |
+              <image mediaid="{D5ACBADC-11E3-4CAB-8347-8719363EA7E3}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c1cd3e42-c967-44d2-81b8-2692e24d1278"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "c162a9be-4303-4b35-8d4f-bf1f6af9a821"
+            Hint: imageType
+            Value: "{2BF4BB3F-7C8D-40C4-83E9-A8574F904BA2}"
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230719T012102Z

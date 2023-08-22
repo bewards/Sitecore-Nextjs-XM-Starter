@@ -1,0 +1,13 @@
+﻿---
+ID: "e424ccb3-a45f-49de-a41c-364e659a04cb"
+Parent: "fdb38fa3-3969-45ba-b835-e0bb2b305a80"
+Template: "3778ed4a-0a91-4291-b511-7ac6d8cabef4"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header Home and Translation Links/Primary Navigation
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "8f6b2823-d3a3-4f41-96fe-b0d49764e1f8"

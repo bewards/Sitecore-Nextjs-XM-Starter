@@ -1,0 +1,11 @@
+/*
+* This main scss is only used to generate styles required by the Sitecore RTE profiles in content editor for authors
+**   - this bundle should be compiled manually and placed into "/richtext/default.css"
+*
+*   To compile, we can use the next.js application temporarily by:
+**   - changing the scss import in _app.tsx to: import 'assets/sitecore-rte-main.scss';
+**   - then running the project as normal to generate the css file
+*/
+
+@import '@sass/vendors/bootstrap/custom-for-sitecore-rte.scss';
+@import '@sass/base'; // sxa styling not needed, so we import base styling only

@@ -1,0 +1,24 @@
+﻿---
+ID: "5e7f49d0-2019-4221-b6f5-b183e199dcd4"
+Parent: "e480469a-250f-4386-9bfc-ede6764bcbe5"
+Template: "c5d60182-5b2d-44ae-89dd-1c60042a0ae6"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with Primary Nav and Subnavigation/Primary Navigation/For Individuals and Family
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: "-100"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "52cb9a62-a550-48dc-a07d-796e6ea762e1"
+            Hint: pageLink
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{575068B6-0554-4B60-A622-7D474E6AFEAC}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "d8e2ed85-544e-482d-98f1-08d3d442e049"
+          - ID: "ef246b46-c1fe-4967-9359-b23889a79e41"
+            Hint: title
+            Value: For Individuals & Families

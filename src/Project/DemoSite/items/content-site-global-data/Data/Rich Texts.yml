@@ -1,0 +1,17 @@
+﻿---
+ID: "8ce31243-2894-484a-a654-cfe15d12e8e1"
+Parent: "181302b4-ceef-4f97-822c-efc83aaf712c"
+Template: "ca25e0b6-c5a8-47c0-b70c-510a361c1db1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "1b1149b5-be12-4942-ad2a-fc6615216d34"

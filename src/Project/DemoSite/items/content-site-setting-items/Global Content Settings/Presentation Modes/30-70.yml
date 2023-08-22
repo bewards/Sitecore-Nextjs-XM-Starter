@@ -1,0 +1,20 @@
+﻿---
+ID: "27db2d15-ee17-4dbc-bed4-b5331e09d7c1"
+Parent: "5b1de583-8753-49d9-8c0b-90421b42a249"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: "/sitecore/content/DemoSite/Global Content Settings/Presentation Modes/30-70"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: "30-70"
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "a5428dce-4ffe-473e-9940-b6483f8aa397"

@@ -1,0 +1,13 @@
+﻿---
+ID: "e7a4ed3d-4910-4a52-a244-0a147152778c"
+Parent: "181302b4-ceef-4f97-822c-efc83aaf712c"
+Template: "3e2e025b-ed62-4735-89fe-a83f9b24afb1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Accordions
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "5027b161-4bd1-4752-a705-e03b38506e92"

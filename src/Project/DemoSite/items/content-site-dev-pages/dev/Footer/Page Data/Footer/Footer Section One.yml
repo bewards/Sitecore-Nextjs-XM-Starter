@@ -1,0 +1,16 @@
+﻿---
+ID: "f0b81300-4427-499d-9625-9a7ec5e9caa4"
+Parent: "4c990c2f-0450-404e-bdd8-534073870bee"
+Template: "d24a15f4-427e-422f-bd90-ac672e3dadb9"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Footer/Page Data/Footer/Footer Section One
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0483da10-924f-46a5-97da-610247cccf52"
+            Hint: title
+            Value: This page overrides the default Footer with a <em>page specific</em> Footer
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "69b87dc2-e039-40f5-90c8-2bf4a3ca675e"

@@ -1,0 +1,20 @@
+﻿---
+ID: "cf95378e-5ce6-485c-8f9e-1b92e4e24453"
+Parent: "5e7f49d0-2019-4221-b6f5-b183e199dcd4"
+Template: "abcbc0b5-cb96-48a3-8a06-806680ec9055"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with Primary Nav and Subnavigation/Primary Navigation/For Individuals and Family/For Individuals and Family
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "376371e7-8227-4180-8012-9f61a98e067b"
+            Hint: title
+            Value: For Individual & Family Coverage
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "ca251e41-ec6c-41c0-8384-2ddef674a0f9"
+          - ID: "bdcd2014-2a50-482f-a130-a0ab8158021c"
+            Hint: link
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A3BC0AB0-AF6D-47E2-A957-0262B037BC0A}" />

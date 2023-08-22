@@ -1,0 +1,20 @@
+﻿---
+ID: "bf48de46-bfdc-44bc-b261-04e5ac25e681"
+Parent: "326d2dc1-8467-4e84-82df-d9f2ec03929c"
+Template: "512c2857-ae92-42e3-b88e-0ab0421dbbe4"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Wistia Header/Utility Link Section/Sign in
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "94fc0274-39ec-43c7-a885-0c094534fccd"
+          - ID: "c051d45f-a5c1-46b6-80a3-53c7e67f034e"
+            Hint: linkText
+            Value: Sign in/Register
+          - ID: "c5b9e650-0dd5-4656-9db9-1c6448a041fe"
+            Hint: link
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="Alt text" target="_blank" querystring="" id="{258B9285-7EA1-41A7-9D92-5EA67C2AF900}" />

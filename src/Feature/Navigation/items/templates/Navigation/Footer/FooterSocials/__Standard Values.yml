@@ -1,0 +1,27 @@
+﻿---
+ID: "ad16de3d-97ad-45e1-901f-6cb32e457ceb"
+Parent: "c25f4ddc-c339-44f3-954b-600fba3e6add"
+Template: "c25f4ddc-c339-44f3-954b-600fba3e6add"
+Path: /sitecore/templates/Feature/DemoSite/Navigation/Footer/FooterSocials/__Standard Values
+SharedFields:
+  - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+    Hint: __Default workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+  - ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+    Hint: __Enable item fallback
+    Value: 1
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "428737f1-b1c6-431e-bbe5-1937d58a3f53"
+            Hint: title
+            Value: Connect with Us
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2aa671d2-f6d3-4c10-b079-10de53143614"

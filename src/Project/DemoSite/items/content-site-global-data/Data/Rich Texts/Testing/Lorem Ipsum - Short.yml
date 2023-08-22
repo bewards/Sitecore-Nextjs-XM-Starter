@@ -1,0 +1,20 @@
+﻿---
+ID: "42ed59b0-dc72-4d45-98e3-113a144ef80f"
+Parent: "a0653471-f534-4e8f-9150-094032b5e136"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Testing/Lorem Ipsum - Short"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet porta risus, gravida mattis felis. Donec non pretium ante. Morbi aliquet neque et ex venenatis, ut pretium magna tristique. Donec placerat justo ex, non dictum mauris auctor a. Nam tempor id diam eget consequat. Duis ut neque in lectus molestie porttitor. Nullam ac eros quis felis finibus finibus. Sed a libero lacus. Suspendisse at vehicula sem.</p>
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "85edd661-f122-4687-976e-a4f906542aa3"

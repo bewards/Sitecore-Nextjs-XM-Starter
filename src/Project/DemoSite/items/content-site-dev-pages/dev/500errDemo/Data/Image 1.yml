@@ -1,0 +1,24 @@
+﻿---
+ID: "5bc5f244-4120-469f-a95c-477779079bba"
+Parent: "70d1f0a8-275f-435f-a98d-2918b726ec46"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/500errDemo/Data/Image 1
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "4d7b05d0-0300-486f-8f87-57de34a9b793"
+            Hint: ImageCaption
+            Value: 500 Error Mobile
+          - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+            Hint: Image
+            Value: |
+              <image mediaid="{60703258-FFEE-4C41-9707-CFA3DBF558B4}" alt="500 Error Mobile" height="" width="" hspace="" vspace="" />
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "77ce7793-0096-411e-9766-8eacd89c2595"

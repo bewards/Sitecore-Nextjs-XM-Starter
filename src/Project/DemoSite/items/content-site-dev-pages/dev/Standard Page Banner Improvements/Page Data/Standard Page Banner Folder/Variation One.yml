@@ -1,0 +1,57 @@
+﻿---
+ID: "db147ced-690c-4af4-a7e1-903560821338"
+Parent: "156de091-d3c3-4e01-b9b1-244cb0e8c21e"
+Template: "f5bc8b22-44dd-4e69-a9d2-214d67e0eef8"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Standard Page Banner Improvements/Page Data/Standard Page Banner Folder/Variation One
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0844385d-5e16-4058-b607-208c320a9aa6"
+            Hint: desktopImage
+            Value:
+          - ID: "238aeaa5-4358-480e-9721-76049a107f8e"
+            Hint: bannerSubtitleTextStyle
+            Value: "{BE90E2DB-4CBB-48A6-B4D7-BA3E1D994F7E}"
+          - ID: "4e936db5-802d-4b36-b5ed-55cda84b109f"
+            Hint: tabletImage
+            Value:
+          - ID: "4feb9659-28ae-48b0-bfa1-6b249295054e"
+            Hint: bannerLinkText
+            Value: Learn More
+          - ID: "5edc704b-2a43-443f-9bc1-2ed1807b17e1"
+            Hint: bannerSubtitle
+            Value: Banner Subtitle Kiwi H4
+          - ID: "670e9582-9a2f-46c2-ad7f-ba066e8e1837"
+            Hint: bannerBody
+            Value: "Demo Site is dedicated to improving the health and well-being of our members as well as the greater community. We're owned by UPMC, making us part of an integrated health care delivery system with one of the nation's top-ranked health systems. We partner not only with UPMC, but also with community network providers, to provide the highest quality care to our members."
+          - ID: "77dee9aa-8497-44fa-baa8-8caa3f9920de"
+            Hint: bannerLinkDestination
+            Value: |
+              <link text="Learn More" linktype="external" url="https://www.google.com" anchor="" target="_blank" />
+          - ID: "7d649af9-1d53-4e20-a1fe-ab2c10afb4d2"
+            Hint: bannerTitle
+            Value: Banner Title Honeydew H3
+          - ID: "810f98b5-d45f-43b7-b1c4-eb46dd58dc8a"
+            Hint: mobileImage
+            Value: |
+              <image mediaid="{5F82F813-7255-4B07-A4E6-C9B6CF803389}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "bf39c216-2312-49ce-8062-eda8d37698a6"
+          - ID: "925a2bdc-0431-460f-916d-fde3e5da267a"
+            Hint: bannerSubtitleHeadingLevel
+            Value: "{DADC67B2-13B5-4DDF-8175-7D469B403D2B}"
+          - ID: "9b84f6d5-dad9-48ba-82b6-6940411d1016"
+            Hint: bannerTitleTextStyle
+            Value: "{17A9C12E-007E-4CD1-BE4C-ECD2484B3D46}"
+          - ID: "ae3d5c91-6c14-44c3-8c57-833c215f8ff4"
+            Hint: bannerTitleHeadingLevel
+            Value: "{4A1B68EF-89C6-4DF4-A4EF-5899A164E5F8}"
+          - ID: "e62eaf1b-0a98-4070-bb65-f74bfc0e58fb"
+            Hint: bannerLinkMode
+            Value: "{9D59BAC2-9346-4DD9-BED6-E43DC523F5FE}"
+          - ID: "fc6c56b8-c20a-40d8-88f4-0ce2091d9e0e"
+            Hint: bannerLinkIcon
+            Value: "{2893DCCF-930F-485B-9FFE-0052F0F16F48}"

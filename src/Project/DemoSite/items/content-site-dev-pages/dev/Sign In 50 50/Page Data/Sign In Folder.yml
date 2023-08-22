@@ -1,0 +1,23 @@
+﻿---
+ID: "fa8da256-7629-4316-8a59-b96e0028e290"
+Parent: "7dc5892a-12ec-4628-a153-f66378056425"
+Template: "400d1be6-52ad-4174-bb3a-7155c77aeb52"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Sign In 50 50/Page Data/Sign In Folder
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230711T185242Z
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "27b4d640-4d0b-4975-9c14-ef642d28b787"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230711T185242Z

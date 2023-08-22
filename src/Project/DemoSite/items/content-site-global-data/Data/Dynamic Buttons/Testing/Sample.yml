@@ -1,0 +1,16 @@
+﻿---
+ID: "9e7174bd-d0a4-4365-86c6-ea8c7a2c5e2b"
+Parent: "6ba7ce83-fe6c-4f7e-a682-b74329801aeb"
+Template: "77475af9-5f68-49f1-ba92-4ffda685603d"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Dynamic Buttons/Testing/Sample
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "29c7b53a-efa9-449b-84f7-d07a39fd556c"
+            Hint: initialTitle
+            Value: Sample Dynamic Buttons
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "03ac69e0-df7a-4eae-b79d-6e48d6858e6c"

@@ -1,0 +1,23 @@
+﻿---
+ID: "d32b831a-5647-4d28-9618-cafb92636005"
+Parent: "240f8b55-7b4b-4211-b9b3-45dd632c2e45"
+Template: "240f8b55-7b4b-4211-b9b3-45dd632c2e45"
+Path: /sitecore/templates/Feature/DemoSite/Callouts/ImageTextCallout/Image Text Callout Folder/__Standard Values
+SharedFields:
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: |
+      {240F8B55-7B4B-4211-B9B3-45DD632C2E45}
+      {B01424A2-3DE2-4D52-9176-1E009CBD85C1}
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "24ab4ece-d39f-48d2-b345-967720995308"

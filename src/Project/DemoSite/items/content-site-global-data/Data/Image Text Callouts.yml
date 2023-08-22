@@ -1,0 +1,13 @@
+﻿---
+ID: "691a1e7e-585e-4883-9ff2-e735930a4dff"
+Parent: "181302b4-ceef-4f97-822c-efc83aaf712c"
+Template: "240f8b55-7b4b-4211-b9b3-45dd632c2e45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Image Text Callouts
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "bd155e53-a674-4504-965e-5f03ec45647d"

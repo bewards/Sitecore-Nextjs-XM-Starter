@@ -1,0 +1,82 @@
+﻿---
+ID: "2eb7e574-7987-4845-be3e-43696797dd6d"
+Parent: "e4bf95f2-86d8-47c9-af87-a85d0efe2348"
+Template: "85d3ff62-6be2-498a-94ef-19732e74e4f4"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Settings
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+  - ID: "0129da3f-8c86-4591-ae32-6ec923413923"
+    Hint: DictionaryDomain
+    Value: "{3E69CC9B-938D-48FF-874A-417D2DBCDEC0}"
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: "{C2DC4690-AF44-48C7-BB21-90D1AD246732}"
+  - ID: "1864e99d-c29a-40bf-96e0-b3e7896a013b"
+    Hint: UseLanguageSpecificLayout
+    Value:
+  - ID: "300fb7a0-b27f-44dd-9af0-b37a19723e0e"
+    Hint: RouteTemplateName
+    Value: Settings Route
+  - ID: "32ce6bbe-4217-46e5-9335-42793884cbe3"
+    Hint: AppTemplate
+    Value: "{0073FAE7-226A-4779-BA2B-C6CA36E8D554}"
+  - ID: "3af0e329-6d5e-4d8f-9f82-f48265658a3e"
+    Hint: DefaultWorkflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+  - ID: "3e4f559f-8e59-4405-b50d-619811371f6c"
+    Hint: Name
+    Value: demosite
+  - ID: "5764d2d4-724d-4313-a81b-9246c911faff"
+    Hint: AppDatasourcesPath
+    Value: "{181302B4-CEEF-4F97-822C-EFC83AAF712C}"
+  - ID: "5ca117eb-8782-4a4f-9f2f-30de31fc2e34"
+    Hint: PlaceholdersPath
+    Value: "{1B439DD3-0318-5698-AB08-8069C56D545F}"
+  - ID: "72e83c8d-3578-4e50-b4c0-93a78a1729f2"
+    Hint: FilesystemPath
+    Value: /dist/DemoSite
+  - ID: "797d2f63-d5c4-4c4c-b21f-d3e250e2ab12"
+    Hint: DeploymentSecret
+    Value: B028B14D886146D19D2A31BF02D99DBF
+  - ID: "9016141c-ff51-40f2-9135-40f5161b9784"
+    Hint: ServerSideRenderingEngine
+    Value: http
+  - ID: "96e5e297-6fd1-46d6-8e92-b03e33a9376c"
+    Hint: Error404Page
+    Value: /sitecore/content/DemoSite/DemoSiteWebsite/Home/404 Not Found
+  - ID: "a7bbad73-b933-49ff-95c8-1c269cb35e7c"
+    Hint: DictionaryPath
+    Value: "{3E69CC9B-938D-48FF-874A-417D2DBCDEC0}"
+  - ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
+    Hint: EditingTheme
+    Value: "{3BCAB9EF-1E4F-4C23-B452-783BB82AA686}"
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 2000
+  - ID: "c8d002f9-9518-4c5e-9baa-6617e13f0797"
+    Hint: LayoutPath
+    Value: "{C7407DEB-8F43-4EA5-BC03-D6248F90829C}"
+  - ID: "d91bf82c-0e2b-4b79-ae85-e54b9afd5026"
+    Hint: Error500Page
+    Value: /sitecore/content/DemoSite/DemoSiteWebsite/Home/500 Server Error
+  - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+    Hint: __Security
+    Value: |
+      ar|sitecore\UPMC HP Author|pe|-item:rename|-item:write|
+  - ID: "e8881464-38af-4655-be4a-ee10586578a2"
+    Hint: Templates
+    Value: "{20F00FC6-81FD-48E0-820A-FB906B2B09FA}"
+  - ID: "f29428d5-1285-48b8-a884-44057965829a"
+    Hint: RenderingsPath
+    Value: "{FEA9DBE7-B167-5545-9F1F-660998EE1B1F}"
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{0FEEB907-58F0-44DE-B08C-2F43C063D0A5}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c55cff61-4c3d-47a8-91e8-48c5392a3942"

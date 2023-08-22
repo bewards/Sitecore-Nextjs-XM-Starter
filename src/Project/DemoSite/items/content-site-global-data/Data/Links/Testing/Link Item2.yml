@@ -1,0 +1,34 @@
+﻿---
+ID: "cc28af5f-4d6d-4a34-90cb-15f147f7fdb6"
+Parent: "786aaefe-cae5-48d7-acea-e0c78c3c4109"
+Template: "353741d2-6edc-4338-86fb-2914ddc0fe1e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Links/Testing/Link Item2
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230717T215850Z
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "980d4e38-96e6-4a7d-be78-00a0a86e1a6e"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "bf8c78b3-ec6b-4c66-8b90-c16e18c8c830"
+            Hint: linkText
+            Value: Dr. Maria Guyette Discusses Heart Health with Gary Sutton from WSBA
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230717T215938Z
+          - ID: "fd454fbf-1cab-4b5c-bba3-929c5146799e"
+            Hint: linkDestination
+            Value: |
+              <link linktype="external" url="https://google.com" anchor="" target="_blank" />

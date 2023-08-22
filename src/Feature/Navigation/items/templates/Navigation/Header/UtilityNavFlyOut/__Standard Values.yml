@@ -1,0 +1,44 @@
+﻿---
+ID: "c81516a2-0efc-4c97-82b3-1a4104cf2083"
+Parent: "cb59dd72-c79b-4207-9387-2c9d73c7be1c"
+Template: "cb59dd72-c79b-4207-9387-2c9d73c7be1c"
+Path: /sitecore/templates/Feature/DemoSite/Navigation/Header/UtilityNavFlyOut/__Standard Values
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: control/32x32/popup_menu.png
+  - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+    Hint: __Default workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230717T135927Z
+          - ID: "26e444af-1cd7-499e-9d62-6af06832e2a6"
+            Hint: errorTextForUsername
+            Value: Please enter your username.
+          - ID: "4e63c1e7-0a5d-437d-abc4-f9f38e787f6f"
+            Hint: customerTypes
+            Value: |
+              {711FF4C2-2071-42EE-A656-8FBC81B6349E}
+              {A5948509-E38E-4236-9F90-66C1E5E6F7AC}
+              {719F71BC-BA2C-4469-BFAC-073D037B0B31}
+              {9709F01A-31A3-4488-9F1E-819E16AEC31D}
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "d9fe9554-a9d8-4ee1-995a-40286f6f1d3f"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230717T151652Z

@@ -1,0 +1,25 @@
+﻿---
+ID: "89cb6bed-eac9-49f5-8e67-4b790c9130fe"
+Parent: "78b2596a-8a74-4135-b3a5-5989f1a50163"
+Template: "0e9d289b-b2c8-4413-87bc-3b7acbfcd23e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Alert Banner with Section Alerts/Alerts/ErrorAlert
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0873e998-ae64-497e-8a91-26176714a24a"
+            Hint: title
+            Value: Error
+          - ID: "109eae0a-ee73-438f-b7ff-2b5f8180e295"
+            Hint: statusType
+            Value: "{24B9EDE2-5C0B-47DF-9876-44654F37DEEC}"
+          - ID: "3efab781-0e1d-434a-bb7c-dbbcd504c680"
+            Hint: body
+            Value: <p>This is an alert for subsection of a site.</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "48dc17cb-ced8-432b-a5fd-4a1a34cd9d52"
+          - ID: "d6d8f731-ef53-4805-a32c-9be90f99aacc"
+            Hint: alertPriority
+            Value: 4

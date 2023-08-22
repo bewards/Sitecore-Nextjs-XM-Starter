@@ -1,0 +1,20 @@
+﻿---
+ID: "f8cd72aa-1edb-4af4-a459-7eec11feb6b9"
+Parent: "5b1de583-8753-49d9-8c0b-90421b42a249"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: "/sitecore/content/DemoSite/Global Content Settings/Presentation Modes/50-50"
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 50
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: "50-50"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "5fef757d-a852-4821-8fd1-661cd686667f"

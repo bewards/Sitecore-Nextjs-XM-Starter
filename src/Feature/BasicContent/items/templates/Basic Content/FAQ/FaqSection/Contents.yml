@@ -1,0 +1,17 @@
+﻿---
+ID: "8854705f-d6c7-4dfa-8357-efd1e67ab95e"
+Parent: "3ab5b1f9-9314-4d58-ac32-a1df8a2254ee"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/DemoSite/Basic Content/FAQ/FaqSection/Contents
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "0f88d6a4-3001-4b44-bdae-56b246bd5d19"

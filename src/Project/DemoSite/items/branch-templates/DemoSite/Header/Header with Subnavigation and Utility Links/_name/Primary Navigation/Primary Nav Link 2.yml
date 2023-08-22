@@ -1,0 +1,20 @@
+﻿---
+ID: "baf943f8-7644-4634-b68a-0bbde12d0a09"
+Parent: "50fa8a61-776d-45e6-996d-7d30a4832acb"
+Template: "e29a8175-d3d3-4b00-949a-3b1e8ea15e45"
+Path: /sitecore/templates/Branches/Project/DemoSite/Header/Header with Subnavigation and Utility Links/$name/Primary Navigation/Primary Nav Link 2
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "93d7b02c-2fcb-4d95-aea4-349d427904b9"
+          - ID: "b5f94aca-b64a-4aee-94af-8f9c8645d15e"
+            Hint: title
+            Value: Primary Nav Link 2
+          - ID: "e552a988-a7cd-49aa-876c-da52e471fca6"
+            Hint: link
+            Value: |
+              <link linktype="external" url="https://www.google.com" anchor="" target="" />

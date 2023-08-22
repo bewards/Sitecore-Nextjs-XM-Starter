@@ -1,0 +1,24 @@
+﻿---
+ID: "929df0ba-3df0-4261-8823-3bf08c9dab7c"
+Parent: "1b439dd3-0318-5698-ab08-8069c56d545f"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/DemoSite/Composites
+SharedFields:
+  - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+    Hint: Placeholder Key
+    Value: "sxa-composites"
+  - ID: "e391b526-d0c5-439d-803e-17512eae6222"
+    Hint: Allowed Controls
+    Value:
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "b788fa99-ba16-474c-b447-3b728982e245"

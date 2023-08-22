@@ -1,0 +1,31 @@
+﻿---
+ID: "ffb2ffd4-32ad-463a-8619-c6cc2e96c7f2"
+Parent: "6e38fa7b-455c-4f74-bcbc-7ef46b99d510"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/DemoSite/Navigation/Footer/FooterApps/Content Properties/appStoreImage
+SharedFields:
+  - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+    Hint: Source
+    Value: "query:$siteMedia"
+  - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+    Hint: Type
+    Value: Image
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 250
+Languages:
+  - Language: en
+    Fields:
+      - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
+        Hint: Title
+        Value: App Store Image
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "6de0bf76-b3ae-4780-9b61-6906a3cbe9f4"

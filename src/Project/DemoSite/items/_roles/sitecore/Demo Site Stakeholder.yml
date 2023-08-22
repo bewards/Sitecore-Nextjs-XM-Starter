@@ -1,0 +1,8 @@
+﻿---
+Role: |
+  sitecore\DemoSite Stakeholder
+MemberOf:
+  Role: |
+    sitecore\Author
+  Role: |
+    sitecore\Designer

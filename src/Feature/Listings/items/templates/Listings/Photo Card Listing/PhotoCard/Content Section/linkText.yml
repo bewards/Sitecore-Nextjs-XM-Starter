@@ -1,0 +1,31 @@
+﻿---
+ID: "e7c15c3b-b7ce-4602-ad91-43fcdbfc6e79"
+Parent: "c52aa9ab-d225-44cf-9ad1-9c078cea3232"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/DemoSite/Listings/Photo Card Listing/PhotoCard/Content Section/linkText
+SharedFields:
+  - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+    Hint: Type
+    Value: "Single-Line Text"
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 500
+Languages:
+  - Language: en
+    Fields:
+      - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
+        Hint: Title
+        Value: Link Text
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: Link Text
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "14b8b4fb-81f0-4cbe-a503-eeb7d1c67b7d"

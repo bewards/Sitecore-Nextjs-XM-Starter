@@ -1,0 +1,117 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{196B5D43-B228-4632-9BC3-EAAF79B4EDA5}"
+	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
+		README.md = README.md
+		sitecore.json = sitecore.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Environment", "Environment", "{99C486E2-849B-4556-95A8-35FD03C85B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSite.Environment", "src\Environment\platform\DemoSite.Environment.csproj", "{E1F83D15-E725-4114-85CD-6AC3CEF9DFBE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{CCDF1139-7CEE-44E0-A233-27A2EF6F531F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DemoSite", "DemoSite", "{6454470D-2F76-4B97-88CF-F270CA7523EC}"
+	ProjectSection(SolutionItems) = preProject
+		src\Project\DemoSite\InitItems.module.json = src\Project\DemoSite\InitItems.module.json
+		src\Project\DemoContent\DemoSite-Content.module.json = src\Project\DemoContent\DemoSite-Content.module.json
+		src\Project\DemoSite\DemoSite.module.json = src\Project\DemoSite\DemoSite.module.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSite.Project.Platform", "src\Project\DemoSite\platform\DemoSite.Project.Platform.csproj", "{4B052EB5-ADA6-4773-9989-17FCC28A4132}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{C51A4951-44BC-40BC-BE8A-446FE6948884}"
+	ProjectSection(SolutionItems) = preProject
+		src\Foundation\Serialization\Foundation.module.json = src\Foundation\Serialization\Foundation.module.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{29DAE22F-1951-4463-B650-FE9E8DE8646E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Navigation", "Navigation", "{D17F2D6A-30A7-4BAB-9254-B0141C8E4CFE}"
+	ProjectSection(SolutionItems) = preProject
+		src\Feature\Navigation\Navigation.module.json = src\Feature\Navigation\Navigation.module.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSite.Feature.Navigation.Platform", "src\Feature\Navigation\platform\DemoSite.Feature.Navigation.Platform.csproj", "{0704FDED-E528-434E-8AD9-C1E65439AB5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{A5B7CA0A-9DD6-461F-977C-A8F88D8259B9}"
+	ProjectSection(SolutionItems) = preProject
+		src\Feature\Samples\Samples.module.json = src\Feature\Samples\Samples.module.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SitecoreExtensions", "SitecoreExtensions", "{207D6FE7-19E1-4D0F-815E-6C63D40A94F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSite.Foundation.SitecoreExtensions.Platform", "src\Foundation\SitecoreExtensions\platform\DemoSite.Foundation.SitecoreExtensions.Platform.csproj", "{0E0EB5E9-925E-4211-AD71-26118B07182C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Alerts", "Alerts", "{7E02F941-509A-41E7-ACC0-6DC4101D5B7A}"
+	ProjectSection(SolutionItems) = preProject
+		src\Feature\Alerts\Alerts.module.json = src\Feature\Alerts\Alerts.module.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSite.Feature.Alerts.Platform", "src\Feature\Alerts\platform\DemoSite.Feature.Alerts.Platform\DemoSite.Feature.Alerts.Platform.csproj", "{A3DE5744-1E08-4A36-A238-2EA3F648418F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RSSDisplay", "RSSDisplay", "{0FE27084-F353-4545-9D99-2ECAB68804BA}"
+	ProjectSection(SolutionItems) = preProject
+		src\Feature\RSSDisplay\RSSDisplay.module.json = src\Feature\RSSDisplay\RSSDisplay.module.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSite.Feature.RSSDisplay.Platform", "src\Feature\RSSDisplay\platform\DemoSite.Feature.RSSDisplay.Platform.csproj", "{FA525071-0690-4061-92B7-CD72C3EB9E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1F83D15-E725-4114-85CD-6AC3CEF9DFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F83D15-E725-4114-85CD-6AC3CEF9DFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F83D15-E725-4114-85CD-6AC3CEF9DFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F83D15-E725-4114-85CD-6AC3CEF9DFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B052EB5-ADA6-4773-9989-17FCC28A4132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B052EB5-ADA6-4773-9989-17FCC28A4132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B052EB5-ADA6-4773-9989-17FCC28A4132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B052EB5-ADA6-4773-9989-17FCC28A4132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0704FDED-E528-434E-8AD9-C1E65439AB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0704FDED-E528-434E-8AD9-C1E65439AB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0704FDED-E528-434E-8AD9-C1E65439AB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0704FDED-E528-434E-8AD9-C1E65439AB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0EB5E9-925E-4211-AD71-26118B07182C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0EB5E9-925E-4211-AD71-26118B07182C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0EB5E9-925E-4211-AD71-26118B07182C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0EB5E9-925E-4211-AD71-26118B07182C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3DE5744-1E08-4A36-A238-2EA3F648418F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DE5744-1E08-4A36-A238-2EA3F648418F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DE5744-1E08-4A36-A238-2EA3F648418F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DE5744-1E08-4A36-A238-2EA3F648418F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA525071-0690-4061-92B7-CD72C3EB9E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA525071-0690-4061-92B7-CD72C3EB9E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA525071-0690-4061-92B7-CD72C3EB9E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA525071-0690-4061-92B7-CD72C3EB9E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E1F83D15-E725-4114-85CD-6AC3CEF9DFBE} = {99C486E2-849B-4556-95A8-35FD03C85B01}
+		{6454470D-2F76-4B97-88CF-F270CA7523EC} = {CCDF1139-7CEE-44E0-A233-27A2EF6F531F}
+		{4B052EB5-ADA6-4773-9989-17FCC28A4132} = {6454470D-2F76-4B97-88CF-F270CA7523EC}
+		{D17F2D6A-30A7-4BAB-9254-B0141C8E4CFE} = {29DAE22F-1951-4463-B650-FE9E8DE8646E}
+		{0704FDED-E528-434E-8AD9-C1E65439AB5F} = {D17F2D6A-30A7-4BAB-9254-B0141C8E4CFE}
+		{A5B7CA0A-9DD6-461F-977C-A8F88D8259B9} = {29DAE22F-1951-4463-B650-FE9E8DE8646E}
+		{207D6FE7-19E1-4D0F-815E-6C63D40A94F4} = {C51A4951-44BC-40BC-BE8A-446FE6948884}
+		{0E0EB5E9-925E-4211-AD71-26118B07182C} = {207D6FE7-19E1-4D0F-815E-6C63D40A94F4}
+		{7E02F941-509A-41E7-ACC0-6DC4101D5B7A} = {29DAE22F-1951-4463-B650-FE9E8DE8646E}
+		{A3DE5744-1E08-4A36-A238-2EA3F648418F} = {7E02F941-509A-41E7-ACC0-6DC4101D5B7A}
+		{0FE27084-F353-4545-9D99-2ECAB68804BA} = {29DAE22F-1951-4463-B650-FE9E8DE8646E}
+		{FA525071-0690-4061-92B7-CD72C3EB9E9A} = {0FE27084-F353-4545-9D99-2ECAB68804BA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A7C4987-3A11-41A9-8915-5457EF7B5A6F}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal

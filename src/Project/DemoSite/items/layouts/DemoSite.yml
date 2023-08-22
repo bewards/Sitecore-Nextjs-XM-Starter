@@ -1,0 +1,17 @@
+﻿---
+ID: "ae16868b-dda7-4881-8368-a2409be71ae1"
+Parent: "da04b275-8838-4a3a-afee-817cf1fdd2eb"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/layout/Layouts/Project/DemoSite
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c5469cfd-190f-426c-9ae4-04bbfe9738f8"

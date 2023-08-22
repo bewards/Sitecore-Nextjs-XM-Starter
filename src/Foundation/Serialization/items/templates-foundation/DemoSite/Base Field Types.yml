@@ -1,0 +1,17 @@
+﻿---
+ID: "c9ebbf4b-e7ea-44d4-b779-7c50f4a50ca4"
+Parent: "9ba7e460-4685-48bc-bf96-5c88a45fe261"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/DemoSite/Base Field Types
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "f0694eb0-c906-48f5-9c65-f2851baf023b"

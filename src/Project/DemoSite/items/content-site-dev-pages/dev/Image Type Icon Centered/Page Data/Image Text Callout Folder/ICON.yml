@@ -1,0 +1,58 @@
+﻿---
+ID: "f85275af-ceef-4f68-aa8c-5f5773768da2"
+Parent: "ea946b2b-6339-429f-8f8e-14242ef163be"
+Template: "b01424a2-3de2-4d52-9176-1e009cbd85c1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Image Type Icon Centered/Page Data/Image Text Callout Folder/ICON
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04920b3d-4051-4371-afb1-44448df8e169"
+            Hint: title
+            Value: ICON
+          - ID: "0844385d-5e16-4058-b607-208c320a9aa6"
+            Hint: desktopImage
+            Value: |
+              <image mediaid="{D790BA44-DED2-4C19-9309-0959A6BEE23D}" />
+          - ID: "0f25c434-f792-40e7-8357-c2da427add50"
+            Hint: linkIcon
+            Value: "{2893DCCF-930F-485B-9FFE-0052F0F16F48}"
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              The<strong><em><span style="text-decoration: underline;"> icon type</span></em></strong> gives me the ability to represent an icon (SVG or PNG format) from the image fields as an icon/logo that is centered horizontally and vertically within the image container.
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230718T145621Z
+          - ID: "31e355ea-f1a7-4a0f-9483-e3b8bd007b4b"
+            Hint: backgroundColor
+            Value: "{FBA5023B-02C3-495F-9698-C571671DDF9E}"
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "4001c909-97c0-499b-9615-91e476c2cece"
+            Hint: link
+            Value: |
+              <link text="Learn About Our Customer Service" linktype="external" url="http://www.google.com" anchor="" target="" />
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "889e1491-e4e1-48c6-9595-8889788b5a4d"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "c162a9be-4303-4b35-8d4f-bf1f6af9a821"
+            Hint: imageType
+            Value: "{D187C7A5-0BD6-4737-B091-AA7A2C7E2F16}"
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230808T175836Z

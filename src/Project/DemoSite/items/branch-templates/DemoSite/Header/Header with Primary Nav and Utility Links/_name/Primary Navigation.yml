@@ -1,0 +1,13 @@
+﻿---
+ID: "40eff848-b8ec-4904-a2e5-67f2f7a77efb"
+Parent: "5b925b06-cc3b-46cf-a1dd-12695e7cc437"
+Template: "3778ed4a-0a91-4291-b511-7ac6d8cabef4"
+Path: /sitecore/templates/Branches/Project/DemoSite/Header/Header with Primary Nav and Utility Links/$name/Primary Navigation
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "a2acdf78-fa22-4c7e-b844-636297840677"

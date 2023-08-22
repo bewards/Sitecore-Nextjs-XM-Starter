@@ -1,0 +1,38 @@
+﻿---
+ID: "e4ad4c91-e852-4319-b71a-e36155db324b"
+Parent: "e4b941aa-a417-4c73-bf81-0541e068b4c3"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Page Branches
+SharedFields:
+  - ID: "bb3391dd-f8be-4b2e-ae9f-47bb63c166ce"
+    Hint: Rule
+    Value: |
+      <ruleset>
+        <rule
+          uid="{090359B7-203B-4021-90C5-99473DEF8E58}">
+          <conditions>
+            <condition
+              id="{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}"
+              uid="8407C0EC3CE1491D80B0E68EC381AEC0"
+              templateid="{2FAD270E-01F9-4EA2-BEAD-FCA6FE74DA18}" />
+          </conditions>
+          <actions>
+            <action
+              id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+              uid="1EFF688C187A46D480A5CCF98947737D"
+              PageBranchId="{9BDBD71F-A25F-4D03-9368-A39884021E8E}" />
+          </actions>
+        </rule>
+      </ruleset>
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "8c3a08d1-78ca-4c9a-83d8-5f3a8b5fe9ba"

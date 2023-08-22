@@ -1,0 +1,92 @@
+@import '@sass/abstracts/imports';
+
+.banner {
+  display: grid;
+}
+
+.text-column {
+  padding: 2rem 1.5rem 4rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+
+  > * {
+    margin-bottom: 0;
+  }
+}
+
+.image-column > div {
+  height: 100%;
+  width: 100%;
+}
+
+.title {
+  color: $purple-60;
+
+  &.text-white {
+    color: $white;
+  }
+}
+
+.subtitle {
+  color: inherit;
+}
+
+.link {
+  font-weight: $font-weight-bold;
+  gap: 0.5rem;
+
+  &.text-white,
+  &.text-white:hover,
+  &.text-white:active {
+    color: $white;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .text-column {
+    min-height: 200px;
+    padding: 4rem 2rem;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .banner {
+    &.mode-30-70 {
+      grid-template-columns: 30% 70%;
+    }
+
+    &.mode-50-50 {
+      grid-template-columns: 50% 50%;
+    }
+
+    &.mode-70-30 {
+      grid-template-columns: 70% 30%;
+    }
+  }
+
+  .title {
+    padding: 0;
+  }
+
+  .title,
+  .subtitle {
+    text-align: left;
+  }
+
+  .link {
+    margin: 0;
+  }
+
+  .text-column {
+    min-height: 250px;
+    padding: 4rem 2rem;
+  }
+}
+
+.body {
+  > p:last-child {
+    margin-bottom: 0;
+  }
+}

@@ -1,0 +1,22 @@
+﻿---
+ID: "6df34c1a-329a-4316-bfbd-2bb8fd76e1ee"
+Parent: "ef6d7523-5022-4915-9791-239ff25ececf"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Demo Descriptions/Cookiebot Slideout
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1 style="text-align: center;">Cookiebot Slide-out Demo</h1>
+              <p>Cookiebot is a third party vendor whose slide-out script needs to appear on every page that could possibly use a cookie at any time. Notable exceptions are error pages.</p>
+              <p>The script, which is present in the header or each page, will cause a slide-out to appear at the bottom of the page (pictured below) with links to our Terms and Conditions and Privacy Policy pages. In all environments other than production (dev, test, etc.), the slide-out will display a "TEST" watermark; although it should be noted that Cookiebot only uses a single codebase, so any changes made will immediately go live into all environments. It is also worth noting that all UPMC pages using Cookiebot share the same code, currently Public and Workpartners, so all changes will be made to all of those sites and all of their environments simultaneously as well.</p>
+              <p>By clicking close, the user agrees to those terms and conditions, including our use of cookies. This agreement needs to be renewed annually, so once agreed to that slide-out will not appear again in that browser for exactly one year, or until cookies are cleared, whichever comes first.</p>
+              <p>If the slide-out has been agreed to and needs to be checked again for testing purposes, the user can either clear their cookies from the browser of choice, or simply open a new window using private or incognito mode.</p>
+              <p>Cookiebot also houses the body of both the Terms and Conditions page and Privacy Policy page. Again, these pages exist in both Public and Workpartners, so all changes affect both sites. All links in this page should be relative links that can go to the respective page on either site. Both pages should also have the same path (<strong>/legal/terms-and-conditions</strong> and <strong>/legal/privacy</strong>) so links to those pages from the slide-out, as well as in those pages, work correctly.</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "9b998225-669e-4427-8fb3-ae337561815c"

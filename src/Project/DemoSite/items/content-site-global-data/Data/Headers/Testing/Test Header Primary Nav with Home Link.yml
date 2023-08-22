@@ -1,0 +1,21 @@
+﻿---
+ID: "039e3a0f-fa10-40a7-a2a9-989491adbfdb"
+Parent: "1824d5b4-82c3-4bae-810f-86a1e0ad3d05"
+Template: "b16be6d1-3791-4c45-bac8-2daad22ed438"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header Primary Nav with Home Link
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0ef38ce7-c157-4358-b974-d7914624fd50"
+            Hint: firstLogo
+            Value: |
+              <image mediaid="{E355C43A-A1D8-444E-9B4A-3C28D7A3F1FA}" alt="" height="21" width="248" hspace="0" vspace="0" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "469b0a66-8544-4369-a1f9-5afcb662be72"
+          - ID: "f1ec5da5-d1a2-426e-adaa-c2263eb87957"
+            Hint: firstLogoLink
+            Value: |
+              <link text="Test link" linktype="external" url="https://www.google.com" anchor="" title="Alt text" target="" />

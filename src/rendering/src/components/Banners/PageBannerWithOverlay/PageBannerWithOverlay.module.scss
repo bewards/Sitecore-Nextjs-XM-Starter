@@ -1,0 +1,83 @@
+@import '@sass/abstracts/imports';
+
+.banner {
+  @include media-breakpoint-up(xl) {
+    position: relative;
+  }
+}
+
+.image {
+  @include media-breakpoint-up(xl) {
+    border-bottom: $purple-50 4px solid;
+    z-index: 1;
+  }
+}
+
+.body {
+  margin-bottom: 1rem;
+
+  @include media-breakpoint-down(md) {
+    font-size: $apple-font-size;
+    font-weight: $font-weight-book;
+    line-height: $apple-line-height;
+    margin-bottom: $apple-paragraph-spacing;
+  }
+}
+
+.title {
+  @include media-breakpoint-down(md) {
+    font-size: $coconut-font-size;
+    font-weight: $font-weight-bold;
+    line-height: $coconut-line-height;
+    margin-bottom: $coconut-paragraph-spacing;
+  }
+}
+
+.subtitle {
+  @include media-breakpoint-down(md) {
+    font-size: $pear-font-size;
+    font-weight: $font-weight-medium;
+    line-height: $pear-line-height;
+    margin-bottom: $pear-paragraph-spacing;
+  }
+}
+
+.text {
+  width: 100%;
+  background-color: $purple-60;
+  padding: 2.5rem 1rem;
+
+  @include media-breakpoint-up(xl) {
+    top: 2rem;
+    width: 50%;
+    opacity: 0.9;
+    position: absolute;
+    z-index: 2;
+
+    &.left {
+      left: 1%;
+      &::before {
+        content: '';
+        left: 100%;
+        top: 50%;
+        position: absolute;
+        border-top: 1rem solid transparent;
+        border-left: 1.5rem solid $purple-60;
+        border-bottom: 1rem solid transparent;
+      }
+    }
+
+    &.right {
+      right: 1%;
+      &::before {
+        content: '';
+        right: 100%;
+        top: 50%;
+        position: absolute;
+        border-top: 1rem solid transparent;
+        border-right: 1.5rem solid $purple-60;
+        border-bottom: 1rem solid transparent;
+      }
+    }
+  }
+}

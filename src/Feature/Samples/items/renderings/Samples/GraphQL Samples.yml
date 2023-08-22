@@ -1,0 +1,54 @@
+﻿---
+ID: "806bbe43-f779-4db6-982b-96c7345fdbda"
+Parent: "c8a28dcc-220e-4011-a901-c32e42778062"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Samples/GraphQL Samples
+SharedFields:
+  - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+    Hint: componentName
+    Value: GraphQLSamples
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: applications/16x16/star_blue.png
+  - ID: "17bb046a-a32a-41b3-8315-81217947611b"
+    Hint: ComponentQuery
+    Value: |
+      query DatasourceSampleQuery($datasource: String!, $language: String!) {
+        datasource: item(path: $datasource, language: $language) {
+          id
+          name
+          ... on GraphQLSamples {
+            title {
+              value
+            }
+            body {
+              value
+            }
+            filterTemplate {
+              value
+            }
+          }
+        }
+      }
+
+  - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+    Hint: Datasource Template
+    Value: /sitecore/templates/Feature/DemoSite/Samples/GraphQL Samples
+  - ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+    Hint: Rendering Contents Resolver
+    Value:
+  - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+    Hint: Datasource Location
+    Value: ./Page Data
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "015ea5c0-b3d5-44fd-9f65-bd4a6094a8cf"

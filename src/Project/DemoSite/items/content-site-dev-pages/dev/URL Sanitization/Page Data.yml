@@ -1,0 +1,22 @@
+﻿---
+ID: "85d4584f-16a6-4d75-9908-2d3c3904f48f"
+Parent: "306aa6d3-d5dd-4560-9a67-ed5c32b39bf4"
+Template: "8dd734a1-9d72-43a0-8b4a-d09fcfd55503"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/URL Sanitization/Page Data
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{AE5B86BD-D1EB-4AA4-BDA2-7DB20C340928}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "a733f753-ea30-4cb3-832a-a81412920b36"

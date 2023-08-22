@@ -1,0 +1,27 @@
+﻿---
+ID: "b5724102-5b96-40a3-b949-691d5a9e9fab"
+Parent: "3312a0ac-4b58-45da-8c4c-a045795b054a"
+Template: "f96e5f1b-40c1-404b-b346-219502de506a"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Dynamic Placeholders Test/Page Data/Callout Blocks
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230720T161922Z
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "ae916c1f-48b3-43ea-8312-b0d7c429b183"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230720T161922Z

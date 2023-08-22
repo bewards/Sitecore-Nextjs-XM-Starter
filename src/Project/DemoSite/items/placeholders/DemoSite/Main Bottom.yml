@@ -1,0 +1,41 @@
+﻿---
+ID: "a930a0bb-1243-40dd-8438-98543cd53c0c"
+Parent: "1b439dd3-0318-5698-ab08-8069c56d545f"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/DemoSite/Main Bottom
+SharedFields:
+  - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+    Hint: Placeholder Key
+    Value: "hp-main-bottom"
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 300
+  - ID: "e391b526-d0c5-439d-803e-17512eae6222"
+    Hint: Allowed Controls
+    Value:
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value:
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20100105T224500Z
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "91d6164b-ca43-4f27-93b7-e9b575f644ad"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230816T125318Z

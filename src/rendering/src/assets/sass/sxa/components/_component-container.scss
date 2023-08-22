@@ -1,0 +1,16 @@
+@import '@sass/sxa/abstracts/mixins';
+
+.container-wrapper {
+  width: 100%;
+}
+
+.container {
+  &.fullwidth-container {
+    max-width: unset;
+  }
+
+  .component-content {
+    @include clearfix();
+  }
+
+}

@@ -1,0 +1,13 @@
+﻿---
+ID: "4ccf921f-e3d6-408f-b1dc-141cd242001a"
+Parent: "181302b4-ceef-4f97-822c-efc83aaf712c"
+Template: "4d968caa-b736-4ffe-819b-ba19ac9d70d7"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Tout Listings
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "7fd7d0e7-e622-4290-a3ef-4e92a9303d7a"

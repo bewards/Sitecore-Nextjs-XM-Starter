@@ -1,0 +1,17 @@
+﻿---
+ID: "0b4bbfa8-68c1-4a48-990a-8b8c41972dd7"
+Parent: "3b47a3ac-a1a4-4f5c-8a68-9e1afaa5d857"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/DemoSite/Listings/Tout Card Listings
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "4055f8be-7ea9-4333-a0bd-9c5e251a9605"

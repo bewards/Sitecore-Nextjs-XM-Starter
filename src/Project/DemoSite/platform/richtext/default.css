@@ -1,0 +1,57 @@
+﻿/* import bundle for all compiled css and only include css classes in this file for RTE */
+@import url("/richtext/full.css");
+
+/*
+    these classes are duplicated below with dummy position because in "full.css" they are generated with other css classes in the same selector, so the class dropdown doesn't pick them up in full.css!
+*/
+.blueberry {
+    position: static;
+}
+
+.grape {
+    position: static;
+}
+
+.kiwi {
+    position: static;
+}
+
+.apple {
+    position: static;
+}
+
+.pear {
+    position: static;
+}
+
+.coconut {
+    position: static;
+}
+
+.honeydew {
+    position: static;
+}
+
+.watermelon {
+    position: static;
+}
+
+.link--download {
+    position: static;
+}
+
+.link--arrow {
+    position: static;
+}
+
+/*
+    additional css fixes just for RTE
+*/
+.btn-primary,
+.btn-secondary,
+.btn-tertiary,
+.btn-success,
+.btn-warning,
+.btn-danger {
+    width: fit-content;
+}

@@ -1,0 +1,31 @@
+﻿---
+ID: "f327a842-1aab-4739-922f-d88030dd93e9"
+Parent: "069f2a29-5548-4e50-b17c-b247383ca4e1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/DemoSite/Basic Content/FAQ/FaqItem
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: /~/icon/office/32x32/speech_balloon_question.png
+  - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+    Hint: __Base template
+    Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+  - ID: "f7d48a55-2158-4f02-9356-756654404f73"
+    Hint: __Standard values
+    Value: "{E428F172-4F69-484A-918A-FD8577074756}"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: FAQ Item
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "dcb9b0d6-f0b0-49e2-a95f-9088099ab0da"

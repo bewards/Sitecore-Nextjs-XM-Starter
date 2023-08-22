@@ -1,0 +1,91 @@
+﻿---
+ID: "635a5ff7-2d10-4864-858f-b2d8df1ee2c8"
+Parent: "e34c06bd-77e9-4de6-9c61-ab66535f5f19"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Breadcrumb Sample/Breadcrumb/Page Data/Rich Texts/Rich Text Full Example
+BranchID: "3ac7734b-4846-499c-906c-ee4835f04721"
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{41577E38-4B13-4E0E-B39C-365A2D2B51C8}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1>Breadcrumbs</h1>
+              <p>This component places an ordered list of links starting with the current and traversing back to the site's root page, or a page specified to be the root page.</p>
+              <p style="text-align: center;"><img alt="Screenshot of Breadcrumb component." src="-/media/c511a665c53e4bf59bb203936d3c1fb6.ashx?h=47&amp;w=600" style="height: 47px; width: 600px; margin: 12px;" /></p>
+              <p>The last link, or current page, will not be clickable since the visitor is already on the page it would take them to. While the first link, or home link, can be set to be text or an icon.</p>
+              <p style="text-align: center;"><img alt="Screenshot of Breadcrumb component, with text home link." src="-/media/302b45a651d441f396e8f96780d93f1a.ashx?h=32&amp;w=600" style="height: 32px; width: 600px; margin: 12px;" /></p>
+              <p>If there are too many links to place on a single line, desktop will wrap the list links onto a new line,&nbsp;while mobile devices will allow visitors to scroll left and right through the list. Additionally on mobile, the component will automatically scroll over to the current page on the page load.</p>
+              <p style="text-align: center;"><img alt="Screenshot of Breadcrumb component, with multiple lines on desktop." src="-/media/7f71f086f53844c29cee3489024198d6.ashx?h=52&amp;w=600" style="height: 52px; width: 600px; margin: 12px;" /></p>
+              <p style="text-align: center;"><img alt="Screenshot of Breadcrumb component, scrolling on mobile." src="-/media/cdd28b496c48406bad37b7cdc4427df8.ashx?h=59&amp;w=375" style="height: 59px; width: 375px; margin: 12px;" /></p>
+              <hr />
+              <p>&nbsp;</p>
+              <h2>Template Information</h2>
+              <p>The Breadcrumbs component does not have any templates of its own, but rather pulls information from specific fields on the Page template and Headless Site template.</p>
+              <h3>Page Template</h3>
+              <p>With the addition of the Breadcrumb component, the Page template was updated to inherit from the new base template <strong><em>_BreadcrumbSetting</em></strong>. This template adds the following fields to the Page template:</p>
+              <p style="text-align: center;"><img alt="Updated page template with new breadcrumb setting properties." src="-/media/24be08243013458a9f1c9f53268f727f.ashx?h=162&amp;w=768" style="height: 162px; width: 768px; margin: 12px;" /></p>
+              <table cellpadding="3" style="border:1px solid #000000;">
+                  <tbody>
+                      <tr>
+                          <td style="border: 1px solid #000000; padding: 12px;">Field Name</td>
+                          <td style="border: 1px solid #000000; padding: 12px;">Description</td>
+                      </tr>
+                      <tr>
+                          <td style="border: 1px solid #000000; padding: 12px;">Breadcrumb Title Override<span> </span></td>
+                          <td style="border: 1px solid #000000; padding: 12px;">Normally the Breadcrumb component displays the page's Title field, but this gives content authors the ability to change the text displayed within this component.<br />
+                          <div>&nbsp;</div>
+                          </td>
+                      </tr>
+                      <tr>
+                          <td style="border: 1px solid #000000; padding: 12px;">Is Breadcrumb Root<span> </span></td>
+                          <td style="border: 1px solid #000000; padding: 12px;">This field tells where the Breadcrumb component to stop, and what page is considered home within the list of links.</td>
+                      </tr>
+                  </tbody>
+              </table>
+              <hr />
+              <p>&nbsp;</p>
+              <h3>Headless Site Template</h3>
+              <p>With the addition of the Breadcrumb component, the <strong><em>_NavigationSiteSettings </em></strong>template was updated to include settings for the Breadcrumb component. Meaning any template that inherits from this base template, such as the Headless Site template now have the following fields:</p>
+              <p style="text-align: center;"><img alt="Updated headless site template with new breadcrumb fields." src="-/media/7abae2c4228148a98ff56defd7f22a3d.ashx?h=302&amp;w=768" style="height: 302px; width: 768px; margin: 12px;" /></p>
+              <table style="border:1px solid #000000;" cellpadding="3">
+                  <tbody>
+                      <tr>
+                          <td style="border: 1px solid #000000; padding: 12px;">Field Name</td>
+                          <td style="border: 1px solid #000000; padding: 12px;">Description</td>
+                      </tr>
+                      <tr>
+                          <td style="border: 1px solid #000000; padding: 12px;">Homepage Breadcrumb Icon<span> </span></td>
+                          <td style="border: 1px solid #000000; padding: 12px;">This setting tells the Breadcrumb component to render the first link, or home link, as text or an icon. Default is checked.</td>
+                      </tr>
+                  </tbody>
+              </table>
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230719T153108Z
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "78cc8f0b-a7a8-4694-85b1-695b83d23a83"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230726T205009Z

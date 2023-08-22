@@ -1,0 +1,82 @@
+﻿---
+ID: "bb23562b-5acc-4e1b-b32e-32279a5051fb"
+Parent: "8be049ad-00e3-43a7-adb4-4c4d440bebe5"
+Template: "a56c52e5-b2b4-4dad-a08d-74f2e8a1c7f1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/component patterns/Page Data/GraphQL Samples
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 300
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "887bf347-22e9-4199-8ff6-9ffdb7f82094"
+            Hint: filterTemplate
+            Value: "{FC84C0C1-346D-4305-8E22-E8F469C511A8}"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "36c8c1a6-442b-4134-ac7c-68a8ea32b041"
+          - ID: "c708ff4f-9c8d-407c-84bb-c79e7c7d3462"
+            Hint: title
+            Value: title
+          - ID: "ef9d0cc6-b3fb-4635-983e-1449d3215cd9"
+            Hint: body
+            Value: |
+              <p>With <strong>Connected GraphQL</strong>, a JSS app makes direct HTTP requests to a Sitecore GraphQL endpoint. This mode is identical to using a GraphQL API in any JavaScript application and is not JSS-specific.</p>
+              <p>We recommend you use connected GraphQL when:</p>
+              <ul class="itemizedlist" style="list-style-type: disc;">
+                  <li class="listitem">
+                  <p>You want to load data asynchronously after the page layout is rendered, or in response to app state changes other than route change.</p>
+                  </li>
+                  <li class="listitem">
+                  <p>The component needs to run mutations (updates) or subscriptions (real-time data).</p>
+                  </li>
+                  <li class="listitem">
+                  <p>You want full control over the lifecycle of your queries and states, such as integration with Redux or the <a class="link" href="https://github.com/apollographql/apollo-link-state" target="_blank" rel="noopener noreferrer">apollo-link-state</a> package.</p>
+                  </li>
+              </ul>
+              <p>We recommend you <span class="emphasis"><em>avoid</em></span> using connected GraphQL when:</p>
+              <ul class="itemizedlist" style="list-style-type: disc;">
+                  <li class="listitem">
+                  <p>The component uses only content template field data. The default layout data output is sufficient without needing additional GraphQL queries.</p>
+                  </li>
+                  <li class="listitem">
+                  <p>The added page weight of a GraphQL client library is undesirable.</p>
+                  </li>
+              </ul>
+              <p>&nbsp;</p>
+              <p>With&nbsp;<strong>integrated&nbsp;GraphQL</strong>, the format of the&nbsp;layout data&nbsp;returned for a specific component by the Layout Service can be modified into the result of a GraphQL query. This means that you can define a GraphQL query that defines the data you require to power a front-end component, and then receive the data from that query back as a property, such as <code class="code">props.fields</code>&nbsp;for a React component. This gives you control over getting only the data you need and also gives you the power of GraphQL if you require advanced data sources such as child items or CRM data.</p>
+              <p>We recommend you use integrated GraphQL when:</p>
+              <ul class="itemizedlist" style="list-style-type: disc;">
+                  <li class="listitem">
+                  <p>Your component needs more data than its datasource template fields that are part of the GraphQL schema.</p>
+                  </li>
+                  <li class="listitem">
+                  <p>The datasource template contains extra fields that you do not want to render.</p>
+                  </li>
+                  <li class="listitem">
+                  <p>You do not want to have any client-side GraphQL libraries such as Apollo (integrated requires no additional dependency other than JSS).</p>
+                  </li>
+              </ul>
+              <p>We recommend you <span class="emphasis"><em>avoid</em></span> using integrated GraphQL when:</p>
+              <ul class="itemizedlist" style="list-style-type: disc;">
+                  <li class="listitem">
+                  <p>The component uses only content template field data. The default layout data output is sufficient without needing GraphQL.</p>
+                  </li>
+                  <li class="listitem">
+                  <p>Your GraphQL query is not performant. For example, it aggregates multiple REST API calls behind the scenes. Integrated GraphQL blocks the rendering of the app until all queries for the layout have been completed. We recommend you use Connected GraphQL to defer longer running queries until after the initial layout is rendered.</p>
+                  </li>
+                  <li class="listitem">
+                  <p>The component needs to issue additional GraphQL queries in response to state changes. Integrated queries run only when the layout data is loaded.</p>
+                  </li>
+                  <li class="listitem">
+                  <p>The component needs to run&nbsp;mutations&nbsp;(updates) or&nbsp;subscriptions&nbsp;(real-time data). In integrated GraphQL, you can only run queries.</p>
+                  </li>
+              </ul>
+              <p>GraphQL Queries can be tested from the <a href="/sitecore/api/graph/edge?sc_apikey={6FD03845-4AB4-47CE-9349-2B6FE898D68A}" target="_self">UI Playground</a></p>

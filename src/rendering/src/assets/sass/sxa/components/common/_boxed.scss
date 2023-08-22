@@ -1,0 +1,16 @@
+@import '@sass/sxa/abstracts/vars';
+@import '@sass/sxa/abstracts/mixins';
+
+.boxed {
+    box-sizing: border-box;
+    margin: 20px 0;
+    @include media-breakpoint-between(sm,lg) {
+        padding: 10px;
+    }
+    @include media-breakpoint-down(md) {
+        padding: 10px;
+    }
+    >div {
+        @include wrapper();
+    }
+}

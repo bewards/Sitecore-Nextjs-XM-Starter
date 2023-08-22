@@ -1,0 +1,17 @@
+﻿---
+ID: "71c55c5a-6b62-4e4d-bda8-6054f114c350"
+Parent: "98951180-6197-4dd5-99df-c651af12b6dd"
+Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Dictionary/ARIA/Roles
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "fe3f41db-b081-487d-9d1a-7ece9758bd96"

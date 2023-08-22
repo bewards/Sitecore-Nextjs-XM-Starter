@@ -1,0 +1,17 @@
+﻿---
+ID: "1ff8723d-76e0-4a62-af5e-f5ba8bd1776a"
+Parent: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/DemoSite/Settings/ContentSettings/Content Setting Properties
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "7006a3ae-1721-4916-b60f-237839a904b8"

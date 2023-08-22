@@ -1,0 +1,24 @@
+﻿---
+ID: "dc995e86-f5a4-4712-9a73-e4e23bdbb8e2"
+Parent: "1f973495-22d0-41d7-a93e-dee8b712f70c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/DemoSite/Samples/Sample Sub Datasource Item
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: Applications/16x16/star_red.png
+  - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+    Hint: __Base template
+    Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "cec92c7c-9d5d-45b5-adeb-0aac01995308"

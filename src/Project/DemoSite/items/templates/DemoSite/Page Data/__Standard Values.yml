@@ -1,0 +1,29 @@
+﻿---
+ID: "b162869d-14c6-448d-9dc3-a20e98fb0249"
+Parent: "8dd734a1-9d72-43a0-8b4a-d09fcfd55503"
+Template: "8dd734a1-9d72-43a0-8b4a-d09fcfd55503"
+Path: /sitecore/templates/Project/DemoSite/Page Data/__Standard Values
+SharedFields:
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: |
+      {3E2E025B-ED62-4735-89FE-A83F9B24AFB1}
+      {F96E5F1B-40C1-404B-B346-219502DE506A}
+      {240F8B55-7B4B-4211-B9B3-45DD632C2E45}
+      {CA25E0B6-C5A8-47C0-B70C-510A361C1DB1}
+      {773BAE1D-7DE0-45F7-BF0B-9A9DEDD48507}
+      {4D968CAA-B736-4FFE-819B-BA19AC9D70D7}
+      {8045F907-8294-4E77-BBCD-F4B37AE3D7EE}
+      {CCB3A929-51EB-4497-B9ED-577651F8F1B7}
+      {4012BB6F-A63C-42A9-86C1-908D96D275A7}
+  - ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+    Hint: __Hidden
+    Value: 1
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "4f13d2a4-9a37-4bbb-a705-8887e9b66669"

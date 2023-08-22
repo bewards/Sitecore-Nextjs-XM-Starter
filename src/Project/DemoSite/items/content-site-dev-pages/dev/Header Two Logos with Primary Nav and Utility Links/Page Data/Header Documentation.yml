@@ -1,0 +1,67 @@
+﻿---
+ID: "146f271b-fef0-484e-a1c7-a62e9d8a2e06"
+Parent: "23a8f018-c437-4c90-8ff7-24e70b0d3093"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Header Two Logos with Primary Nav and Utility Links/Page Data/Header Documentation
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1>Header</h1>
+              <p>
+              A unique header component designed to be placed within the <em>hp-header</em> placeholder. The header component is comprised of a branding section that can support up to two logos, a primary navigation, and a set of utility links.</p>
+              <p style="text-align: center;"><img alt="Screenshot of header in it's minimalistic phase." src="-/media/A5CF88682A964A2CB64F5D67885072B1.ashx?h=108&amp;w=600" style="width: 600px; height: 108px; margin: 12px;" /></p>
+              <p>
+              On mobile the header will condense down, combining the primary navigation and utility links into a single list that can toggle open and closed with a hamburger icon. If there are multiple logos, they will stack vertically.</p>
+              <p style="text-align: center;"><img alt="Screenshot of header component on mobile screen" src="-/media/B1C276726A67407F8C071A690FEC1522.ashx?h=84&amp;w=250" style="height: 84px; width: 250px; margin: 12px;" /></p>
+              <h2>Default Header</h2>
+              <p>To reduce the amount of time content authors need to create and set up this component on site, it has been built so content authors only need to create a default header and assign it to the <em>Default Header</em> property on the parent Headless Site node.</p>
+              <p style="text-align: center;"><img alt="Screenshot of default header property" src="-/media/B1888FE4A50D455B88D91CD021FE920D.ashx?h=103&amp;w=600" style="height: 103px; width: 600px; margin: 12px;" /></p>
+              <p>Once the default header as been assigned, every sub-page with this header component will use that data source if the data source field is left blank. Content authors can then override this default header by assigning a new header to the component's data source on the page they want to change out the header.</p>
+              <p style="text-align: center;"><img alt="Screenshot on how to override the default header property." src="-/media/9C8E4ADD00F14E209E724BE74B731566.ashx?h=189&amp;w=250" style="width: 250px; height: 189px; margin: 12px;" /></p>
+              <h2>Logos</h2>
+              <p>The header component can support up to two logos within the branding section. On desktop, the logos are left align in their corresponding positions based on the property name. While on mobile they are stacked on top of each other.</p>
+              <p style="text-align: center;"><img alt="Screenshot of header in it's minimalistic phase." src="-/media/A5CF88682A964A2CB64F5D67885072B1.ashx?h=108&amp;w=600" style="width: 600px; height: 108px; margin: 12px;" /><img alt="Screenshot of header component on mobile with single logo" src="-/media/DD91F7E97366406D8E83A6C2323FFEF6.ashx?h=51&amp;w=250" style="width: 250px; height: 51px; margin: 12px;" /></p>
+              <p style="text-align: center;"><img alt="Screenshot of header with two logos on tablet" src="-/media/748BD2DC8516428F95331E59C52F1EBB.ashx?h=108&amp;w=600" style="width: 600px; height: 108px; margin: 12px;" /><img alt="Screenshot of header component on mobile screen" src="-/media/B1C276726A67407F8C071A690FEC1522.ashx?h=84&amp;w=250" style="width: 250px; height: 84px; margin: 12px;" /></p>
+              <h3>Primary navigation&nbsp;</h3>
+              <p>One of the key functions of the header component is to provide visitor a means to navigate the many sections of the website. This is done through the primary navigation located under the branding section. On desktop the navigation sections are displayed horizontally left to right in the order they are found in the content editor, while on mobile the navigation sections will be stacked in a hidden menu that can be toggled open and closed.</p>
+              <p style="text-align: center;"><img alt="Screenshot of header in it's minimalistic phase." src="-/media/A5CF88682A964A2CB64F5D67885072B1.ashx?h=108&amp;w=600" style="width: 600px; height: 108px; margin: 12px;" /></p>
+              <p style="text-align: center;"><img alt="Screenshot of header component on mobile with single logo" src="-/media/DD91F7E97366406D8E83A6C2323FFEF6.ashx?h=51&amp;w=250" style="height: 51px; width: 250px; margin: 12px; vertical-align: top;" /><img alt="Screenshot of open primary navigation on mobile." src="-/media/9458DD7F6F2343EF83BAD16A596D059C.ashx?h=184&amp;w=250" style="width: 250px; height: 184px; margin: 12px; vertical-align: top;" /></p>
+              <p>The primary navigation is not necessarily required and can be left out. If there is no primary navigation provided, the component will simply omit that bar when rendered.&nbsp;</p>
+              <p style="text-align: center;"><img alt="Screenshot of header without a primary navigation bar" src="-/media/F2EB173EDA124542BDD34674C02FBCDF.ashx?h=70&amp;w=600" style="height: 70px; width: 600px; margin: 12px;" /></p>
+              <h3>Utility links
+              </h3>
+              <p>The header component has a secondary navigation section where content authors can add additional links to helper visitors quickly access specific pages or functions. On desktop these links are right-aligned, but maintain their order from the content editor, and hug the right side of the header. For mobile screens, these links are moved to the hidden menu and place beneath and primary navigation sections.</p>
+              <p style="text-align: center;"><img alt="Screenshot of header with two logos on tablet" src="-/media/748BD2DC8516428F95331E59C52F1EBB.ashx?h=108&amp;w=600" style="width: 600px; height: 108px; margin: 12px;" /></p>
+              <p style="text-align: center;"><img alt="Screenshot of header component on mobile screen" src="-/media/B1C276726A67407F8C071A690FEC1522.ashx?h=84&amp;w=250" style="height: 84px; width: 250px; vertical-align: top; margin: 12px;" /><img alt="Screenshot of open navigation menu containing utility links on mobile." src="-/media/95BB4628C2B542039A8B88BD0BE5BAD4.ashx?h=340&amp;w=250" style="width: 250px; height: 340px; vertical-align: top; margin: 12px;" /></p>
+              <p>Utility links are not required, so they can be left out. If there are no utility links provided, the space to the right of the branding section will remain blank.</p>
+              <p style="text-align: center;"><img alt="Screenshot of header in it's minimalistic phase." src="-/media/A5CF88682A964A2CB64F5D67885072B1.ashx?h=108&amp;w=600" style="width: 600px; height: 108px; margin: 12px;" /></p>
+              <h3 style="text-align: left;">Home &amp; Translation Link</h3>
+              <p style="text-align: left;">The header component has the option to include a tertiary navigation section, containing a link to a content author specified page and a link to take users to the Spanish/English version of the page they're currently on. On desktop, these links will be right-aligned above the utility links. For mobile screens, the home link will relocate to the bottom of the hidden menu, while the translation link will change to look like button and be placed evenly spaced between the logos and menu button.</p>
+              <p style="text-align: center;"><img alt="Header component with home and translation link" src="-/media/8C0A46BD55CB4A59943B6C381F55D404.ashx?h=133&amp;w=600" style="height: 133px; width: 600px; margin: 12px;" /></p>
+              <p style="text-align: center;"><img alt="Header component with home and translation links on mobile" src="-/media/4220622E1D3A45A4BEC7501EEB0AD2CE.ashx?h=103&amp;w=250" style="width: 250px; height: 103px; vertical-align: top; margin: 12px;" /><img alt="Header component with home and translation link on mobile - menu opened" src="-/media/0BBC56F2F90C47919C3BB7497172060B.ashx?h=453&amp;w=250" style="width: 250px; height: 453px; vertical-align: top; margin: 12px;" /></p>
+              <p style="text-align: left;">To add the home link to the header component content authors need to fill out both the&nbsp;<em>Home Link Text&nbsp;</em>and&nbsp;<em>Home Link</em>&nbsp;properties on the header component. If either are left blank, the home link will not render.&nbsp;</p>
+              <p style="text-align: center;"><img alt="The home and translation link properties on the header component." src="-/media/5862D88B4D044373A5AC815B637A119F.ashx?h=181&amp;w=600" style="height: 181px; width: 600px; margin: 12px;" /></p>
+              <p style="text-align: left;">To include the translation link content authors simply need to toggle the&nbsp;<em>Enable Translation Link</em>&nbsp;property. The link will be dynamically generated to link site visitors to Spanish/English version of the current page they are on. The link text is pulled from the&nbsp;<em>Translation Link</em>&nbsp;dictionary item.</p>
+              <p style="text-align: center;"><img alt="Dictionary item of translation link" src="-/media/AC055BF6CE9D47C78389E3A15C2A2E7E.ashx?h=258&amp;w=600" style="height: 258px; width: 600px; margin: 12px;" /></p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "e80cea00-062f-4180-97ff-473ae3583d42"
+  - Language: "es-ES"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: "Spanish!"
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "6c197209-1d6c-4fe7-99d0-2fda0b114d60"

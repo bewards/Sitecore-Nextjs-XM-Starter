@@ -1,0 +1,29 @@
+﻿---
+ID: "05f033b3-a206-46a2-b34a-37a550c8cb77"
+Parent: "277e12dd-f260-454e-974a-d6fcf16c48ff"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/DemoSite/Navigation/Header/Subnavigation Link
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: office/32x32/layout_south.png
+  - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+    Hint: __Base template
+    Value: |
+      {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+      {4DD932C2-FE9B-494D-8853-B00AFAF084E6}
+  - ID: "f7d48a55-2158-4f02-9356-756654404f73"
+    Hint: __Standard values
+    Value: "{CCED9374-FD09-4B45-9F90-89D56D5A3132}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "1365b8ca-7e82-4c57-8e0a-39bdd63ca136"

@@ -1,0 +1,91 @@
+﻿---
+ID: "9b872583-3245-4ad6-ade0-98daf0be01e1"
+Parent: "ffa3b957-0043-478a-96d8-0b0c9225915d"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Stacked Icon Callout/Page Data/Rich Texts/Rich Text Full Example
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{0CFB43C5-BA12-4184-ADBE-BA4E5CBDA1E6}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+            Hint: __Lock
+            Value: <r />
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1>Stacked Icon Callout</h1>
+              <p>The Stacked Icon Callout component is a standalone version of the Tout Listing Callout cards, that is designed to be placed within various container components. The component provides content authors with the following properties to different versions of the component:</p>
+              <table style="border:1px solid #000000;">
+                  <tbody>
+                      <tr>
+                          <td style="border:1px solid #000000;padding: 6px;    white-space: nowrap;">
+                          <p>Icon</p>
+                          </td>
+                          <td style="border:1px solid #000000;padding: 6px;">This image field is the image that will appear at the very top of the component.&nbsp;</td>
+                      </tr>
+                      <tr>
+                          <td style="border:1px solid #000000;padding: 6px;    white-space: nowrap;">Title</td>
+                          <td style="border:1px solid #000000;padding: 6px;">This is the text that will be rendered within the heading element of the component, if provided.</td>
+                      </tr>
+                      <tr>
+                          <td style="border:1px solid #000000;padding: 6px;    white-space: nowrap;">Title Heading Level</td>
+                          <td style="border:1px solid #000000;padding: 6px;">This allows content authors to control the level (h1-h6) of the heading element within the component.</td>
+                      </tr>
+                      <tr>
+                          <td style="border:1px solid #000000;padding: 6px;    white-space: nowrap;">Title Text Style</td>
+                          <td style="border:1px solid #000000;padding: 6px;">This allows content authors to set the font size the heading element will use.</td>
+                      </tr>
+                      <tr>
+                          <td style="border:1px solid #000000;padding: 6px;    white-space: nowrap;">Description</td>
+                          <td style="border:1px solid #000000;padding: 6px;">This is the body of text that will be rendered between the heading element and link element, if provide. This field does allow content authors to use inline HTML element such as &lt;em&gt; &amp; &lt;strong&gt;.</td>
+                      </tr>
+                      <tr>
+                          <td style="border:1px solid #000000;padding: 6px;    white-space: nowrap;">Link</td>
+                          <td style="border:1px solid #000000;padding: 6px;">This the page/URL site visitors will be taken to when they click/interact with the link element of this component. Both this and the Link Text are required for the link element to render.</td>
+                      </tr>
+                      <tr>
+                          <td style="border:1px solid #000000;padding: 6px;    white-space: nowrap;">Link Style</td>
+                          <td style="border:1px solid #000000;padding: 6px;">This allows content authors to choose what type of link the link element will be: stand alone or a button variation.</td>
+                      </tr>
+                      <tr>
+                          <td style="border:1px solid #000000;padding: 6px;    white-space: nowrap;">Link Icon</td>
+                          <td style="border:1px solid #000000;padding: 6px;">This allows content authors to append pre-determined icon to the end of the provided text.</td>
+                      </tr>
+                      <tr>
+                          <td style="border:1px solid #000000;padding: 6px;    white-space: nowrap;">Link Text</td>
+                          <td style="border:1px solid #000000;padding: 6px;">This is the text the link element of this component will be rendered with. Both this and the Link are required for the link element to be rendered.</td>
+                      </tr>
+                  </tbody>
+              </table>
+              <p>&nbsp;</p>
+              <p>Below are variation examples of the Stacked Icon Callout component, placed with different structural containers such the Container 50 50, Container 70, and Container 70 30:</p>
+              <br />
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230727T191944Z
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "cd9193ac-c52a-4cee-8fde-c7bcecfc4bb5"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230731T205321Z

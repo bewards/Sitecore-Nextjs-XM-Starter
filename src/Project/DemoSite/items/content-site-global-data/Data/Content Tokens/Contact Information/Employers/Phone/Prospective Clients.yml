@@ -1,0 +1,38 @@
+﻿---
+ID: "37cf1c8e-8555-4be5-bafb-c9f96c0474e1"
+Parent: "d1eb23c5-3d97-4581-a6c9-0f23163b28d3"
+Template: "7d659ee9-d487-4d40-8a92-10c6d68844c8"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Content Tokens/Contact Information/Employers/Phone/Prospective Clients
+SharedFields:
+  - ID: "02f6fb63-fe92-44e8-afa2-20747c893502"
+    Hint: Key
+    Value: Employer Phone Prospective Clients
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1b9d1028-c20c-407b-9dcd-affe86a6f793"
+            Hint: Value
+            Value: "1-800-000-000"
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230724T181622Z
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "19478a72-faaa-4cea-8366-6907ea90b32a"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230724T181821Z

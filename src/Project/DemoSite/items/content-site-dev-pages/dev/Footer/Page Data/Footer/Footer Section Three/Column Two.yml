@@ -1,0 +1,17 @@
+﻿---
+ID: "2a6af02c-be85-432d-9cf1-4bebfbe5c683"
+Parent: "790d85b0-7705-436f-be87-ac10251243b2"
+Template: "8ceee213-8d1c-40ae-9cb7-7129a274504c"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Footer/Page Data/Footer/Footer Section Three/Column Two
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 300
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "d94af32d-ea23-4511-8c30-e60e20feed62"

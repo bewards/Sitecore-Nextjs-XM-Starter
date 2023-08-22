@@ -1,0 +1,38 @@
+﻿---
+ID: "5bfeb439-8794-4b32-8710-2d94522a03a9"
+Parent: "b3e8d4a9-f2ed-4e24-98bf-7c0ca3d7cd60"
+Template: "512c2857-ae92-42e3-b88e-0ab0421dbbe4"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Mobile Header Two Logos with Primary Nav and Utility Links/Utility Link Section/Contact
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 200
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230728T214729Z
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c30b8b7e-a24f-4e4c-bd81-2b2bb7d8fdbc"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "c051d45f-a5c1-46b6-80a3-53c7e67f034e"
+            Hint: linkText
+            Value: Contact
+          - ID: "c5b9e650-0dd5-4656-9db9-1c6448a041fe"
+            Hint: link
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2A0F4ACC-E1A7-4075-BF75-FF6382DF8B9E}" />
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230728T214729Z

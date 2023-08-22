@@ -1,0 +1,33 @@
+﻿---
+ID: "6527f3c0-133c-48cc-a4f3-13d90ff6c32a"
+Parent: "8be049ad-00e3-43a7-adb4-4c4d440bebe5"
+Template: "1528d2b0-3da7-4bf6-9a1a-a38f8d9ccd5c"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/component patterns/Page Data/Sample Datasource With Children Content Resolver
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 200
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "ce30229f-0599-4231-b4f6-a75cbeab6faf"
+          - ID: "9a1024e2-8350-497c-b738-c69521251119"
+            Hint: title
+            Value: "Rendering Content Resolver: Datasource with Children Resolver"
+          - ID: "c05b3d0f-003b-4905-b692-7173fdfe3eb8"
+            Hint: body
+            Value: |
+              <p>This is content from a Datasource Item in the Body Field of type <strong>Rich-Text</strong>.</p>
+              <p>The JSON Sitecore Rendering is used with the Content Resolver field set to <strong>Datasource with Children Resolver</strong></p>
+              <p>When to use:</p>
+              <ul>
+                  <li>Same as above, but the Datasource Item has direct children Item</li>
+              </ul>

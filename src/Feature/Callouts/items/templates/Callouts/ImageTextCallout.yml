@@ -1,0 +1,21 @@
+﻿---
+ID: "3917a9f5-8262-40c6-833d-54659e969e02"
+Parent: "d3938942-2ec4-4f65-8d93-d372ef6870f1"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/DemoSite/Callouts/ImageTextCallout
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: Image Text Callout
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c876af17-5353-49e1-a799-33a8f7e14375"

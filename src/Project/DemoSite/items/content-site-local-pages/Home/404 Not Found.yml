@@ -1,0 +1,64 @@
+﻿---
+ID: "e1c4b027-ee90-4445-aaed-be3b7549e260"
+Parent: "a6904518-754a-4340-9349-9b773d05af1a"
+Template: "dd4aed44-5422-4b0a-8af3-f4cadfe63452"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/404 Not Found
+SharedFields:
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:p="p" xmlns:s="s"
+        p:p="1">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+          <r
+            uid="{90A486A7-F735-4985-9F31-B6ACD0CB3369}">
+            <p:d />
+          </r>
+          <r
+            uid="{2EC97E34-9F33-4766-9C57-6E758EF90985}">
+            <p:d />
+          </r>
+          <r
+            uid="{67441396-027A-4078-9D8D-44C64833B6B5}"
+            p:before="*"
+            s:id="{128E5B68-FAB7-4C1B-9FAB-E3FA0E7CE571}"
+            s:ph="hp-header" />
+          <r
+            uid="{0A644844-0B42-45F8-BC44-9FF297AE0B13}"
+            p:after="*[1=2]"
+            s:id="{1326CBBE-F01D-406C-8543-7AE2462F9875}"
+            s:ph="hp-footer" />
+        </d>
+      </r>
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+            Hint: __Final Renderings
+            Value: |
+              <r xmlns:p="p" xmlns:s="s"
+                p:p="1">
+                <d
+                  id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+                  <r
+                    uid="{CC810E56-B7D8-4E33-94F1-422D25DB8B80}"
+                    p:before="*"
+                    s:ds="{2F806B99-6304-4AEB-B31B-F1F261F8A2D0}"
+                    s:id="{A0924D50-04DB-4596-852D-DEA9C384DCFE}"
+                    s:par="imageDirection=%7B3BAD7018-A678-4311-B5E1-C99E790E7FC7%7D&amp;presentationMode=%7B7F7A58F2-23C4-4489-812F-71434AA2644C%7D&amp;contentBackgroundColor=%7B8CE15CC8-5AB3-413E-997E-B41E56F29C7A%7D"
+                    s:ph="hp-main"
+                    s:ccb="Clear on publish" />
+                </d>
+              </r>
+          - ID: "3714a0a6-c655-4136-97ff-b03268f5ebd2"
+            Hint: openGraphTitle
+            Value: 404 Not Found
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "906077f0-d0f4-4800-a22c-6ec07299467e"
+          - ID: "ac1da9d9-c87f-40fb-8acc-aeaf126df8e5"
+            Hint: pageMetaTitle
+            Value: 404 Not Found

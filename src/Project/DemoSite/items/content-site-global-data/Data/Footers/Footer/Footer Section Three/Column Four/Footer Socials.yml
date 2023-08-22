@@ -1,0 +1,33 @@
+﻿---
+ID: "92a4cd55-1a0a-4802-8462-5f856ae485ec"
+Parent: "897bef8c-5233-4f65-99f0-c43dce24dec2"
+Template: "c25f4ddc-c339-44f3-954b-600fba3e6add"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Footers/Footer/Footer Section Three/Column Four/Footer Socials
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "030faeee-3de2-44b6-ae2b-d3b3b4c70752"
+            Hint: instagramLink
+            Value: |
+              <link text="Facebook" linktype="external" url="http://www.facebook.com/DemoSite" anchor="" target="_blank" />
+          - ID: "11639edb-00c0-4eca-b720-6ec845d71089"
+            Hint: youtubeLink
+            Value: |
+              <link text="Facebook" linktype="external" url="http://www.facebook.com/DemoSite" anchor="" target="_blank" />
+          - ID: "5292a2b0-06cb-4c77-81f5-59b0b497c914"
+            Hint: facebookLink
+            Value: |
+              <link text="Facebook" linktype="external" url="http://www.facebook.com/DemoSite" anchor="" target="_blank" />
+          - ID: "88d9a0ab-3060-4aff-9696-69c89c95e104"
+            Hint: twitterLink
+            Value: |
+              <link text="Facebook" linktype="external" url="http://www.facebook.com/DemoSite" anchor="" target="_blank" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "962834ac-0e08-4991-9f81-85dc09d733c8"
+          - ID: "94ea562e-9f00-49c4-bd36-b335a0b6a7c2"
+            Hint: pinterestLink
+            Value: |
+              <link text="Facebook" linktype="external" url="http://www.facebook.com/DemoSite" anchor="" target="_blank" />

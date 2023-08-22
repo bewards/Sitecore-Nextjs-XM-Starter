@@ -1,0 +1,17 @@
+﻿---
+ID: "bf82f856-5ab8-4aa8-be75-9e9c86062481"
+Parent: "41f24b47-194d-4e26-95b8-c0f1ae00932f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/DemoSite/Samples/ResponsiveImageSample/Content Properties
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "a6c718ad-a0f7-4cb2-8fea-c65ff4cf9267"

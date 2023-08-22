@@ -1,0 +1,21 @@
+﻿---
+ID: "9481e578-bccb-4a2c-9443-c12bba05d717"
+Parent: "2355b3ae-d9a8-4c4f-98a3-f1e728c7baef"
+Template: "4dd932c2-fe9b-494d-8853-b00afaf084e6"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Footer/Page Data/Footer/Footer Section One/Column Two/Employers
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "6c7cc1cf-4c58-4ada-80fa-221186f2667c"
+            Hint: link
+            Value: |
+              <link text="Employers" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{A6904518-754A-4340-9349-9B773D05AF1A}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "7bd8137f-e0f8-4072-bffd-0bd2fc667275"

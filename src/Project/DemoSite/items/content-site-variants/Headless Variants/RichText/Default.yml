@@ -1,0 +1,22 @@
+﻿---
+ID: "38e11e4f-1b1e-4af0-b2f4-ff2d2d6f60f0"
+Parent: "0306bf91-9fa4-4d7d-b521-5b7c19e16039"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Headless Variants/RichText/Default
+BranchID: "6d954d26-5ba2-4e17-9260-28fdc6b057d0"
+SharedFields:
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{DF1847D5-271E-47E0-8630-8E9BEAFE60B3}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "81bfb21d-4525-49b6-ad71-b10fcfa12ccf"

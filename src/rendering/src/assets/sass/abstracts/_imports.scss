@@ -1,0 +1,12 @@
+@import 'bootstrap/scss/functions';
+@import 'bootstrap/scss/variables';
+@import 'bootstrap/scss/maps';
+@import 'bootstrap/scss/mixins';
+
+@import 'palette';
+@import 'grid';
+@import 'component';
+@import 'spacing';
+@import 'typography';
+
+@import '@sass/vendors/bootstrap/variable-overrides';

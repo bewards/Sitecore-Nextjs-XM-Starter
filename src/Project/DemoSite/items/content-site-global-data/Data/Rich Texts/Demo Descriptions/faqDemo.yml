@@ -1,0 +1,33 @@
+﻿---
+ID: "7ed78838-6b0b-4f88-ac50-9eba6f67c878"
+Parent: "ef6d7523-5022-4915-9791-239ff25ececf"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Demo Descriptions/faqDemo
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1>FAQ </h1>
+              <h2>Frequently Asked Questions</h2>
+              <p>Content Authors need a way to add an FAQ section to any page. The FAQ section will consist of a header followed by any number of questions and answers. These questions can be assigned a <a href="#testQuest1">unique ID</a>&nbsp;so they can be directly linked to in the site.</p>
+              <p>First content authors will create the FAQ Section&nbsp;</p>
+              <p><img height="439" alt="FAQ Section example" width="1803" src="-/media/53E98452638D48A7A07CCAE92023617A.ashx" /></p>
+              <p>&nbsp;</p>
+              <p>Content authors will then create FAQ Items under the section they just made</p>
+              <p><img height="555" alt="FAQ Item example" width="1803" src="-/media/42098738F2FC4629AEC00FC785E779A1.ashx" /></p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "0000d940-d960-448c-8ba1-07def8205f36"

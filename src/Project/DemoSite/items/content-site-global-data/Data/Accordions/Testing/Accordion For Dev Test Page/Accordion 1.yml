@@ -1,0 +1,19 @@
+﻿---
+ID: "608d77fc-0438-43b3-a833-124c8a9a1f1c"
+Parent: "cc66384b-07ca-4710-9264-0bf53d13853b"
+Template: "e0315da6-e681-48f8-a8f1-86e7828d4130"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Accordions/Testing/Accordion For Dev Test Page/Accordion 1
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "74542e4e-de5b-4b2d-baf4-d2dc1536e908"
+            Hint: title
+            Value: Accordion 1
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "bf61eeb0-1eb3-436a-b1f0-af8ae848e6a0"
+          - ID: "abf4e38d-1546-4935-bd84-0da98519fe33"
+            Hint: body
+            Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu augue condimentum, rutrum mi id, lacinia nulla. Duis est ligula, posuere at sollicitudin et, aliquet ut neque. Ut libero diam, vestibulum ut velit eu, euismod rhoncus dui. Praesent posuere lacus quis vehicula aliquam. Suspendisse orci elit, mattis vitae eros ut, dictum tempus lorem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut velit ipsum, suscipit quis ipsum sit amet, dapibus varius velit.<br />

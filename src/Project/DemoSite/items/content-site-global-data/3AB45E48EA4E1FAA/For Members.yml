@@ -1,0 +1,24 @@
+﻿---
+ID: "8b8181d6-ee0f-4e19-8195-6f125a459712"
+Parent: "e480469a-250f-4386-9bfc-ede6764bcbe5"
+Template: "e29a8175-d3d3-4b00-949a-3b1e8ea15e45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with Primary Nav and Subnavigation/Primary Navigation/For Members
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "4a6612a9-a218-4156-8c55-d1823cf6c85e"
+          - ID: "b5f94aca-b64a-4aee-94af-8f9c8645d15e"
+            Hint: title
+            Value: For Members
+          - ID: "e552a988-a7cd-49aa-876c-da52e471fca6"
+            Hint: link
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{C043433C-6C22-4F59-9CFD-648BBDFC349E}" />

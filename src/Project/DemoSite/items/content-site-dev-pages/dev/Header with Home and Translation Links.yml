@@ -1,0 +1,92 @@
+﻿---
+ID: "25993cd3-9b10-4d31-a091-ed9c0f2709b4"
+Parent: "615c8c66-b58a-452b-bfd5-458b950d3172"
+Template: "a768a98b-0212-4dcb-bc41-33d3fe781e85"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Header with Home and Translation Links
+SharedFields:
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:p="p" xmlns:s="s"
+        p:p="1">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+          <r
+            uid="{0B598233-D470-44FE-9113-1307C53865C9}"
+            s:ccb="Clear on publish"
+            s:ds="{FDB38FA3-3969-45BA-B835-E0BB2B305A80}"
+            s:par="" />
+          <r
+            uid="{4E4F36DA-E5FB-4A9E-80B9-EB3FCB018905}"
+            p:after="r[@uid='{0B598233-D470-44FE-9113-1307C53865C9}']"
+            s:ds="local:/Page Data/Header Documentation"
+            s:id="{919D1D17-405B-499C-8473-2EAD67EFBA47}"
+            s:par="RenderingIdentifier"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{866A44B8-8238-4E9B-96C3-5EDBE44F729A}">
+            <p:d />
+          </r>
+          <r
+            uid="{991A4156-86B2-4115-9447-C49A4B2E8652}"
+            p:after="*[1=2]"
+            s:id="{1326CBBE-F01D-406C-8543-7AE2462F9875}"
+            s:par="CacheClearingBehavior=Clear%20on%20publish"
+            s:ph="hp-footer" />
+        </d>
+      </r>
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230814T144043Z
+          - ID: "3714a0a6-c655-4136-97ff-b03268f5ebd2"
+            Hint: openGraphTitle
+            Value: Header with Home and Translation Links
+          - ID: "458cdbb7-949a-48f4-b830-5da8722e1734"
+            Hint: body
+            Value:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "b1ea9451-ee70-4698-9768-cadd0a5a12e2"
+          - ID: "9e36878a-df50-431a-9847-a5ef7781053e"
+            Hint: title
+            Value: Header with Home and Translation Links
+          - ID: "ac1da9d9-c87f-40fb-8acc-aeaf126df8e5"
+            Hint: pageMetaTitle
+            Value: Header with Home and Translation Links
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230814T144043Z
+  - Language: "es-ES"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "3714a0a6-c655-4136-97ff-b03268f5ebd2"
+            Hint: openGraphTitle
+            Value: "Header with Home and Translation Links - Spanish"
+          - ID: "54f40177-9939-40fd-ba31-514d8c82357b"
+            Hint: pageMetaDescription
+            Value: Demo Site ofrece acceso a los mejores hospitales, los mejores médicos y el mejor servicio al cliente para individuos, familias y grupos de empleadores. Descubra por qué cada vez más personas nos eligen.
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "e483f823-7936-48f0-9709-6d3d716ce9c8"
+          - ID: "ac1da9d9-c87f-40fb-8acc-aeaf126df8e5"
+            Hint: pageMetaTitle
+            Value: "Header with Home and Translation Links - Spanish"

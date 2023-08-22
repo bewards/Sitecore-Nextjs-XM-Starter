@@ -1,0 +1,217 @@
+resources:
+  - repo: self
+    clean: true
+
+trigger:
+  - develop
+
+stages:
+  - stage: Build_Sitecore
+    displayName: Build Sitecore with Items And Publish Artifact
+    pool:
+      vmImage: windows-2019
+      demands:
+        - msbuild
+        - visualstudio
+    jobs:
+      - job: Build
+        displayName: Build Sitecore Solution using HPP Publish Profile
+        steps:
+          - task: NuGetToolInstaller@1
+            displayName: Nuget Version Installer
+            inputs:
+              versionSpec: "5.11.2"
+          - task: NuGetCommand@2
+            displayName: Nuget Restore
+            inputs:
+              command: "restore"
+              restoreSolution: "**/*.sln"
+              feedsToUse: "config"
+              nugetConfigPath: "nuget.config"
+          - task: MSBuild@1
+            displayName: msbuild with CI PublishProfile
+            inputs:
+              solution: "$(Build.SourcesDirectory)/src/Environment/platform/DemoSite.Environment.csproj"
+              # solution: '**/*.sln'
+              msbuildVersion: "16.0"
+              msbuildArchitecture: "x64"
+              configuration: "$(BUILD_CONFIGURATION)"
+              msbuildArguments: "/p:DeployOnBuild=true /p:PublishProfile=CI /p:PublishProfileRootFolder=$(Build.SourcesDirectory)/src/Environment/platform/Properties/PublishProfiles"
+          - task: CopyFiles@2
+            displayName: Copy Files from msbuild Publish to Artifact Staging
+            condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+            inputs:
+              SourceFolder: '$(Build.SourcesDirectory)\src\Environment\platform\bin\release\Publish'
+              Contents: "**"
+              TargetFolder: "$(Build.ArtifactStagingDirectory)"
+              CleanTargetFolder: true
+          - task: PublishBuildArtifacts@1
+            displayName: Copy Files from msbuild Publish to Artifact Staging
+            condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+            inputs:
+              PathtoPublish: "$(Build.ArtifactStagingDirectory)"
+              ArtifactName: "sc_drop"
+              publishLocation: "Container"
+      - job: Create_Sitecore_ItemResources
+        displayName: Create Sitecore Item Resources
+        condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+        steps:
+          - task: PowerShell@2
+            displayName: Create Sitecore Resource Packages
+            condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+            inputs:
+              targetType: "inline"
+              script: |
+                if (-not $(Get-PackageSource -Name Sitecore -ProviderName NuGet -ErrorAction Ignore))
+                {
+                  dotnet nuget add source -n Sitecore https://sitecore.myget.org/F/sc-packages/api/v3/index.json
+                }
+                dotnet tool restore
+                # non content and core items (master)
+                dotnet sitecore itemres create -e *.Content*, *.Core -o "$(Build.ArtifactStagingDirectory)\App_Data\items\master\DemoSite.Master" -v
+                # core items
+                dotnet sitecore itemres create -i *.Core -o "$(Build.ArtifactStagingDirectory)\App_Data\items\core\DemoSite.Core" -v
+              workingDirectory: "$(Build.SourcesDirectory)"
+          - task: PowerShell@2
+            displayName: Create Sitecore Resource Packages - Content
+            condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+            # enabled: false
+            inputs:
+              targetType: "inline"
+              script: |
+                if (-not $(Get-PackageSource -Name Sitecore -ProviderName NuGet -ErrorAction Ignore))
+                {
+                  dotnet nuget add source -n Sitecore https://sitecore.myget.org/F/sc-packages/api/v3/index.json
+                }
+                dotnet tool restore
+
+                # base content items - ALL envs
+                dotnet sitecore itemres create -i *.Content -o "$(Build.ArtifactStagingDirectory)\App_Data\items\master\DemoSite.Content" -v
+
+                # sample content items - DEV only
+                dotnet sitecore itemres create -i *.Content.Sample -o "$(Build.ArtifactStagingDirectory)\App_Data\items\master\DemoSite.Content.Sample" -v
+              workingDirectory: "$(Build.SourcesDirectory)"
+          - task: PowerShell@2
+            displayName: Copy Item Resources from Master to Web
+            condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+            inputs:
+              targetType: "inline"
+              script: |
+                gci -Path .\App_Data\items -Recurse *.master*.dat | % {echo F|xcopy $_.FullName $_.FullName.Replace("master", "web")}
+              workingDirectory: "$(Build.ArtifactStagingDirectory)"
+
+          - task: PublishBuildArtifacts@1
+            displayName: Copy Files from msbuild Publish to Artifact Staging
+            condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+            inputs:
+              PathtoPublish: "$(Build.ArtifactStagingDirectory)"
+              ArtifactName: "sc_itemres_drop"
+              publishLocation: "Container"
+
+  - stage: Build_Nextjs
+    displayName: Build Next.js Application
+    pool:
+      vmImage: ubuntu-latest
+    jobs:
+      - job: Build_Nextjs_Job
+        displayName: Npm Install, ESLint, and Build
+        steps:
+          - task: NodeTool@0
+            inputs:
+              versionSource: "spec"
+              versionSpec: "18.12.1"
+          - task: Npm@1
+            displayName: Npm Install
+            inputs:
+              command: "install"
+              workingDir: "$(Build.SourcesDirectory)/src/rendering"
+          - task: Npm@1
+            displayName: Bootstrap
+            inputs:
+              command: "custom"
+              workingDir: "$(Build.SourcesDirectory)/src/rendering"
+              customCommand: "run bootstrap"
+          - task: Npm@1
+            displayName: Eslint
+            inputs:
+              command: "custom"
+              workingDir: "$(Build.SourcesDirectory)/src/rendering"
+              customCommand: "run lint"
+            # replacetokens moved to release pipeline to build once
+          - task: qetza.replacetokens.replacetokens-task.replacetokens@3
+            displayName: Replace .env tokens
+            enabled: false
+            condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+            inputs:
+              rootDirectory: "$(Build.SourcesDirectory)/src/rendering"
+              targetFiles: ".env.production"
+              encoding: "auto"
+              tokenPattern: "default"
+              writeBOM: true
+              actionOnMissing: "warn"
+              keepToken: false
+              actionOnNoFiles: "continue"
+              enableTransforms: false
+              enableRecursion: false
+              useLegacyPattern: false
+              enableTelemetry: true
+          - task: Npm@1
+            displayName: Npm run build
+            condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+            inputs:
+              command: "custom"
+              workingDir: "$(Build.SourcesDirectory)/src/rendering"
+              customCommand: "run build"
+          - task: PowerShell@2
+            displayName: Copy necessary node_modules for nextjs standalone
+            condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+            inputs:
+              targetType: "inline"
+              script: |
+                Copy-Item -Path "$(Build.SourcesDirectory)\src\rendering\node_modules\cross-env\*" -Destination "$(Build.SourcesDirectory)\src\rendering\.next\standalone\node_modules\cross-env" -Recurse
+          - task: PowerShell@2
+            displayName: Copy static assets to nextjs standalone
+            condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+            inputs:
+              targetType: "inline"
+              script: |
+                If (!(Test-Path "$(Build.SourcesDirectory)\src\rendering\.next\standalone\.next\static")) {
+                    New-Item -Path "$(Build.SourcesDirectory)\src\rendering\.next\standalone\.next\static" -ItemType Directory
+                }
+                Copy-Item -Path "$(Build.SourcesDirectory)\src\rendering\.next\static\*" -Destination "$(Build.SourcesDirectory)\src\rendering\.next\standalone\.next\static\" -Recurse
+
+                If (!(Test-Path "$(Build.SourcesDirectory)\src\rendering\.next\standalone\public")) {
+                    New-Item -Path "$(Build.SourcesDirectory)\src\rendering\.next\standalone\public" -ItemType Directory
+                }
+                Copy-Item -Path "$(Build.SourcesDirectory)\src\rendering\public\*" -Destination "$(Build.SourcesDirectory)\src\rendering\.next\standalone\public\" -Recurse
+                # Remove-Item -Path "$(Build.SourcesDirectory)\src\rendering\.next\standalone\.env" -Force
+          - task: Bash@3
+            enabled: false
+            inputs:
+              targetType: inline
+              workingDirectory: $(Build.SourcesDirectory)
+              script: ls src\rendering\.next -a -R
+          - task: CopyFiles@2
+            displayName: Copy Next.js build standalone files to Artifact Staging
+            condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+            inputs:
+              SourceFolder: "$(Build.SourcesDirectory)/src/rendering/.next/standalone"
+              Contents: "**"
+              TargetFolder: "$(Build.ArtifactStagingDirectory)"
+              CleanTargetFolder: true
+          - task: ArchiveFiles@2
+            displayName: Zip Build
+            enabled: false
+            condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+            inputs:
+              rootFolderOrFile: "./src/rendering/.next/standalone"
+              includeRootFolder: false
+              archiveType: "zip"
+              archiveFile: "$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip"
+              replaceExistingArchive: true
+          - task: PublishBuildArtifacts@1
+            condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+            inputs:
+              PathtoPublish: "$(Build.ArtifactStagingDirectory)"
+              ArtifactName: "nextjs_drop"
+              publishLocation: "Container"

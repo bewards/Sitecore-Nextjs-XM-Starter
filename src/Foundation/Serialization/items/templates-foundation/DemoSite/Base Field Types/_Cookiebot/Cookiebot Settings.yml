@@ -1,0 +1,21 @@
+﻿---
+ID: "b4890592-fda9-442d-adac-7529e4566167"
+Parent: "6b5a6b92-657a-4afe-a528-0b2f83ea9824"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/DemoSite/Base Field Types/_Cookiebot/Cookiebot Settings
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: softwarev2/32x32/code_javascript.png
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "dd4b81f7-ce35-47c7-91af-f6b34fab85ca"

@@ -1,0 +1,42 @@
+﻿---
+ID: "cf32dcd8-9ed7-58dc-9b26-aec607f4d79d"
+Parent: "ed20e49c-fd6a-515b-8a8f-cb9b4ea7efeb"
+Template: "5e9b5e34-4264-5f95-8c53-3c1f0382f7f2"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/styleguide/Page Data/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: "Styleguide-FieldUsage-ContentList-11"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04d46078-11b7-5878-96bb-7d762753b405"
+            Hint: heading
+            Value: Content List
+          - ID: "212d1e4b-2a81-5ae1-a8f6-fee4b2fbe326"
+            Hint: description
+            Value: |
+              <p>
+                <small>
+                  Content Lists are a way to reference zero or more other content items.
+                  Referenced items may be shared.
+                  To reference a single content item, use an <em>Item Link</em> field.<br />
+                  <strong>Note:</strong> Sitecore does not support inline editing of Content List fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+                </small>
+              </p>
+
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "54685b1c-20d8-4708-9661-232267002934"
+          - ID: "b64f1fd5-653d-5afd-a945-0a16e4cd7369"
+            Hint: localContentList
+            Value: |
+              {4236330C-F5F7-55F7-8929-34F0BE47E5E7}
+              {E479183A-DD11-5D63-BB96-EEC38448A654}
+          - ID: "dc11e14c-d7c3-5069-829d-72f2cc47727c"
+            Hint: sharedContentList
+            Value: |
+              {0EC3F6F8-FED5-564A-9295-7B714F656A82}
+              {EF454AA7-C3AF-5994-8AEF-6F5521E905B2}

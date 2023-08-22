@@ -1,0 +1,20 @@
+﻿---
+ID: "3bad7018-a678-4311-b5e1-c99e790e7fc7"
+Parent: "2f642df0-4d14-4924-9635-eed5d6735983"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Image Directions/Left
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: left
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "539ba49a-e9b9-4cb4-900b-ba5fd9ffcde1"

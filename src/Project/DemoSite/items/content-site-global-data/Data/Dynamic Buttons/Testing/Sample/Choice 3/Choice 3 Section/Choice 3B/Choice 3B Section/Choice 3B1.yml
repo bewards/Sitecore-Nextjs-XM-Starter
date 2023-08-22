@@ -1,0 +1,20 @@
+﻿---
+ID: "b4489161-5a3b-4fbd-9919-fc2a14523e59"
+Parent: "3a79e4ab-3980-4f02-8720-67251f9920fb"
+Template: "9c46baf3-8f0b-4c17-a79f-b103c51f23be"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Dynamic Buttons/Testing/Sample/Choice 3/Choice 3 Section/Choice 3B/Choice 3B Section/Choice 3B1
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "2efe6884-aeb6-4f29-8508-6424e683df3f"
+            Hint: choiceText
+            Value: Choice 3B1
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "e7272f2c-d77f-45ca-86a8-5f77befcbf9c"
+          - ID: "d80415ab-ffe9-4b56-98cc-d0970ae6481f"
+            Hint: linkLocation
+            Value: |
+              <link text="Link description" linktype="external" url="http://bing.com" anchor="" target="" />

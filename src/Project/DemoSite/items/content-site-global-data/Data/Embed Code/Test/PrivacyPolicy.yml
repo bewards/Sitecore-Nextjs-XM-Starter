@@ -1,0 +1,37 @@
+﻿---
+ID: "591ae960-79e8-4421-b7b2-68066944042d"
+Parent: "4a51c225-f49f-4589-9a75-1f791d12699c"
+Template: "06318375-1390-4d2b-beeb-81f37cb5c114"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Embed Code/Test/PrivacyPolicy
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: Privacy Policy
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "570fcd04-b717-4342-9636-5af65158e232"
+            Hint: embedCode
+            Value: |
+              <div>
+              	<h1 class="generic-header-grey">Terms &amp; Conditions</h1>
+              </div>
+              <div class="privacy-div">
+              	<script id="CookieDeclaration" src="https://consent.cookiebot.com/847727f0-46d0-446e-bb7b-29cbe51dd75b/cd.js" type="text/javascript" async></script>
+              	<script>
+              		setTimeout(function () {
+              			if (window.location.href.includes("#")) {
+              				window.location.href = window.location.href;
+              			}
+              		}, 500);
+              	</script>
+              </div>
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "4884f15f-f7ce-49f4-861d-d1bdaf1a2efb"

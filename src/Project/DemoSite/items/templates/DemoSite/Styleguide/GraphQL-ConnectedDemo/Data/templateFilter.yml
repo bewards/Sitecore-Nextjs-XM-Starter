@@ -1,0 +1,24 @@
+﻿---
+ID: "59226212-b2e3-4373-a9a5-ed5836251c17"
+Parent: "3f2cd36f-a468-587c-9d52-315a77c0f41d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Project/DemoSite/Styleguide/GraphQL-ConnectedDemo/Data/templateFilter"
+SharedFields:
+  - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+    Hint: Type
+    Value: Droptree
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 300
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "732bd3c4-0842-459b-bfb2-3beb02ce86f2"

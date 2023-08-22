@@ -1,0 +1,22 @@
+﻿---
+ID: "41577e38-4b13-4e0e-b39c-365a2d2b51c8"
+Parent: "8aa39d8e-d965-454d-8658-f9f17cbc8512"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/templates/Branches/Project/DemoSite/Generic Page with Breadcrumb/$name/Page Data/Rich Texts/Rich Text Full Example
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2>Rich Text Full Component</h2>
+              <p>This is a sample Rich Text Full Component. Etiam sodales augue volutpat est scelerisque, quis pharetra dolor vulputate. Sed quis dui non nunc efficitur scelerisque. Fusce in vestibulum dolor. Nullam metus mi, egestas at feugiat nec, sollicitudin eu risus. Sed sed ante nec tellus tristique fermentum. Morbi purus dolor, iaculis sed sodales vitae, accumsan non odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. In volutpat vitae magna eget fringilla. Nulla et mattis elit. Ut blandit aliquam tempor. Nam auctor dapibus dolor, ut lacinia ex. Nam tincidunt at ante quis sagittis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi eget feugiat turpis. Cras eu accumsan nisi.</p>
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "97696f46-7998-401c-baa6-0ee726b312ed"

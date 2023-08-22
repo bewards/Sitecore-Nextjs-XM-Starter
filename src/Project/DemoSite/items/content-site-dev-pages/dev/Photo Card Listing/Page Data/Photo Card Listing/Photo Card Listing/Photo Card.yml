@@ -1,0 +1,44 @@
+﻿---
+ID: "d887689d-c583-4c06-aebc-f99e311395b3"
+Parent: "1ffa598d-86d4-4654-acb5-177ab4211988"
+Template: "9bd57a90-5944-4bb4-812d-471fa9a8d62a"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Photo Card Listing/Page Data/Photo Card Listing/Photo Card Listing/Photo Card
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230710T192520Z
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{A8C98852-2762-41D3-B367-A2345442EE1F}"
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "6fabf531-540b-4962-8197-c53c545653ed"
+            Hint: image
+            Value: |
+              <image mediaid="{23BD2854-BE24-41A0-809E-45887363A773}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "ac319ad6-93d8-4ab7-a000-dca1f570405d"
+          - ID: "a97fce0e-ee7a-4cba-af1a-7807b1229312"
+            Hint: link
+            Value:
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230711T140811Z
+          - ID: "e7c15c3b-b7ce-4602-ad91-43fcdbfc6e79"
+            Hint: linkText
+            Value: We provide world class health care

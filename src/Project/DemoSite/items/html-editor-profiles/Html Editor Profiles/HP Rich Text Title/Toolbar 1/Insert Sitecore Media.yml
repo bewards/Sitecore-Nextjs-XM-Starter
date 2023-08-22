@@ -1,0 +1,32 @@
+﻿---
+ID: "67620a25-df19-4799-b0d0-fb4792fea1a1"
+Parent: "c27cb634-2687-4501-9551-f4346de37d4b"
+Template: "3c8bd8a1-280b-4278-bb8b-21fa3b87af0f"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Title/Toolbar 1/Insert Sitecore Media
+BranchID: "b9ed3ccb-9ec5-4c8c-825b-3dbc2eb0e676"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/photo_scenery.png
+- ID: "7cf6da87-047d-447d-99e9-d1e355330db3"
+  Hint: Click
+  Value: InsertSitecoreMedia
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1600
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Insert Sitecore Media
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4fb56bb0-4959-41f5-a55f-f7fb4627ad70"

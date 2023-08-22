@@ -1,0 +1,27 @@
+﻿---
+ID: "f04790f2-c65c-4a6a-a1a7-745433ca19a1"
+Parent: "8af154fa-be91-4856-b7aa-f3ccc6e6fb12"
+Template: "ca25e0b6-c5a8-47c0-b70c-510a361c1db1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Contact Information/Employers/Phone Blocks
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230724T181130Z
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "e572701a-e323-4e03-b0d8-6b054c16ca05"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230724T181130Z

@@ -1,0 +1,15 @@
+{
+  "name": "demosite_solution",
+  "version": "1.0.0",
+  "description": "Packages for overall solution scaffolding.",
+  "scripts": {
+    "plop": "plop"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.2",
+    "fs-extra": "^11.1.1",
+    "plop": "^3.1.2"
+  }
+}

@@ -1,0 +1,43 @@
+﻿---
+ID: "072f957a-742f-4dbe-b745-4d208feddd8f"
+Parent: "244d8ae5-4904-4981-9ff1-5ed86c73be82"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Test Mobile Header/Page Data/Rich Texts/Rich Text Full Example
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{0CFB43C5-BA12-4184-ADBE-BA4E5CBDA1E6}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2>Rich Text Full Component</h2>
+              <p>This is a sample page with header consist of two logos , primary nav and utility links. Verified the scroll functionality In mobile, pages are scrolling properly after initial navigation (i.e. the second page you visit). Etiam sodales augue volutpat est scelerisque, quis pharetra dolor vulputate. Sed quis dui non nunc efficitur scelerisque. Fusce in vestibulum dolor. Nullam metus mi, egestas at feugiat nec, sollicitudin eu risus. Sed sed ante nec tellus tristique fermentum. Morbi purus dolor, iaculis sed sodales vitae, accumsan non odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. In volutpat vitae magna eget fringilla. Nulla et mattis elit. Ut blandit aliquam tempor. Nam auctor dapibus dolor, ut lacinia ex. Nam tincidunt at ante quis sagittis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi eget feugiat turpis. Cras eu accumsan nisi.</p>
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230728T214828Z
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{2C62529D-8629-4CD2-8368-AFC8C5D9D3C3}"
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "52243196-f94b-4a68-a898-1e883b4f3327"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230728T221325Z

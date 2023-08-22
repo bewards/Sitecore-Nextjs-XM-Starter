@@ -1,0 +1,120 @@
+{
+  "namespace": "DemoSite.Content.Sample",
+  "references": ["DemoSite.Content"],
+  "tags": ["content"],
+  "items": {
+    "includes": [
+      {
+        "name": "content-site-home",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Home",
+        "scope": "singleItem",
+        "allowedPushOperations": "createAndUpdate"
+      },
+      {
+        "name": "content-site-home-data",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Home/Page Data",
+        "scope": "itemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "content-site-dev-pages",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev",
+        "scope": "itemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "content-site-forms",
+        "path": "/sitecore/forms/DemoSite",
+        "scope": "itemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "content-site-global-data",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Data",
+        "scope": "descendantsOnly",
+        "allowedPushOperations": "createUpdateAndDelete",
+        "rules": [
+          {
+            "path": "/Alert Banners",
+            "scope": "singleItem"
+          },
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "content-site-availrenderings",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Available Renderings",
+        "scope": "descendantsOnly",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "content-site-variants",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Headless Variants",
+        "scope": "descendantsOnly",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "content-site-page-branches",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Page Branches",
+        "scope": "descendantsOnly",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "content-site-page-designs",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Page Designs",
+        "scope": "descendantsOnly",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "content-site-partial-designs",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Partial Designs",
+        "scope": "descendantsOnly",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "content-site-grouping-item",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Settings/Site Grouping/DemoSiteWebsite",
+        "scope": "singleItem",
+        "allowedPushOperations": "createAndUpdate"
+      },
+      {
+        "name": "content-site-media-samples",
+        "path": "/sitecore/media library/Project/DemoSite/DemoSiteWebsite/Samples",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "name": "content-site-dictionary-items",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Dictionary",
+        "scope": "descendantsOnly",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "content-site-setting-items",
+        "path": "/sitecore/content/DemoSite/Global Content Settings",
+        "scope": "descendantsOnly",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "media-shared-logos",
+        "path": "/sitecore/media library/Project/DemoSite/shared/logos",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "name": "content-site-styles",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Styles",
+        "scope": "descendantsOnly",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "site-tenant-global-data",
+        "path": "/sitecore/content/DemoSite/Global Data",
+        "scope": "descendantsOnly",
+        "allowedPushOperations": "createUpdateAndDelete"
+      }
+    ]
+  }
+}

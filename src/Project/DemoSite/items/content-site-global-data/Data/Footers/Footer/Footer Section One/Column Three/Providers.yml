@@ -1,0 +1,21 @@
+﻿---
+ID: "8dc3782d-10c6-4bb6-bb77-d086afe210f8"
+Parent: "bb815cab-265c-419c-86f5-9477aafcb2f9"
+Template: "4dd932c2-fe9b-494d-8853-b00afaf084e6"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Footers/Footer/Footer Section One/Column Three/Providers
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "6c7cc1cf-4c58-4ada-80fa-221186f2667c"
+            Hint: link
+            Value: |
+              <link text="Providers" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{A6904518-754A-4340-9349-9B773D05AF1A}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "fdcaa5ed-0566-4c0d-bc74-a6dc99fd1ec2"

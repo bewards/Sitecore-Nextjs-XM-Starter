@@ -1,0 +1,17 @@
+﻿---
+ID: "cfb1b4c7-75c0-4dd2-ae2e-fd5d159a106d"
+Parent: "a3bc0ab0-af6d-47e2-a957-0262b037bc0a"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Grid System/Page Data
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "b751307c-dcca-478c-bdbd-9964abdf9104"

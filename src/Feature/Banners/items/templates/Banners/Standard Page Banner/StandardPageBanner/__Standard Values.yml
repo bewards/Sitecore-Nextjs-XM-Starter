@@ -1,0 +1,55 @@
+﻿---
+ID: "742f51d7-12d6-4892-8c22-9e9d921b4c5b"
+Parent: "f5bc8b22-44dd-4e69-a9d2-214d67e0eef8"
+Template: "f5bc8b22-44dd-4e69-a9d2-214d67e0eef8"
+Path: /sitecore/templates/Feature/DemoSite/Banners/Standard Page Banner/StandardPageBanner/__Standard Values
+SharedFields:
+  - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+    Hint: __Default workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "238aeaa5-4358-480e-9721-76049a107f8e"
+            Hint: bannerSubtitleTextStyle
+            Value: "{61984BBC-1EC5-4C6B-B3F7-5E6FD4C45095}"
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230815T192750Z
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "7d649af9-1d53-4e20-a1fe-ab2c10afb4d2"
+            Hint: bannerTitle
+            Value: $name
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "132d5cfc-1d8e-4c6e-9c00-668a021babf6"
+          - ID: "925a2bdc-0431-460f-916d-fde3e5da267a"
+            Hint: bannerSubtitleHeadingLevel
+            Value: "{9F06C920-7BCB-4F11-9ECE-26F2DBE9EA09}"
+          - ID: "9b84f6d5-dad9-48ba-82b6-6940411d1016"
+            Hint: bannerTitleTextStyle
+            Value: "{61984BBC-1EC5-4C6B-B3F7-5E6FD4C45095}"
+          - ID: "ae3d5c91-6c14-44c3-8c57-833c215f8ff4"
+            Hint: bannerTitleHeadingLevel
+            Value: "{78B20101-98D3-4C0A-A17D-EF383C11A009}"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "c162a9be-4303-4b35-8d4f-bf1f6af9a821"
+            Hint: imageType
+            Value: "{9AA18D19-DA78-42FD-AD90-3F2A57F1AFC8}"
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230816T201015Z
+          - ID: "e62eaf1b-0a98-4070-bb65-f74bfc0e58fb"
+            Hint: bannerLinkMode
+            Value: "{704D50C0-F26C-4CB3-A472-01324DF268AD}"
+          - ID: "fc6c56b8-c20a-40d8-88f4-0ce2091d9e0e"
+            Hint: bannerLinkIcon
+            Value: "{0C3DB8FF-0F8A-42CA-9E5F-537E3C074F59}"

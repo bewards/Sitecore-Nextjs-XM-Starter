@@ -1,0 +1,16 @@
+﻿---
+ID: "2893dccf-930f-485b-9ffe-0052f0f16f48"
+Parent: "702959e2-23e3-4ab8-b312-f6c15b8437cf"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Icon Variants/Carat
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: carat
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "df90d6ac-7813-4d30-9ebe-2f5b96250c88"

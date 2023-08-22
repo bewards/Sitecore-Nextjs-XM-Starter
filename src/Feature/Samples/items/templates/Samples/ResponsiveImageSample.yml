@@ -1,0 +1,24 @@
+﻿---
+ID: "41f24b47-194d-4e26-95b8-c0f1ae00932f"
+Parent: "1f973495-22d0-41d7-a93e-dee8b712f70c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/DemoSite/Samples/ResponsiveImageSample
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: Applications/16x16/star_green.png
+  - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+    Hint: __Base template
+    Value: "{22A9D411-866C-4E51-BA89-0B5A50856CED}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "12e11837-3a61-487a-a4f8-37c1d3e0cfdb"

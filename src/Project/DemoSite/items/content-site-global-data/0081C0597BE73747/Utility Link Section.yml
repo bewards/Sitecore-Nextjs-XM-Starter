@@ -1,0 +1,17 @@
+﻿---
+ID: "b3e8d4a9-f2ed-4e24-98bf-7c0ca3d7cd60"
+Parent: "23feb628-cdc6-4dd9-90ce-c8151a106d4a"
+Template: "794129fb-8ebd-4e5f-b894-45e6d9896441"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Mobile Header Two Logos with Primary Nav and Utility Links/Utility Link Section
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 100
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "114a24a4-a849-42a0-896e-08090827c723"

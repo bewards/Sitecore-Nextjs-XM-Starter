@@ -1,0 +1,20 @@
+{
+  "namespace": "Feature.BasicContent",
+  "references": ["Foundation.*"],
+  "items": {
+    "includes": [
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/Feature/DemoSite/Basic Content"
+      },
+      {
+        "name": "templates-common",
+        "path": "/sitecore/templates/Feature/DemoSite/Common"
+      },
+      {
+        "name": "renderings",
+        "path": "/sitecore/layout/Renderings/Feature/Basic Content"
+      }
+    ]
+  }
+}

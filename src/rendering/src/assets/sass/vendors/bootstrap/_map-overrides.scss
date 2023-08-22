@@ -1,0 +1,19 @@
+// remove most standard color maps ($purple, etc)
+$colors: map-remove(
+  $colors,
+  'blue',
+  'indigo',
+  'purple',
+  'pink',
+  'red',
+  'orange',
+  'yellow',
+  'green',
+  'teal',
+  'cyan',
+  'gray',
+  'bs-gray'
+);
+
+// Merge the maps
+$theme-colors: map-merge($theme-colors, $custom-colors);

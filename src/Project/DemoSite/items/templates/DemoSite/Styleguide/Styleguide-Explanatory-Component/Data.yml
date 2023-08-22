@@ -1,0 +1,17 @@
+﻿---
+ID: "9f847023-ef5e-526b-9199-33b4d7c29ea8"
+Parent: "e0edbfef-4b0b-5383-8047-6a186ae551a1"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/DemoSite/Styleguide/Styleguide-Explanatory-Component/Data"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "4bfa21e2-190c-4796-9515-02d9389a4bf1"

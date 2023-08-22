@@ -1,0 +1,20 @@
+﻿---
+ID: "8ee69bb2-2228-4779-a147-b4ad5cfb819c"
+Parent: "1824d5b4-82c3-4bae-810f-86a1e0ad3d05"
+Template: "b16be6d1-3791-4c45-bac8-2daad22ed438"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header Empty"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0ef38ce7-c157-4358-b974-d7914624fd50"
+            Hint: firstLogo
+            Value:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "afea9649-7e08-4852-9168-1e47b9a51c92"
+          - ID: "f1ec5da5-d1a2-426e-adaa-c2263eb87957"
+            Hint: firstLogoLink
+            Value: |
+              <link text="Test link" linktype="external" url="https://www.google.com" anchor="" title="Alt text" target="" />

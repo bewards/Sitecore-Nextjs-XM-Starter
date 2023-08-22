@@ -1,0 +1,36 @@
+﻿---
+ID: "9471abe4-cc49-4b0f-ac78-df6f7a2fd518"
+Parent: "4012bb6f-a63c-42a9-86c1-908d96d275a7"
+Template: "4012bb6f-a63c-42a9-86c1-908d96d275a7"
+Path: /sitecore/templates/Feature/DemoSite/Listings/Link Listing/Link Listing Folder/__Standard Values
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: office/32x32/folder_document.png
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: |
+      {535CA928-9ED4-48F6-8A09-45FAD36A4754}
+      {4012BB6F-A63C-42A9-86C1-908D96D275A7}
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230717T202704Z
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "09d61c19-29e7-4e7d-94cb-161c5d95af88"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230719T201623Z

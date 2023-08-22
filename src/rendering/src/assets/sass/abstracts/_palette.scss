@@ -1,0 +1,187 @@
+/* Variables for the updated color palette. */
+
+/* Black/White */
+$black: #000000;
+$white: #ffffff;
+
+/* Purple */
+$purple-10: #f7ebf7;
+$purple-10-hover: #ded3de;
+$purple-10-pressed: #c4bbc4;
+
+$purple-15: #ebd1e9;
+$purple-15-hover: #d1bacf;
+$purple-15-pressed: #b8a3b6;
+
+$purple-20: #d4a9d1;
+$purple-20-hover: #ba95b8;
+$purple-20-pressed: #a1819f;
+
+$purple-30: #c280bd;
+$purple-30-hover: #a86fa4;
+$purple-30-pressed: #8f5e8b;
+
+$purple-40: #b552af;
+$purple-40-hover: #9c4696;
+$purple-40-pressed: #823b7e;
+
+$purple-50: #9c258b;
+$purple-50-hover: #821f74;
+$purple-50-pressed: #69195d;
+
+$purple-60: #771b61;
+$purple-60-hover: #5e154d;
+$purple-60-pressed: #451038;
+
+$purple-70: #4f1140;
+$purple-70-hover: #260a26;
+$purple-70-pressed: #0d030d;
+
+/* Gray */
+$gray-10: #f2f5f7;
+$gray-10-hover: #d9dcde;
+$gray-10-pressed: #c0c3c4;
+
+$gray-15: #eaeef0;
+$gray-15-hover: #d1d4d6;
+$gray-15-pressed: #b9bbbd;
+
+$gray-20: #dadfe3;
+$gray-20-hover: #c1c6c9;
+$gray-20-pressed: #a9adb0;
+
+$gray-30: #bac0c2;
+$gray-30-hover: #a1a7a8;
+$gray-30-pressed: #898d8f;
+
+$gray-40: #8d9599;
+$gray-40-hover: #767c80;
+$gray-40-pressed: #5e6366;
+
+$gray-50: #666d70;
+$gray-50-hover: #4f5457;
+$gray-50-pressed: #383c3d;
+
+$gray-60: #3a4042;
+$gray-60-hover: #242829;
+$gray-60-pressed: #0d0f0f;
+
+$gray-70: #232526;
+$gray-70-hover: #0c0c0d;
+$gray-70-pressed: $black;
+
+/* Teal */
+$teal-10: #e4fdf7;
+$teal-10-hover: #cce3de;
+$teal-10-pressed: #b5c9c5;
+
+$teal-15: #cbf2e8;
+$teal-15-hover: #b6d9d0;
+$teal-15-pressed: #a1bfb8;
+
+$teal-20: #a1e5d4;
+$teal-20-hover: #8fccbd;
+$teal-20-pressed: #7db3a5;
+
+$teal-30: #7ed6c1;
+$teal-30-hover: #6fbdaa;
+$teal-30-pressed: #60a393;
+
+$teal-40: #27c4a5;
+$teal-40-hover: #22ab90;
+$teal-40-pressed: #1d917a;
+
+$teal-50: #0e856d;
+$teal-50-hover: #0b6b58;
+$teal-50-pressed: #095243;
+
+$teal-60: #085243;
+$teal-60-hover: #05382e;
+$teal-60-pressed: #031f19;
+
+$teal-70: #04382d;
+$teal-70-hover: #021f19;
+$teal-70-pressed: #000504;
+
+/* Orange */
+$orange-10: #ffede5;
+$orange-10-hover: #e5d5cf;
+$orange-10-pressed: #ccbdb8;
+
+$orange-15: #ffd3bf;
+$orange-15-hover: #e5beac;
+$orange-15-pressed: #cca999;
+
+$orange-20: #ffb494;
+$orange-20-hover: #e5a285;
+$orange-20-pressed: #cc9076;
+
+$orange-30: #ff986b;
+$orange-30-hover: #e58960;
+$orange-30-pressed: #cc7a56;
+
+$orange-40: #ff6b26;
+$orange-40-hover: #e56022;
+$orange-40-pressed: #cc561e;
+
+$orange-50: #d04a0a;
+$orange-50-hover: #b84109;
+$orange-50-pressed: #9e3808;
+
+$orange-60: #942f00;
+$orange-60-hover: #7a2700;
+$orange-60-pressed: #611f00;
+
+$orange-70: #591e03;
+$orange-70-hover: #401502;
+$orange-70-pressed: #260d01;
+
+/* Utility Green (Success) */
+$light-green: #f6faf0;
+$light-green-hover: #dde0d7;
+$light-green-pressed: #c4c7bf;
+
+$medium-green: #d9e6c6;
+$medium-green-hover: #c0ccb0;
+$medium-green-pressed: #a8b29a;
+
+$bright-green: #578319;
+$bright-green-hover: #456914;
+$bright-green-pressed: #344f0f;
+
+/* Utility Yellow (Pending) */
+$light-yellow: #fefbef;
+$light-yellow-hover: #e5e3d8;
+$light-yellow-pressed: #cccac0;
+
+$medium-yellow: #f7e5a6;
+$medium-yellow-hover: #dece95;
+$medium-yellow-pressed: #c4b684;
+
+$bright-yellow: #fac712;
+$bright-yellow-hover: #e0b310;
+$bright-yellow-pressed: #c79e0e;
+
+/* Utility Red (Danger) */
+$light-red: #fff7f5;
+$light-red-hover: #e5dedc;
+$light-red-pressed: #ccc5c4;
+
+$medium-red: #fcbfb3;
+$medium-red-hover: #e3aca1;
+$medium-red-pressed: #c9998f;
+
+$bright-red: #dd2e0b;
+$bright-red-hover: #c4290a;
+$bright-red-pressed: #ab2409;
+
+/* Disabled */
+$disabled: #c6cacc;
+$disabled-text: #8d9599;
+
+/* Deprecated */
+$white-hover: #f5e9f2;
+$white-pressed: #dbd1d9;
+
+$disabled-hover: #adb1b2;
+$disabled-pressed: #949799;

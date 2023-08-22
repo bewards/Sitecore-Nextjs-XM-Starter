@@ -1,0 +1,21 @@
+﻿---
+ID: "1d14bb14-1353-4a3c-8500-d3601dc130be"
+Parent: "a0653471-f534-4e8f-9150-094032b5e136"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Testing/Lorem Ipsum
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2><span style="color: #771b61;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span></h2>
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "dbbad68c-2fb0-4369-8cf5-81a769de3441"

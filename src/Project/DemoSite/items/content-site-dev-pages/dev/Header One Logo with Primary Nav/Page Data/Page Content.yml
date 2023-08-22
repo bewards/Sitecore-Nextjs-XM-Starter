@@ -1,0 +1,18 @@
+﻿---
+ID: "b1f77255-1319-4107-89db-6b14cf66958b"
+Parent: "74c79c75-48da-4a70-93b7-2aa08ba45163"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Header One Logo with Primary Nav/Page Data/Page Content
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2>Header with Primary Navigation</h2>
+              <p>This page demonstrates the Header component set up with a single logo and a primary navigation.</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "9d975b5e-c792-409f-aff1-459357b9a8d1"

@@ -1,0 +1,28 @@
+﻿---
+ID: "43b8fc79-d2c3-42a7-af46-7d71e59da596"
+Parent: "4bf396ab-d1e8-435c-9d50-585a307a3624"
+Template: "ca25e0b6-c5a8-47c0-b70c-510a361c1db1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Link Listing/Page Data/Rich Texts
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{12CE273E-4C20-481D-91AF-5203C598D497}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230724T191052Z
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "bb6d3eb9-ccba-4d45-9c46-1c2a8d76c0d4"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230724T191052Z

@@ -1,0 +1,17 @@
+﻿---
+ID: "f49ee060-6f78-597d-ba90-5b47787968d0"
+Parent: "57d23d36-951f-5885-abe5-fa7c086120e2"
+Template: "57d23d36-951f-5885-abe5-fa7c086120e2"
+Path: "/sitecore/templates/Project/DemoSite/Styleguide/Styleguide-FieldUsage-Link/__Standard Values"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "9de41098-8fc4-4fad-9c73-073466e326ac"

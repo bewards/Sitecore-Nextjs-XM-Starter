@@ -1,0 +1,17 @@
+﻿---
+ID: "e5b50eec-d40b-5c0f-8254-1d250d515e1d"
+Parent: "18360299-71e1-5360-9f9d-153d369a859f"
+Template: "18360299-71e1-5360-9f9d-153d369a859f"
+Path: "/sitecore/templates/Project/DemoSite/Styleguide/Styleguide-FieldUsage-Checkbox/__Standard Values"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "87c52c6c-0d2c-4b1c-a166-b646acc920b8"

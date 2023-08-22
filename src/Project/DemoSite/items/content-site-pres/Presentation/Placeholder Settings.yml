@@ -1,0 +1,17 @@
+﻿---
+ID: "b9b74aec-6f10-4128-9806-49a03f85c8cb"
+Parent: "e4b941aa-a417-4c73-bf81-0541e068b4c3"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Placeholder Settings
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "65e6b7a9-4b94-4ca6-9a59-b9c283267d7b"

@@ -1,0 +1,59 @@
+@import '@sass/abstracts/imports';
+.link {
+  align-items: center;
+  color: $purple-50;
+  cursor: pointer;
+  display: flex;
+  text-decoration: none;
+  width: fit-content;
+
+  &.inline {
+    height: initial;
+    text-decoration: underline;
+  }
+
+  &:focus {
+    outline: $purple-50 auto 3px;
+  }
+
+  &:hover {
+    color: $purple-50-hover;
+    text-decoration: underline;
+  }
+
+  &:active {
+    color: $purple-50-pressed;
+  }
+}
+
+.icon {
+  margin-left: 0.5rem;
+
+  &.carat {
+    transform: rotate(-90deg);
+  }
+
+  &.external-link {
+    display: inline-block;
+    margin-left: 6px;
+    width: 1em;
+    line-height: 1em;
+    vertical-align: text-top;
+  }
+}
+
+.editing {
+  align-items: center;
+  color: $purple-50;
+  display: flex;
+
+  a {
+    align-items: center;
+    display: flex;
+  }
+
+  > .button > a {
+    color: $white;
+    text-decoration: none;
+  }
+}

@@ -1,0 +1,13 @@
+﻿---
+ID: "c626493f-1cc3-4986-a701-f28b83d649f7"
+Parent: "353e2674-680e-479a-b1da-e518febb56e7"
+Template: "1404a77a-d5fd-46b3-aa4c-200f3d519979"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05b258c0-6532-49b2-9cdd-9f71ad916f6e"

@@ -1,0 +1,23 @@
+﻿---
+ID: "120986ce-9049-4cc7-bb2d-0b89f819fad6"
+Parent: "da9d3bc9-1ad9-4c89-8794-42c934415bc9"
+Template: "b0980196-cfec-47d2-9a5c-8e157054d4b3"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Wistia Sample One/Page Data/WistiaVideoFolder/Health Care Concierge
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{2C62529D-8629-4CD2-8368-AFC8C5D9D3C3}"
+          - ID: "80908f74-c269-4836-ab6d-faa51753681f"
+            Hint: embedCode
+            Value: vb0i1exb7r
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "0a05722f-14da-4c8a-bb52-561ea516998e"

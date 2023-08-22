@@ -1,0 +1,21 @@
+﻿---
+ID: "52de041f-d7e8-4c4b-9c6d-4ad7934055ec"
+Parent: "38fdd066-3963-4cd9-be21-f059bbe12bbd"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Title/Paragraphs
+BranchID: "30235f43-6242-4107-87ab-5267e34edf0c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f69dd8ce-af31-4f7e-908d-58debe65b456"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T175526Z

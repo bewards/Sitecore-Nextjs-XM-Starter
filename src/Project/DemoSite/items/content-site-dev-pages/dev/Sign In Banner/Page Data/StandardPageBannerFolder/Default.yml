@@ -1,0 +1,47 @@
+﻿---
+ID: "aa39cd6c-d813-42b4-8efc-494ab4f04bb9"
+Parent: "7543af2e-9747-4df8-a05e-902a186b9234"
+Template: "f5bc8b22-44dd-4e69-a9d2-214d67e0eef8"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Sign In Banner/Page Data/StandardPageBannerFolder/Default
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0844385d-5e16-4058-b607-208c320a9aa6"
+            Hint: desktopImage
+            Value:
+          - ID: "4e936db5-802d-4b36-b5ed-55cda84b109f"
+            Hint: tabletImage
+            Value:
+          - ID: "4feb9659-28ae-48b0-bfa1-6b249295054e"
+            Hint: bannerLinkText
+            Value: Learn More
+          - ID: "5edc704b-2a43-443f-9bc1-2ed1807b17e1"
+            Hint: bannerSubtitle
+            Value: Banner Subtitle H2 Coconut (Default)
+          - ID: "670e9582-9a2f-46c2-ad7f-ba066e8e1837"
+            Hint: bannerBody
+            Value: |
+              <p>Demo Site is dedicated to improving the health and well-being of our members as well as the greater community. We're owned by UPMC, making us part of an integrated health care delivery system with one of the nation's top-ranked health systems. We partner not only with UPMC, but also with community network providers, to provide the highest quality care to our members.</p>
+              <p>Multiple Paragraphs where the last paragraph is styled to remove the margin-bottom.</p>
+          - ID: "77dee9aa-8497-44fa-baa8-8caa3f9920de"
+            Hint: bannerLinkDestination
+            Value: |
+              <link text="Learn More" linktype="external" url="https://www.google.com" anchor="" target="_blank" />
+          - ID: "7d649af9-1d53-4e20-a1fe-ab2c10afb4d2"
+            Hint: bannerTitle
+            Value: Banner Title H1 Coconut (Default)
+          - ID: "810f98b5-d45f-43b7-b1c4-eb46dd58dc8a"
+            Hint: mobileImage
+            Value: |
+              <image mediaid="{5F82F813-7255-4B07-A4E6-C9B6CF803389}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c26e1422-49f7-4b5f-abf4-7203d91e2355"
+          - ID: "e62eaf1b-0a98-4070-bb65-f74bfc0e58fb"
+            Hint: bannerLinkMode
+            Value: "{9374D14E-A968-4B18-94E4-52E6BCFAF109}"
+          - ID: "fc6c56b8-c20a-40d8-88f4-0ce2091d9e0e"
+            Hint: bannerLinkIcon
+            Value: "{2893DCCF-930F-485B-9FFE-0052F0F16F48}"

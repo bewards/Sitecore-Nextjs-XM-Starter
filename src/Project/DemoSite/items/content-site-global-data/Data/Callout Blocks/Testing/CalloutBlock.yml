@@ -1,0 +1,31 @@
+﻿---
+ID: "94dacf72-5adf-43ff-8239-0a1dbf2f4d20"
+Parent: "705ad0f1-c8b3-4dd0-8f8c-ead308078125"
+Template: "e9778725-f086-4afc-b374-bc80feb1896e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Callout Blocks/Testing/CalloutBlock
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "50bbcfaf-830d-4ee8-ab45-33b1a23c4b4e"
+            Hint: content
+            Value: |
+              <div style="text-align: center;">
+              Want to learn more? We are here to help you. Call us at <a rel="noopener noreferrer" href="tel:1-833-776-4540" target="_blank" title="opens in new browser">1-833-776-4540</a> (TTY: 711)
+              <br />
+              <br />
+              Visit <a href="https://pennie.com/learn/covid19/">pennie.com</a> to see answers to other questions.
+              <br />
+              <br />
+              <a href="https://www.google.com" class="purple-button w-50p m-tb-single">Start shopping on our Marketplace</a>
+              </div>
+          - ID: "59a3f68d-94e8-4acb-ac20-9ab153ed9a6a"
+            Hint: image
+            Value:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "69a0cda6-6c51-444f-8cd2-923b26225618"
+          - ID: "d4e7c575-c1cc-45f7-a5bd-f4faeda44b46"
+            Hint: backgroundColor
+            Value: "{91A01A8D-6671-4C7F-BA4B-B75F9017DFA9}"

@@ -1,0 +1,28 @@
+﻿---
+ID: "9b4e2835-b47b-4be3-901c-e1116ca06f44"
+Parent: "b4b040b4-33b2-4a73-896f-ad0d34d6a5bd"
+Template: "d73319bc-e3df-45b9-b545-a255aa7e3c88"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Title/Links/Sitecore
+BranchID: "86584d00-3712-4928-b9a0-c2058e098537"
+SharedFields:
+- ID: "ca0adfc1-b5d8-4338-aaec-f0dadd0f5c55"
+  Hint: Value
+  Value: "http://www.sitecore.net"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4bfaa1d9-c66a-45ac-be10-99dfe91739d8"
+      Hint: Header
+      Value: Sitecore
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3fa6cf15-f259-4c7d-9bfb-a81ee1e2c365"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125526

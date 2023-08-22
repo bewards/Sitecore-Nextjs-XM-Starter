@@ -1,0 +1,43 @@
+﻿---
+ID: "c925ecb2-fe52-482a-b44d-fcd20cb4d965"
+Parent: "0ae5c452-7ca0-49c6-9b69-8ef75e95384c"
+Template: "0ae5c452-7ca0-49c6-9b69-8ef75e95384c"
+Path: /sitecore/templates/Feature/DemoSite/Listings/Tout Card Listings/ToutListingCard/__Standard Values
+SharedFields:
+  - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+    Hint: __Default workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230726T144406Z
+          - ID: "5025d0c3-2b74-4ea0-9cd9-4f95f4353c0a"
+            Hint: buttonLinkMode
+            Value: "{9D59BAC2-9346-4DD9-BED6-E43DC523F5FE}"
+          - ID: "57aa8d3f-2c2a-4786-92ed-2be7f2f42ce4"
+            Hint: titleTextStyle
+            Value: "{15A00314-2996-4882-BDC7-7C3836B8DD80}"
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2a859a7e-c1e9-4d2c-89e2-39a8d0b44a81"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "cf4ea6f0-159a-4f19-89db-3f254354fd10"
+            Hint: titleLevel
+            Value: "{4A1B68EF-89C6-4DF4-A4EF-5899A164E5F8}"
+          - ID: "d28ff2e6-e13f-4f05-ba59-b0bf3ec2d54a"
+            Hint: title
+            Value: $name
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230726T144406Z

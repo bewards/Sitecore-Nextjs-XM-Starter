@@ -1,0 +1,28 @@
+﻿---
+ID: "7e230deb-272e-4f53-a570-70d8c7eeb353"
+Parent: "014c30cb-c00b-4ad3-831b-ea744ec4ceb4"
+Template: "e29a8175-d3d3-4b00-949a-3b1e8ea15e45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header Primary Nav with Home Link/Primary Navigation/Network
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 0
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "f67993a6-ff57-4546-90a0-bcefad43f494"
+          - ID: "b5f94aca-b64a-4aee-94af-8f9c8645d15e"
+            Hint: title
+            Value: Network
+          - ID: "e552a988-a7cd-49aa-876c-da52e471fca6"
+            Hint: link
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="Alt text" target="|Custom" querystring="" id="{F3CEB8DF-AE30-4937-91E3-A6F1289C28F8}" />

@@ -1,0 +1,16 @@
+﻿---
+Role: |
+  sitecore\DemoSite Author
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Designing
+  Role: |
+    sitecore\Sitecore Client Authoring
+  Role: |
+    sitecore\Author
+  Role: |
+    sitecore\Forms Editor
+  Role: |
+    sitecore\Sitecore Client Translating
+  Role: |
+    sitecore\Sitecore Client Publishing

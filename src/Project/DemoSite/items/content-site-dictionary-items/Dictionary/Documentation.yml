@@ -1,0 +1,25 @@
+﻿---
+ID: "5c73acd3-4943-5368-a8c1-9ba28c652d47"
+Parent: "3e69cc9b-938d-48ff-874a-417d2dbcdec0"
+Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Dictionary/Documentation
+SharedFields:
+  - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
+    Hint: Key
+    Value: Documentation
+Languages:
+  - Language: en
+    Fields:
+      - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
+        Hint: Phrase
+        Value: Documentation
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "ee37b2c5-e608-40af-bc51-3577702ab18f"

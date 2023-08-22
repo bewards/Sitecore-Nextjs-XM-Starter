@@ -1,0 +1,60 @@
+﻿---
+ID: "d62eb16a-628f-450b-a8ef-4332d4d305bc"
+Parent: "615c8c66-b58a-452b-bfd5-458b950d3172"
+Template: "a768a98b-0212-4dcb-bc41-33d3fe781e85"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Cookiebot
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:p="p" xmlns:s="s"
+        p:p="1">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+          <r
+            uid="{BCA8B96A-E780-488E-B083-4683454BE92D}"
+            p:after="*[1=2]"
+            s:ds="{6DF34C1A-329A-4316-BFBD-2BB8FD76E1EE}"
+            s:id="{919D1D17-405B-499C-8473-2EAD67EFBA47}"
+            s:par="RenderingIdentifier"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+        </d>
+      </r>
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{3DB41756-BCBF-44A3-AD7A-3DD7098C4E5B}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+            Hint: __Final Renderings
+            Value: |
+              <r xmlns:p="p" xmlns:s="s"
+                p:p="1">
+                <d
+                  id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+                  <r
+                    uid="{306B369A-3CE1-4322-8F9D-042267449107}"
+                    p:after="*[1=2]"
+                    s:ds="local:/Data/Image 1"
+                    s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+                    s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B3A7800F7-12BE-4BB2-9C19-1AC475380A0E%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;DynamicPlaceholderId=1"
+                    s:ph="hp-main" />
+                </d>
+              </r>
+          - ID: "3714a0a6-c655-4136-97ff-b03268f5ebd2"
+            Hint: openGraphTitle
+            Value: Cookiebot
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2a9ab4e6-92f5-4b72-b150-33153963d4f4"
+          - ID: "9e36878a-df50-431a-9847-a5ef7781053e"
+            Hint: title
+            Value: Cookiebot Demo Description
+          - ID: "ac1da9d9-c87f-40fb-8acc-aeaf126df8e5"
+            Hint: pageMetaTitle
+            Value: Cookiebot

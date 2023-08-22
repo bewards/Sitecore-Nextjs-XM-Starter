@@ -1,0 +1,38 @@
+﻿---
+ID: "ceb9d7ec-dbca-45c0-ab1f-fdb5b9dd88d3"
+Parent: "92c20006-578e-4cc4-b813-b64dde1a708c"
+Template: "f5bc8b22-44dd-4e69-a9d2-214d67e0eef8"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Standard Page Banners/Testing/Variation
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "4feb9659-28ae-48b0-bfa1-6b249295054e"
+            Hint: bannerLinkText
+            Value: Read This Month's Issue
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "5edc704b-2a43-443f-9bc1-2ed1807b17e1"
+            Hint: bannerSubtitle
+            Value: "Provider Partner Update - Jan. 2023"
+          - ID: "670e9582-9a2f-46c2-ad7f-ba066e8e1837"
+            Hint: bannerBody
+            Value: |
+              <h2></h2>
+              <p>As a provider-led health insurer, we have a unique appreciation for our relationships with network doctors and care providers. Our&nbsp;<em>Provider Partner Update</em>&nbsp;newsletter includes the latest news and information for network providers.</p>
+          - ID: "77dee9aa-8497-44fa-baa8-8caa3f9920de"
+            Hint: bannerLinkDestination
+            Value: |
+              <link linktype="external" url="https://www.google.com" />
+          - ID: "7d649af9-1d53-4e20-a1fe-ab2c10afb4d2"
+            Hint: bannerTitle
+            Value: Medical Providers
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "af839178-4c28-43cb-861a-918e8aaa6e25"
+          - ID: "e62eaf1b-0a98-4070-bb65-f74bfc0e58fb"
+            Hint: bannerLinkMode
+            Value: "{9D59BAC2-9346-4DD9-BED6-E43DC523F5FE}"

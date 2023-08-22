@@ -1,0 +1,10 @@
+{
+  "namespace": "DemoSite.Roles",
+  "references": ["InitItems"],
+  "roles": [
+    {
+      "domain": "sitecore",
+      "pattern": "^UPMC.*$"
+    }
+  ]
+}

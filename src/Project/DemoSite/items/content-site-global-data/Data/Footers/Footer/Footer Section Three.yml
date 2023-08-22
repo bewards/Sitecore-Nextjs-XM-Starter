@@ -1,0 +1,20 @@
+﻿---
+ID: "bfde5d99-74db-4ca9-babc-102fe3ff268b"
+Parent: "2a9bce26-ba25-4fc4-a363-02e770c7de6a"
+Template: "d24a15f4-427e-422f-bd90-ac672e3dadb9"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Footers/Footer/Footer Section Three
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 200
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0483da10-924f-46a5-97da-610247cccf52"
+            Hint: title
+            Value: "Translation Services Available:"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "abaa5d7d-453f-4b9b-98d9-a5563be12930"

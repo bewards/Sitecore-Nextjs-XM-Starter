@@ -1,0 +1,27 @@
+﻿---
+ID: "3a8a1925-a2be-46ae-a5d9-b656cfd15d51"
+Parent: "70f4ff80-340f-432d-83dd-4deb67469a57"
+Template: "ce12cd98-2aa2-443d-8b09-cb49aa485962"
+Path: /sitecore/content/DemoSite/Global Content Settings/Form Presentation
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230717T160257Z
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "a22fdf3e-0c11-4d5e-accd-5e3c5de03c23"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230717T160257Z

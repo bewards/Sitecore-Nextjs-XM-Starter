@@ -1,0 +1,27 @@
+﻿---
+ID: "e7b1ad3e-83f3-51df-8e47-9722c14a98d0"
+Parent: "fea9dbe7-b167-5545-9f1f-660998ee1b1f"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/DemoSite/GraphQL-Layout"
+SharedFields:
+  - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+    Hint: componentName
+    Value: "GraphQL-Layout"
+  - ID: "069a8361-b1cd-437c-8c32-a3be78941446"
+    Hint: Placeholders
+    Value: "{DD98BA82-DAAA-51D0-94F1-FD424A38AB2A}"
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: Office/16x16/layout.png
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "0098bc8d-264e-45a5-82b6-c8e465859710"

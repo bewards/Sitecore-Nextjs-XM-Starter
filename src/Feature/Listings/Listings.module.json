@@ -1,0 +1,16 @@
+{
+  "namespace": "Feature.Listings",
+  "references": ["Foundation.*"],
+  "items": {
+    "includes": [
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/Feature/DemoSite/Listings"
+      },
+      {
+        "name": "renderings",
+        "path": "/sitecore/layout/Renderings/Feature/Listings"
+      }
+    ]
+  }
+}

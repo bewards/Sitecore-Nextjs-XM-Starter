@@ -1,0 +1,41 @@
+﻿---
+ID: "8cb9b089-6ac6-4de0-b1cd-4dc4fed94cb5"
+Parent: "3ffe2b3b-fc83-4e9a-a6d4-ae23553c192e"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Contact Information/Employers/Hours Blocks/Contact Hours
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <p><strong>Hours (all times are EST):<br />
+              </strong><span class="xa-variable" contenteditable="false" data-variableid="{3766837F-20EA-409E-95D3-C5CE6D58FE2B}">Employers Hours Line 1</span><br />
+              <span class="xa-variable" contenteditable="false" data-variableid="{88FE2408-C908-47F1-AB64-D84751BE2B8C}">Employers Hours Line 2</span><a href="tel:$(Current Member Phone HREF)"><br />
+              </a></p>
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230724T192756Z
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3abb7a6c-9cda-49dd-8016-622e245e55cf"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230724T192839Z

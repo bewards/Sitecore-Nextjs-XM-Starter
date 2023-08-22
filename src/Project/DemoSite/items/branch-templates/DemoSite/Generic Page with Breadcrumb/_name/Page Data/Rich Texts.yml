@@ -1,0 +1,13 @@
+﻿---
+ID: "8aa39d8e-d965-454d-8658-f9f17cbc8512"
+Parent: "a57cdf55-58fd-45b7-91a0-a32222282ef2"
+Template: "ca25e0b6-c5a8-47c0-b70c-510a361c1db1"
+Path: /sitecore/templates/Branches/Project/DemoSite/Generic Page with Breadcrumb/$name/Page Data/Rich Texts
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "d7a21134-1011-4d23-bec6-9dc64c757176"

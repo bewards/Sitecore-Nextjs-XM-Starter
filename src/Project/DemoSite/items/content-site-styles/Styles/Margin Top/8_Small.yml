@@ -1,0 +1,38 @@
+﻿---
+ID: "89b2e15a-b3f3-4213-80c6-6802508b3928"
+Parent: "790e26b6-24fb-4699-8900-ae66d75dd50e"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Styles/Margin Top/8_Small
+SharedFields:
+  - ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+    Hint: Value
+    Value: "component-spacing__top--sm"
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 50
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230721T145640Z
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "37c121a7-1014-4342-b0b2-f28a09114fc0"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230721T145744Z

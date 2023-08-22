@@ -1,0 +1,27 @@
+﻿---
+ID: "7d239096-9c56-5de4-9b2e-9c0d0b0e9bf3"
+Parent: "1b896bae-edf6-580b-8d79-58ecb35babbe"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/graphql/Page Data
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: Office/32x32/document_attachment.png
+  - ID: "a791f095-2521-4b4d-bef9-21dda221f608"
+    Hint: __Style
+    Value: "font-style:italic; font-size:0.85em; color: gray;"
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 0
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "7fb5547f-9b0a-47e0-9e4b-91d0a118b27d"

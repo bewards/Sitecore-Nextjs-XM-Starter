@@ -1,0 +1,49 @@
+﻿---
+ID: "6aaef5f0-693a-4780-95d7-3d5a6c1e54ff"
+Parent: "bdc9fddd-0e7f-40e2-809c-ed0d12d6e4e2"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/DemoSite/DemoSiteWebsite/Samples/discussion-icon"
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: "-/media/6AAEF5F0693A478095D73D5A6C1E54FF.ashx?h=16&thn=1&w=16"
+  - ID: "22eac599-f13b-4607-a89d-c091763a467d"
+    Hint: Width
+    Value: 75
+  - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+    Hint: Blob
+    BlobID: "8e0b014e-f96f-471d-94fd-b9df94d2e64a"
+    Value: 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
+  - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+    Hint: Size
+    Value: 2624
+  - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+    Hint: Mime Type
+    Value: image/png
+  - ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+    Hint: Extension
+    Value: png
+  - ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+    Hint: Dimensions
+    Value: 75 x 75
+  - ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+    Hint: Height
+    Value: 75
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+            Hint: Alt
+            Value: Discussion
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "a1fb2e83-d4ba-4eb4-b19a-809882f16d03"
+          - ID: "ba8341a1-ff30-47b8-ae6a-f4947e4113f0"
+            Hint: Description
+            Value: Discussion SVC icon

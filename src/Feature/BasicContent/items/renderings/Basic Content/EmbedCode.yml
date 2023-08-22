@@ -1,0 +1,30 @@
+﻿---
+ID: "3eb13ad4-b939-4fee-8d26-a7585788aac4"
+Parent: "8e1a7d26-bb4a-436b-85d4-cdd3571c05d8"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Basic Content/EmbedCode
+SharedFields:
+  - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+    Hint: componentName
+    Value: EmbedCode
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: software/32x32/text_code_javascript.png
+  - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+    Hint: Datasource Template
+    Value: /sitecore/templates/Feature/DemoSite/Basic Content/EmbedCode/EmbedCode
+  - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+    Hint: Datasource Location
+    Value: "query:$site/*[@@name='Data']/*[@@templatename='EmbedCodeFolder']|./Page Data"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "79881219-4a52-4561-8b17-16aa84fafc71"

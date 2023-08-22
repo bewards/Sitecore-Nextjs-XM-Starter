@@ -1,0 +1,16 @@
+﻿---
+ID: "a6a4dcd3-5c4d-4547-81c9-00496250835a"
+Parent: "3ba457a7-d0e6-49f8-a203-830bf6a989b7"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Horizontal Border Mode/top
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: top
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "d4b90177-2ce6-4adc-9f4f-4d05c972f284"

@@ -1,0 +1,23 @@
+﻿---
+ID: "e487ea26-ad41-5099-9ed4-62b357a7d62c"
+Parent: "ed20e49c-fd6a-515b-8a8f-cb9b4ea7efeb"
+Template: "d34552f5-e875-584b-899c-31aa6de8ab64"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/styleguide/Page Data/styleguide-jss-tabs-538E4831-F157-50BB-AC74-277FCAC9FDDB-0-Styleguide-Layout-Tabs-Tab-1"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: "Styleguide-Layout-Tabs-Tab-1"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "634a5663-512e-5906-838e-994ef4e71cc2"
+            Hint: title
+            Value: Tab 1
+          - ID: "6851e8e6-abc3-5feb-8a79-a7b0c8642bf5"
+            Hint: content
+            Value: "<p>Tab 1 contents!</p>"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "dd73d87a-d72c-4a46-a87f-0db1c553582c"

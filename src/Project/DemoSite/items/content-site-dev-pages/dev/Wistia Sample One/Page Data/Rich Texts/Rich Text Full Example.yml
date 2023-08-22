@@ -1,0 +1,29 @@
+﻿---
+ID: "8848d17c-4871-4d0d-990d-deaf3ca775c9"
+Parent: "0358f469-564d-4789-80de-360debc0464e"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Wistia Sample One/Page Data/Rich Texts/Rich Text Full Example
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{0CFB43C5-BA12-4184-ADBE-BA4E5CBDA1E6}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2>Wistia Sample One</h2>
+              <p>This is a sample Wistia video. <a href="~/link.aspx?_id=53F60BAAF2FB4E018B507B9280EBFCBD&amp;_z=z">Click here</a>&nbsp;to open another Wistia Video dev page.</p>
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{2C62529D-8629-4CD2-8368-AFC8C5D9D3C3}"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "deb99526-dcb4-499b-9d34-1337e3c0c407"

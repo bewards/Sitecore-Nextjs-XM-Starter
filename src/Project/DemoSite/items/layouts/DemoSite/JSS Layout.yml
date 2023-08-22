@@ -1,0 +1,47 @@
+﻿---
+ID: "c7407deb-8f43-4ea5-bc03-d6248f90829c"
+Parent: "ae16868b-dda7-4881-8368-a2409be71ae1"
+Template: "e4e11508-04a4-4b0b-a263-5201f811c9cd"
+Path: /sitecore/layout/Layouts/Project/DemoSite/JSS Layout
+SharedFields:
+  - ID: "80334869-86dc-4472-aa89-44cf1b2f6c9b"
+    Hint: Placeholders
+    Value: |
+      {730B000E-EFA4-58A6-AA52-B069D0D45EE9}
+      {68E6EDFD-4D10-550B-9B25-B2C8F9F93E26}
+      {8D568A04-9072-44C5-9298-27694ADE3E19}
+      {929DF0BA-3DF0-4261-8823-3BF08C9DAB7C}
+      {30BCA838-834C-4890-B7B0-F4F15DD0F70D}
+      {A930A0BB-1243-40DD-8438-98543CD53C0C}
+  - ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+    Hint: __Read Only
+    Value:
+  - ID: "a036b2bc-ba04-44f6-a75f-bae6cd242abf"
+    Hint: Path
+    Value: /Views/SXA JSS/SXA JSS Layout.cshtml
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: Headless Layout
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230719T154622Z
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "b20b34cb-66ce-41c3-b7e0-9e0ff9e8223a"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230816T131249Z

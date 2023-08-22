@@ -1,0 +1,28 @@
+﻿---
+ID: "42c24b05-bd96-4cd9-a541-50b7248ccdb8"
+Parent: "a796a3c0-0fa5-4c95-882f-1b9479db4c36"
+Template: "3825fe6a-6ca1-489b-a7c9-c3b4b3b38272"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Title/Snippets/Sample Snippet
+BranchID: "2c9e00e7-4a4f-42e8-9251-b50a3fdf356f"
+SharedFields:
+- ID: "7dff83d2-e609-4c5f-99a9-13ec8536d65b"
+  Hint: Value
+  Value: You can use snippet to insert predefined blocks of HTML.
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1891932-21bd-4e34-aad3-eaf97ddaa653"
+    - ID: "8e5179b0-2a09-4624-885d-619c0e3d0390"
+      Hint: Header
+      Value: Sample Snippet
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060131T143707

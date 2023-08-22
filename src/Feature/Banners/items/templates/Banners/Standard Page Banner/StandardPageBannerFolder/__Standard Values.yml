@@ -1,0 +1,26 @@
+﻿---
+ID: "c403c825-3df2-40ed-a1ca-de4d2a85ff18"
+Parent: "773bae1d-7de0-45f7-bf0b-9a9dedd48507"
+Template: "773bae1d-7de0-45f7-bf0b-9a9dedd48507"
+Path: /sitecore/templates/Feature/DemoSite/Banners/Standard Page Banner/StandardPageBannerFolder/__Standard Values
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: multimedia/32x32/open_image.png
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: |
+      {F5BC8B22-44DD-4E69-A9D2-214D67E0EEF8}
+      {773BAE1D-7DE0-45F7-BF0B-9A9DEDD48507}
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "01321cc6-5d1f-438f-aa3d-9e4eb8e5b82c"

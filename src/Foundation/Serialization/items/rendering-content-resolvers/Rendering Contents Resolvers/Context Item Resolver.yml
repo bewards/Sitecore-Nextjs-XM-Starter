@@ -1,0 +1,24 @@
+﻿---
+ID: "6cccbcde-5e95-44e4-ae66-cfe7d3a0589e"
+Parent: "c626493f-1cc3-4986-a701-f28b83d649f7"
+Template: "814c1dbb-b118-4511-ba2b-7288ed3d490b"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Context Item Resolver
+SharedFields:
+- ID: "52b17c6d-d151-46c5-a986-b88050073ef0"
+  Hint: UseContextItem
+  Value: 1
+- ID: "de218ede-a9ad-4b04-86c5-9ff593ccf39d"
+  Hint: Type
+  Value: Sitecore.LayoutService.ItemRendering.ContentsResolvers.RenderingContentsResolver, Sitecore.LayoutService
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c33afe0f-1dfc-45d5-96c0-fe7266de0e3d"

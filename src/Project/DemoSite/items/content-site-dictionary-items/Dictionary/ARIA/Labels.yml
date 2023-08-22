@@ -1,0 +1,17 @@
+﻿---
+ID: "3db48558-4d6c-47d6-95b3-34c6f523062e"
+Parent: "98951180-6197-4dd5-99df-c651af12b6dd"
+Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Dictionary/ARIA/Labels
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "b0b3a52d-3aee-47e6-a4b9-2d0febf79b73"

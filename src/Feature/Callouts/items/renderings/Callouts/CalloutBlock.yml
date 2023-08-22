@@ -1,0 +1,60 @@
+﻿---
+ID: "20ea8c86-93e8-4944-b1c4-12e2f12706b9"
+Parent: "cd7100c0-4ab5-4cb7-9e50-00d4fb5d0edc"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Callouts/CalloutBlock
+SharedFields:
+  - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+    Hint: componentName
+    Value: CalloutBlock
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: control/32x32/message_box_h.png
+  - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+    Hint: Datasource Template
+    Value: /sitecore/templates/Feature/DemoSite/Callouts/CalloutBlock/CalloutBlock
+  - ID: "3ad2506a-dc39-4b1e-959f-9d524addbf50"
+    Hint: VaryByParm
+    Value: 1
+  - ID: "3d08db46-2267-41b0-bc52-be69fd618633"
+    Hint: Cacheable
+    Value: 1
+  - ID: "8b6d532b-6128-4486-a044-ca06d90948ba"
+    Hint: VaryByData
+    Value: 1
+  - ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+    Hint: Parameters Template
+    Value: "{608849F7-2EB0-441A-90C3-AA70EFA9E07D}"
+  - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+    Hint: Datasource Location
+    Value: "query:$site/*[@@name='Data']/*[@@templatename='CalloutBlockFolder']|./Page Data"
+  - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+    Hint: __Thumbnail
+    Value: |
+      <image mediaid="{D7DFBB48-9DFE-4903-9974-539802ED4E8B}" />
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: Callout Block
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230725T184147Z
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "567da246-cf44-459d-afa2-de62ab78c359"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230725T185440Z

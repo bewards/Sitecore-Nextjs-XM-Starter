@@ -1,0 +1,79 @@
+﻿---
+ID: "a6904518-754a-4340-9349-9b773d05af1a"
+Parent: "e4bf95f2-86d8-47c9-af87-a85d0efe2348"
+Template: "a768a98b-0212-4dcb-bc41-33d3fe781e85"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+  - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+    Hint: __Security
+    Value: |
+      ar|sitecore\UPMC HP Author|pd|+item:delete|
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:p="p" xmlns:s="s"
+        p:p="1">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+          <r
+            uid="{669D4F9D-8299-4BBD-8536-3CF1B13E6014}"
+            p:after="*[1=2]"
+            s:ds="local:/Page Data/home-jss-main-ContentBlock-1"
+            s:id="{8AC131F6-125A-5673-8301-DA8409EE2264}"
+            s:par=""
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+        </d>
+      </r>
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230720T142340Z
+          - ID: "3714a0a6-c655-4136-97ff-b03268f5ebd2"
+            Hint: openGraphTitle
+            Value: Quality Health Insurance
+          - ID: "3751dd6e-2b09-4ca1-8350-e645bb5f4572"
+            Hint: pageMetaKeywords
+            Value: demo site products
+          - ID: "458cdbb7-949a-48f4-b830-5da8722e1734"
+            Hint: body
+            Value:
+          - ID: "54f40177-9939-40fd-ba31-514d8c82357b"
+            Hint: pageMetaDescription
+            Value: Demo Site meta description for home page
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8543d5c4-993c-42ed-add3-9fb92f69c410"
+            Hint: appendSiteSuffix
+            Value: 1
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "94f38d80-035b-44d8-a1a3-d62d31321e3e"
+          - ID: "99ad77ae-2655-4c58-804b-a4c942b299fb"
+            Hint: robotsDirectiveValue
+            Value: |
+              {D2554D27-6E5C-4B7B-94F1-8921056978E6}
+              {25C4DCB4-5713-4FD3-B557-E91EE2B454CD}
+          - ID: "9e36878a-df50-431a-9847-a5ef7781053e"
+            Hint: title
+            Value: Home
+          - ID: "ac1da9d9-c87f-40fb-8acc-aeaf126df8e5"
+            Hint: pageMetaTitle
+            Value: Quality Health Insurance
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230720T142340Z

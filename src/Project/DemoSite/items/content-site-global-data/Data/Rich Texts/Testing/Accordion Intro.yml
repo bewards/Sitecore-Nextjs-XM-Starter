@@ -1,0 +1,18 @@
+﻿---
+ID: "470b50cb-c7c2-4404-b505-c7ddff9d52e5"
+Parent: "a0653471-f534-4e8f-9150-094032b5e136"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Testing/Accordion Intro
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2><br />Accordion</h2>
+              <p>The accordion component allows multiple blocks of rich text content and titles to be stacked together on a page. The blocks expand and collapse when interacted with by users.</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "81c652c9-e77f-4461-9789-240a8c65a4bb"

@@ -1,0 +1,23 @@
+﻿---
+ID: "4bee6079-7df4-44a8-a668-3465be353930"
+Parent: "ca25e0b6-c5a8-47c0-b70c-510a361c1db1"
+Template: "ca25e0b6-c5a8-47c0-b70c-510a361c1db1"
+Path: /sitecore/templates/Feature/DemoSite/Basic Content/RichText/RichTextFolder/__Standard Values
+SharedFields:
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: |
+      {DECC20E1-4160-426C-B81C-7C25EDFCBE45}
+      {CA25E0B6-C5A8-47C0-B70C-510A361C1DB1}
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "e58418f6-6b20-4c43-a00f-d9799b926364"

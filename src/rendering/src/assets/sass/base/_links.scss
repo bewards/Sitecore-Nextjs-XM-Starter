@@ -1,0 +1,32 @@
+.link {
+  &--arrow,
+  &--external,
+  &--download {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    &::after {
+      content: '';
+      background-repeat: no-repeat;
+      width: 18px;
+      height: 18px;
+      display: inline-block;
+      filter: invert(23%) sepia(97%) saturate(1763%) hue-rotate(291deg) brightness(90%) contrast(92%);
+      /* filter ref: https://codepen.io/sosuke/pen/Pjoqqp */
+    }
+  }
+
+  &--download::after {
+    background-image: url('/static-assets/svg-icons/download.svg');
+  }
+
+  &--external::after {
+    background-image: url('/static-assets/svg-icons/external-link.svg');
+  }
+
+  &--arrow::after {
+    transform: rotate(-90deg);
+    background-image: url('/static-assets/svg-icons/carat.svg');
+  }
+}

@@ -1,0 +1,22 @@
+﻿---
+ID: "a6dddfe1-7947-4d89-9cbe-daff0371ecf7"
+Parent: "1682f413-95cc-4a91-b670-56865f1f47b3"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/DemoSite/shared
+SharedFields:
+  - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+    Hint: __Security
+    Value: |
+      ar|sitecore\UPMC HP Author|pd|+item:delete|
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "30d54e8e-2655-4e92-b155-9e8d3731fd3a"

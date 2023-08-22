@@ -1,0 +1,94 @@
+﻿---
+ID: "f30a3d8b-4e64-4c53-9726-11203b269d7f"
+Parent: "615c8c66-b58a-452b-bfd5-458b950d3172"
+Template: "a768a98b-0212-4dcb-bc41-33d3fe781e85"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/MetaData
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:p="p" xmlns:s="s"
+        p:p="1">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+          <r
+            uid="{C8FDB330-2A15-473A-8C57-84A3767EA451}"
+            p:after="r[@uid='{0B598233-D470-44FE-9113-1307C53865C9}']"
+            s:ds=""
+            s:id="{66C3A28A-1FDE-44B7-90A1-6B1CC907734F}"
+            s:par=""
+            s:ph="hp-header"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{866A44B8-8238-4E9B-96C3-5EDBE44F729A}"
+            p:after="r[@uid='{C8FDB330-2A15-473A-8C57-84A3767EA451}']" />
+          <r
+            uid="{6BDED98B-8C6D-42E4-B1CD-9DCE5593FEB3}"
+            p:after="*[1=2]"
+            s:ds="{87ABF05C-076A-479D-B5C1-2B334CE002E4}"
+            s:id="{919D1D17-405B-499C-8473-2EAD67EFBA47}"
+            s:par="RenderingIdentifier"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+        </d>
+      </r>
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{3DB41756-BCBF-44A3-AD7A-3DD7098C4E5B}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230814T144044Z
+          - ID: "3714a0a6-c655-4136-97ff-b03268f5ebd2"
+            Hint: openGraphTitle
+            Value: MetaData OpenGraph Title
+          - ID: "3751dd6e-2b09-4ca1-8350-e645bb5f4572"
+            Hint: pageMetaKeywords
+            Value: keywords, keyword, key, word
+          - ID: "54f40177-9939-40fd-ba31-514d8c82357b"
+            Hint: pageMetaDescription
+            Value: MetaData Page Description
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "797f3015-406a-44c3-b073-a9c7afacd375"
+            Hint: bodyScripts
+            Value: |
+              <script>document.getElementById('pagetitle').innerHTML = document.title;</script>
+              <script>document.getElementById('pagedescription').innerHTML = document.querySelector('meta[name="description"]').content;</script>
+              <script>document.getElementById('pagekeywords').innerHTML = document.querySelector('meta[name="keywords"]').content;</script>
+              <script>document.getElementById('ogtitle').innerHTML = document.querySelector('meta[name="og:title"]').content;</script>
+              <script>document.getElementById('ogdescription').innerHTML = document.querySelector('meta[name="og:description"]').content;</script>
+              <script>document.getElementById('ogurl').innerHTML = document.querySelector('meta[name="og:url"]').content;</script>
+              <script>document.getElementById('ogimage').innerHTML = document.querySelector('meta[name="og:image"]').content;</script>
+              <script>document.getElementById('ogsitename').innerHTML = document.querySelector('meta[name="og:site_name"]').content;</script>
+              <script>document.getElementById('oglocale').innerHTML = document.querySelector('meta[name="og:locale"]').content;</script>
+              <script>document.getElementById('canonicalurl').innerHTML = document.querySelector('link[rel="canonical"]').href;</script>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "512b0798-ff4f-433b-8215-08152b8ce854"
+          - ID: "9e36878a-df50-431a-9847-a5ef7781053e"
+            Hint: title
+            Value: MetaData
+          - ID: "ac1da9d9-c87f-40fb-8acc-aeaf126df8e5"
+            Hint: pageMetaTitle
+            Value: MetaData Page Title
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "bc4d7fa6-ab86-4e59-8f98-0998e4b13405"
+            Hint: openGraphDescription
+            Value: MetaData OpenGraph Description
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230814T144044Z
+          - ID: "e6d245f7-218c-485e-aea8-da7ef6086426"
+            Hint: openGraphSiteName
+            Value: MetaData OpenGraph Site Name

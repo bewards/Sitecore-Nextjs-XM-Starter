@@ -1,0 +1,28 @@
+﻿---
+ID: "09977102-da84-4ffa-8630-0e612fe05112"
+Parent: "16c9cff2-26a5-4969-9418-fe6531401941"
+Template: "4dd932c2-fe9b-494d-8853-b00afaf084e6"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Footer/Page Data/Footer/Footer Section Three/Column One/Deitsch
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 200
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "6c7cc1cf-4c58-4ada-80fa-221186f2667c"
+            Hint: link
+            Value: |
+              <link text="Deitsch" anchor="penn-dutc" linktype="internal" class="" title="" target="|Custom" querystring="" id="{A6904518-754A-4340-9349-9B773D05AF1A}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "ac7aab0a-ec9e-4572-b46f-003df8139114"
+          - ID: "ae35c112-c704-4949-8404-e068f2327857"
+            Hint: langAttributeValue
+            Value: pdc

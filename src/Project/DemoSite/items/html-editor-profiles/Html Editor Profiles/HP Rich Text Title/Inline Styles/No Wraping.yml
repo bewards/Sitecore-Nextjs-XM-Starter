@@ -1,0 +1,31 @@
+﻿---
+ID: "4e39346b-3e58-4299-8cb3-859dc9ae943c"
+Parent: "d1de2ac3-7e96-4b41-b989-860430af3eb3"
+Template: "2b421e6f-e820-4a04-9a4a-e421a0262b61"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Title/Inline Styles/No Wraping
+BranchID: "14d0d756-dd94-4cfa-aed6-6d2585535700"
+SharedFields:
+- ID: "433e22b5-06aa-4a97-a4ac-7cb059ebbac6"
+  Hint: Value
+  Value: "white-space:nowrap"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 20
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "519cd02a-a857-4894-9c9b-ac9bdc472937"
+      Hint: Header
+      Value: No Wraping
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "265788f0-3879-45d4-84bf-aec0319125f2"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125521

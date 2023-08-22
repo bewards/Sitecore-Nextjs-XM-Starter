@@ -1,0 +1,17 @@
+﻿---
+ID: "a57cdf55-58fd-45b7-91a0-a32222282ef2"
+Parent: "48b1b7b7-2ea5-4e47-a872-9d36ac785875"
+Template: "8dd734a1-9d72-43a0-8b4a-d09fcfd55503"
+Path: /sitecore/templates/Branches/Project/DemoSite/Generic Page with Breadcrumb/$name/Page Data
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "59eef61d-8c77-4ef9-a5d4-88f1cf69aa63"

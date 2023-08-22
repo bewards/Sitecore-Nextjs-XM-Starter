@@ -1,0 +1,20 @@
+﻿---
+ID: "97080ab9-0043-4591-b01d-32315b029fdf"
+Parent: "ad28659f-f636-4596-abfc-a65506b506e8"
+Template: "b0980196-cfec-47d2-9a5c-8e157054d4b3"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Wistia Videos/Testing/Sample
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "80908f74-c269-4836-ab6d-faa51753681f"
+            Hint: embedCode
+            Value: s3lqfi0zn7
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "705bf2fc-2cf0-41c9-97ae-011e753209a4"

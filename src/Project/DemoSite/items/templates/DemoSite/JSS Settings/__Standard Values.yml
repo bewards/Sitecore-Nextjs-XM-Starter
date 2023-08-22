@@ -1,0 +1,20 @@
+﻿---
+ID: "423a6f77-4d15-4919-9d67-bad92f12a0e4"
+Parent: "85d3ff62-6be2-498a-94ef-19732e74e4f4"
+Template: "85d3ff62-6be2-498a-94ef-19732e74e4f4"
+Path: /sitecore/templates/Project/DemoSite/JSS Settings/__Standard Values
+SharedFields:
+  - ID: "1864e99d-c29a-40bf-96e0-b3e7896a013b"
+    Hint: UseLanguageSpecificLayout
+    Value:
+  - ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+    Hint: __Enable item fallback
+    Value: 1
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "f2cf4aac-d6e8-4eeb-857a-1b9976a38ecf"

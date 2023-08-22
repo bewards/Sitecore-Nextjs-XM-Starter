@@ -1,0 +1,20 @@
+﻿---
+ID: "669e9a4d-d86f-4024-b0ce-cfb937d0edca"
+Parent: "b3e8d4a9-f2ed-4e24-98bf-7c0ca3d7cd60"
+Template: "512c2857-ae92-42e3-b88e-0ab0421dbbe4"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Mobile Header Two Logos with Primary Nav and Utility Links/Utility Link Section/Find Care
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "acdf9b27-e017-4f12-b1a8-bce8d8d34ccc"
+          - ID: "c051d45f-a5c1-46b6-80a3-53c7e67f034e"
+            Hint: linkText
+            Value: Find Care
+          - ID: "c5b9e650-0dd5-4656-9db9-1c6448a041fe"
+            Hint: link
+            Value: |
+              <link text="Test link: Find Care" linktype="external" url="https://www.google.com" anchor="" title="Alt text" target="" />

@@ -1,0 +1,17 @@
+﻿---
+ID: "22b8f285-e8d2-4822-a64f-dd5d49f5d7e3"
+Parent: "7ed7cd47-0e4d-4e53-8569-ba6f7c17886f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/DemoSite/Base Field Types/_RobotsMeta/Robots Directive
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "512bce8a-906e-4d79-80ac-c6b012992fc1"

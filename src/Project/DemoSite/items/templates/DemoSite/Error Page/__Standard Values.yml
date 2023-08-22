@@ -1,0 +1,38 @@
+﻿---
+ID: "6aaa7e48-59ee-470f-8ced-23c71226707d"
+Parent: "dd4aed44-5422-4b0a-8af3-f4cadfe63452"
+Template: "dd4aed44-5422-4b0a-8af3-f4cadfe63452"
+Path: /sitecore/templates/Project/DemoSite/Error Page/__Standard Values
+SharedFields:
+  - ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
+    Hint: ChangeFrequency
+    Value: "{1C2878D9-80A6-4760-B7EB-DBADE16AE8C8}"
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+          l="{C7407DEB-8F43-4EA5-BC03-D6248F90829C}">
+          <r
+            id="{128E5B68-FAB7-4C1B-9FAB-E3FA0E7CE571}"
+            ph="hp-header"
+            uid="{90A486A7-F735-4985-9F31-B6ACD0CB3369}" />
+          <r
+            id="{1326CBBE-F01D-406C-8543-7AE2462F9875}"
+            ph="hp-footer"
+            uid="{2EC97E34-9F33-4766-9C57-6E758EF90985}" />
+        </d>
+      </r>
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "82d49a4a-0fac-41f8-861d-a2868a6bdd29"

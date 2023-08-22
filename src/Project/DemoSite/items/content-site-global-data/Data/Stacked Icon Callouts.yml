@@ -1,0 +1,23 @@
+﻿---
+ID: "b44a1979-9b3d-4e11-9219-bb9bbe7f37c1"
+Parent: "181302b4-ceef-4f97-822c-efc83aaf712c"
+Template: "25144714-b1fe-4e0f-9d81-24494fab1a28"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Stacked Icon Callouts
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230727T183023Z
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "ed88cc71-a621-4676-bbcb-fdd2da5187b4"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230727T183023Z

@@ -1,0 +1,44 @@
+﻿---
+ID: "d5166a6e-e4fc-42d5-9d2d-efd4ecd2418a"
+Parent: "7beaed8e-3f24-4429-9b7d-917e2839191f"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Breadcrumb Sample/Page Data/Rich Texts/Rich Text Full Example
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{0CFB43C5-BA12-4184-ADBE-BA4E5CBDA1E6}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2>This page is the Root Breadcrumb Page</h2>
+              <p>This page is the Root Breadcrumb Page and is not authored to include the Breadcrumb rendering. Each child page is inserted as "Generic Page with Breadcrumb", which includes the Breadcrumb rendering.</p>
+              <p>Here is the most descendant page with breadcrumbs below this parent page: <a href="~/link.aspx?_id=5387F0C297444D32A55A9FFA1D9201FC&amp;_z=z">Click here</a></p>
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230719T153043Z
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "f819c917-13ec-4449-bc46-6b48e392404b"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230727T153749Z

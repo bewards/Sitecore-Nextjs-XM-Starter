@@ -1,0 +1,24 @@
+﻿---
+ID: "9ec40b2d-5772-4a6f-bab7-16dd4d824a10"
+Parent: "a29f88eb-5b8f-415f-8cbd-139e76a34d08"
+Template: "e29a8175-d3d3-4b00-949a-3b1e8ea15e45"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with Primary Nav/Primary Navigation/For Employers and Producers"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3c4962d3-37f5-4d16-a75b-9b756bf2dd84"
+          - ID: "b5f94aca-b64a-4aee-94af-8f9c8645d15e"
+            Hint: title
+            Value: For Employers & Producers
+          - ID: "e552a988-a7cd-49aa-876c-da52e471fca6"
+            Hint: link
+            Value: |
+              <link text="Test link for Employers and Producers section" linktype="external" url="https://www.yahoo.com/" anchor="" title="Alt text" target="" />

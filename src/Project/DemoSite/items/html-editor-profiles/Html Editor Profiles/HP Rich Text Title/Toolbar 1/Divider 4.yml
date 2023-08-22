@@ -1,0 +1,25 @@
+﻿---
+ID: "5ef600bf-054f-433a-ad9a-48b9891dcf44"
+Parent: "c27cb634-2687-4501-9551-f4346de37d4b"
+Template: "7bef6918-eff5-48db-937f-914bd2eeb15d"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Title/Toolbar 1/Divider 4
+BranchID: "d50bce33-8eda-48d1-babd-c0a894a69753"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0db14780-141a-4b51-a3f9-2a3ceb85c831"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125543

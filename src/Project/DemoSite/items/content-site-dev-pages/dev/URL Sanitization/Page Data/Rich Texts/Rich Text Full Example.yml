@@ -1,0 +1,31 @@
+﻿---
+ID: "8d007fc5-e56a-4ced-bf55-dcab14622e76"
+Parent: "4e117c88-05e6-4d58-88f9-d608556a59b8"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/URL Sanitization/Page Data/Rich Texts/Rich Text Full Example
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{0CFB43C5-BA12-4184-ADBE-BA4E5CBDA1E6}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2>URL Sanitization</h2>
+              <p><a href="~/link.aspx?_id=233A2F5833D24F0596867C5E6756DD6E&amp;_z=z">Container 50 50</a><br />
+              <a href="~/link.aspx?_id=C9CE3D4A22CE478A9C191A056BC9C586&amp;_z=z">Header Two Logos with Primary Nav and Utility Links</a></p>
+              <p>This is a sample page to confirm that all links rendered from the Sitecore page items are being replaced with dashes.</p>
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "a5729497-5446-4566-b3af-ffd185f44885"

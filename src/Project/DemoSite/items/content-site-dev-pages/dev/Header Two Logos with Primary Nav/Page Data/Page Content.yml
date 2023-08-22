@@ -1,0 +1,18 @@
+﻿---
+ID: "a1a4c05b-8763-4671-9ceb-4452877d5a7d"
+Parent: "32031b6e-4a1b-48e6-8e7f-de7fadbb85a0"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Header Two Logos with Primary Nav/Page Data/Page Content
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2>Header with Second Logo</h2>
+              <p>This page demonstrates the Header component set up with a primary navigation and two logos.</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c1a5f4cf-e9f0-4b1c-a3b6-b8b0e0fbccf2"

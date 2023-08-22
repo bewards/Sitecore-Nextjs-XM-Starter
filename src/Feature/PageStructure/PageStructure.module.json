@@ -1,0 +1,16 @@
+{
+  "namespace": "Feature.PageStructure",
+  "references": ["Foundation.*"],
+  "items": {
+    "includes": [
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/Feature/DemoSite/Page Structure"
+      },
+      {
+        "name": "renderings",
+        "path": "/sitecore/layout/Renderings/Feature/PageStructure"
+      }
+    ]
+  }
+}

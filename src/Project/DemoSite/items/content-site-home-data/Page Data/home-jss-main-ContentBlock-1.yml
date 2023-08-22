@@ -1,0 +1,39 @@
+﻿---
+ID: "bbdd5426-f8e2-4ab8-be8f-8de67648f5fe"
+Parent: "bbc0263c-8450-413b-b85a-d423f5a7b7ba"
+Template: "f0627599-b3fb-537e-adfd-d52988327385"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/Page Data/home-jss-main-ContentBlock-1"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: "ContentBlock-1"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5c6571dd-9cd7-594c-8024-7153f1647020"
+            Hint: content
+            Value: |
+              <p>Thanks for using JSS!! Here are some resources to get you started:</p>
+              <h3><a href="https://jss.sitecore.com" rel="noopener noreferrer">Documentation</a></h3>
+              <p>The official JSS documentation can help you with any JSS task from getting started to advanced techniques.</p>
+              <h3><a href="/component-patterns">Component Pattern Samples</a></h3>
+              <p>There are a variety of implementation techniques that all yield the same final markup but have their own implementation pros and cons. This page defines those various component patterns as samples.</p>
+              <h3><a href="/styleguide">JSS Styleguide</a></h3>
+              <p>The JSS styleguide is a living example of how to use JSS, hosted right in this app.
+              It demonstrates most of the common patterns that JSS implementations may need to use,
+              as well as useful architectural patterns and Sitecore field types rendered with React components.&nbsp;The JSS samples are a boilerplate, not a library. That means that any code on this page is meant for you to own and customize to your own requirements.</p>
+              <h3><a href="/dev/styles">Dev Styles</a></h3>
+              <p>On this page is where we have collected our own Styleguide for the site.</p>
+              <h3><a href="/dev/grid-system">Grid System</a></h3>
+              <p>We have a sample use case of our Grid System.</p>
+              <h3><a href="/graphql">GraphQL</a></h3>
+              <p>JSS features integration with the Sitecore GraphQL API to enable fetching non-route data from Sitecore - or from other internal backends as an API aggregator or proxy.
+              This route is a living example of how to use an integrate with GraphQL data in a JSS app.&nbsp;</p>
+          - ID: "8a36e526-2683-52dd-8c09-1fb791c42e65"
+            Hint: heading
+            Value: Welcome to Sitecore JSS
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "69fb75db-bedd-43e0-b35f-bb5db68c1845"

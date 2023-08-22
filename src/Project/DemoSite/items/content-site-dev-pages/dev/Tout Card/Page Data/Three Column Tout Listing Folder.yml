@@ -1,0 +1,13 @@
+﻿---
+ID: "faa12748-f5cb-4048-a061-238edc85a2c6"
+Parent: "63a32b0e-d8d2-410b-9b71-1843dc096a48"
+Template: "4d968caa-b736-4ffe-819b-ba19ac9d70d7"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Tout Card/Page Data/Three Column Tout Listing Folder
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "ae12f454-d73c-400b-afe7-18e7a8648a29"

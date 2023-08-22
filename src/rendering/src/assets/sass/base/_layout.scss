@@ -1,0 +1,74 @@
+@import '@sass/abstracts/palette';
+@import '@sass/abstracts/imports';
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin-bottom: 0px;
+  height: auto !important;
+}
+
+body {
+  position: relative;
+  overflow: auto;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  height: auto !important;
+  background-color: $white;
+
+  @include media-breakpoint-up(xl) {
+    background-color: $gray-10;
+  }
+
+  &.no-scroll {
+    overflow: hidden;
+  }
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+#main {
+  min-height: 80vh;
+  background-color: $gray-10;
+  transition: max-width 0.3s ease;
+
+  @include media-breakpoint-up(md) {
+    min-height: 65vh;
+  }
+
+  &.error-page {
+    min-height: unset;
+  }
+}
+
+#main-container {
+  padding: 0;
+
+  > div:last-of-type {
+    margin-bottom: 6.25rem;
+  }
+}
+
+#main-inner {
+  background-color: $white;
+  display: flex;
+  flex-direction: column;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+
+  @include media-breakpoint-up(md) {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+}
+
+.main-bottom {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin-top: 3.5rem;
+  padding: 0 1rem;
+  background-color: $gray-10;
+}

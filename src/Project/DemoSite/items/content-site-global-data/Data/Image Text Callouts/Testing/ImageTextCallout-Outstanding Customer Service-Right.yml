@@ -1,0 +1,41 @@
+﻿---
+ID: "d74f2981-e48a-4d85-9017-a8aba8bcc439"
+Parent: "fda9781e-57bd-4bea-91b4-214fff28d8e9"
+Template: "b01424a2-3de2-4d52-9176-1e009cbd85c1"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Data/Image Text Callouts/Testing/ImageTextCallout-Outstanding Customer Service-Right"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04920b3d-4051-4371-afb1-44448df8e169"
+            Hint: title
+            Value: Outstanding Customer Service
+          - ID: "0844385d-5e16-4058-b607-208c320a9aa6"
+            Hint: desktopImage
+            Value: |
+              <image mediaid="{7EEC1BD7-8C7F-42A0-BF46-1AAEF1C74B9C}" />
+          - ID: "0fda4bef-63b3-4987-885c-a5169624b2f5"
+            Hint: imageDirection
+            Value: "{88881208-0E27-4C22-A227-CAB138164906}"
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <span style="color: #383e41;">Our Health Care Concierge team works hard to make things easy for you when you have questions or concerns. A Health Care Concierge will provide personal service when and where you need it, at no cost to you.</span>
+          - ID: "39ef4184-3344-4437-88ef-e3ec264d6aaf"
+            Hint: titleHeadingLevel
+            Value: "{9F06C920-7BCB-4F11-9ECE-26F2DBE9EA09}"
+          - ID: "4001c909-97c0-499b-9615-91e476c2cece"
+            Hint: link
+            Value: |
+              <link text="Learn About Our Customer Service" linktype="external" url="https://google.com" anchor="" title="Learn About Our Customer Service" target="" />
+          - ID: "46db1348-73f2-4128-916e-58483dd449be"
+            Hint: linkMode
+            Value: "{9D59BAC2-9346-4DD9-BED6-E43DC523F5FE}"
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "a0bcde8c-4eff-4151-821f-8933ec7ec4ee"

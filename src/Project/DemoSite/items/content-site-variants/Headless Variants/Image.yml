@@ -1,0 +1,21 @@
+﻿---
+ID: "61ff408b-5420-4146-a3e4-23683b8632bc"
+Parent: "5b691918-4a36-4852-8b6d-2b5d0653ed86"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Headless Variants/Image
+BranchID: "ae87ba03-4197-4107-82d5-f8b1cafe3bff"
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: Office/32x32/photo_landscape.png
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{22E4CE0C-BBBC-46EC-8F36-773779104491}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "15f6dbf0-16d7-46e6-b6bb-dff38957d511"

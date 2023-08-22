@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "aaron-bond.better-comments",
+        "ms-azuretools.vscode-docker",
+        "graphql.vscode-graphql-syntax",
+        "vscode-icons-team.vscode-icons",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "sibiraj-s.vscode-scss-formatter"
+    ]
+}

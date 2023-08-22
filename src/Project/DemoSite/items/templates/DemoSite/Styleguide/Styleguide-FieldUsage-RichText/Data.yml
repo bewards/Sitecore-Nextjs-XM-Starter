@@ -1,0 +1,17 @@
+﻿---
+ID: "35bb2bd6-00c6-5ea0-97b4-f860a4a67d10"
+Parent: "6e5fe7c3-28eb-59fe-b1d0-9052fcb9a46e"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/DemoSite/Styleguide/Styleguide-FieldUsage-RichText/Data"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "6281eee2-3944-425a-a091-6d34ab60e6bd"

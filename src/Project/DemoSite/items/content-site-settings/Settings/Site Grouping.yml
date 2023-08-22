@@ -1,0 +1,26 @@
+﻿---
+ID: "25a47488-26cc-4744-a42b-6c04f3911981"
+Parent: "2eb7e574-7987-4845-be3e-43696797dd6d"
+Template: "8357f958-9aaa-46db-8898-36448a96356f"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Settings/Site Grouping
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+  - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+    Hint: __Security
+    Value: |
+      ar|sitecore\UPMC HP Author|pd|-item:delete|-item:rename|-item:write|pe|-item:delete|-item:rename|-item:write|
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{DA3025E0-D396-4709-A975-92DB1A722710}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2cc7e16b-c325-4bb1-9cf1-640313e309ce"

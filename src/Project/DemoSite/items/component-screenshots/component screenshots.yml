@@ -1,0 +1,17 @@
+﻿---
+ID: "49a9413d-7b63-4bbd-948c-fc45b7ab62d1"
+Parent: "a6dddfe1-7947-4d89-9cbe-daff0371ecf7"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/DemoSite/shared/component screenshots
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "11ad3a31-5ca2-4c36-8235-51d8f3ea4ef8"

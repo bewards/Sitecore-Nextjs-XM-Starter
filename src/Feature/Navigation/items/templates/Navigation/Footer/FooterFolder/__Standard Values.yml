@@ -1,0 +1,23 @@
+﻿---
+ID: "a4fc02ff-7e36-46a0-8e5d-44e03482ee42"
+Parent: "eba5b256-128c-469b-ae87-62bf0d96ed70"
+Template: "eba5b256-128c-469b-ae87-62bf0d96ed70"
+Path: /sitecore/templates/Feature/DemoSite/Navigation/Footer/FooterFolder/__Standard Values
+SharedFields:
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: |
+      {282F0D8A-F305-4CBC-93FA-8D177741E68B}
+      {EBA5B256-128C-469B-AE87-62BF0D96ED70}
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "0d3a5e96-ad79-4ee1-896b-21510bb65ff7"

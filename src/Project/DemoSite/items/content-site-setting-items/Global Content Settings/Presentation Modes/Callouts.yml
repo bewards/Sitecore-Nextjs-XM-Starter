@@ -1,0 +1,13 @@
+﻿---
+ID: "c1e5d1cf-6c2e-4591-8aab-61b3f12f8261"
+Parent: "5b1de583-8753-49d9-8c0b-90421b42a249"
+Template: "ce12cd98-2aa2-443d-8b09-cb49aa485962"
+Path: /sitecore/content/DemoSite/Global Content Settings/Presentation Modes/Callouts
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "101fc45c-95f6-4886-90a0-d858e2e1533b"

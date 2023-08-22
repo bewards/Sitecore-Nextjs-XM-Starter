@@ -1,0 +1,17 @@
+﻿---
+ID: "f0b8d6d5-478f-5d78-ac59-e2dbf26d6bbb"
+Parent: "33303417-2b62-5a3c-b9a2-99a28586883a"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/DemoSite/Styleguide/Styleguide-FieldUsage-Custom/Data"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3fb251bc-3c58-479c-b47c-5d90fbaaef02"

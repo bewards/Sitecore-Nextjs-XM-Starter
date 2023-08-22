@@ -1,0 +1,23 @@
+﻿---
+ID: "476521df-d2a1-4b24-a514-1c0666da99ad"
+Parent: "af37c0c9-b597-45d6-ac37-4dea42904ae5"
+Template: "262739da-804b-4d2d-b3e9-478cd0413060"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Tout Listings/Testing/ThreeColumnExample
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: Three Column Tout Listing Example
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "88cf0b70-34f3-426b-b3d3-aacdc7950498"
+            Hint: heading
+            Value: The Value of Choosing Demo Site
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3c0db2dd-7ac2-4b40-8ddc-5a6dca9dfba3"
+          - ID: "f494121f-c37e-49c5-b164-9e709482dcb0"
+            Hint: headingLevel
+            Value: "{9F06C920-7BCB-4F11-9ECE-26F2DBE9EA09}"

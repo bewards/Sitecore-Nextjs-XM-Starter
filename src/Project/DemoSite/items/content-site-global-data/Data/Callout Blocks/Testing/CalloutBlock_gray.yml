@@ -1,0 +1,25 @@
+﻿---
+ID: "bf3fe9a4-6161-4962-9c08-28933cf6e0ec"
+Parent: "705ad0f1-c8b3-4dd0-8f8c-ead308078125"
+Template: "e9778725-f086-4afc-b374-bc80feb1896e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Callout Blocks/Testing/CalloutBlock_gray
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "50bbcfaf-830d-4ee8-ab45-33b1a23c4b4e"
+            Hint: content
+            Value: |
+              <div style='text-align: center;'>
+              <h1>This should have a gray color palette</h1>
+              </div>
+          - ID: "59a3f68d-94e8-4acb-ac20-9ab153ed9a6a"
+            Hint: image
+            Value:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "770ffc6f-6c99-4b0e-b1f4-654cdee20b2a"
+          - ID: "d4e7c575-c1cc-45f7-a5bd-f4faeda44b46"
+            Hint: backgroundColor
+            Value: "{B45CDD9E-F5E7-4AA0-AE16-D6F87ECC3B73}"

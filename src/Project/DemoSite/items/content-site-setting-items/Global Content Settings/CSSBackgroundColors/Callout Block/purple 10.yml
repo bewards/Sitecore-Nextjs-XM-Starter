@@ -1,0 +1,16 @@
+﻿---
+ID: "91a01a8d-6671-4c7f-ba4b-b75f9017dfa9"
+Parent: "b7b8e58a-68c1-4307-a119-0b2cbda6ab22"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/CSSBackgroundColors/Callout Block/purple 10
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: " bg-purple-10 border-purple-40"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "81fed9a4-fd9b-45ba-9c89-a3840a3b4dce"

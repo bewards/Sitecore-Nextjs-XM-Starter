@@ -1,0 +1,37 @@
+﻿---
+ID: "9709f01a-31a3-4488-9f1e-819e16aec31d"
+Parent: "3cc4cd95-553a-4c2b-a141-e8670ad0c181"
+Template: "a6ce10fb-88ab-43c9-881c-b5898636a3fb"
+Path: /sitecore/content/DemoSite/Global Data/Customer Types/producer
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "227b3715-a528-42a6-93f0-b8e1c6be38f5"
+            Hint: registerLink
+            Value: |
+              <link text="Register" linktype="external" url="https://www.google.com" anchor="" target="" />
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230717T145740Z
+          - ID: "3df6422b-aa48-4186-a839-34777b45ea28"
+            Hint: portalDestinationLink
+            Value: |
+              <link text="Log in" linktype="external" url="https://google.com" anchor="" target="" />
+          - ID: "49640053-59e5-427b-ab0e-2dcce4068da4"
+            Hint: dropdownLabel
+            Value: Producer
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "5b7c5609-fd99-4c5e-b92c-ff8bae0d6c83"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230717T150055Z
+          - ID: "e152ebf9-9434-487a-91a8-6a4cd796bafd"
+            Hint: forgotPasswordShortInstructions
+            Value: "If you can't log in, contact Producer Support at 855-306-8276 (Monday - Friday 8am-5pm)"

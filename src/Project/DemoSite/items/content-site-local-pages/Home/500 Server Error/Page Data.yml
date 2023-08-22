@@ -1,0 +1,17 @@
+﻿---
+ID: "81c4856f-790d-433a-aa16-b7ab878018f9"
+Parent: "9f1201d3-541e-4713-ab3f-b505739f45ef"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/500 Server Error/Page Data
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "fb0f72b3-8f49-4272-a596-f17e5ea7acdc"

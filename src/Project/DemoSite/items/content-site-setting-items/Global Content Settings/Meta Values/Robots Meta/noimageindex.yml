@@ -1,0 +1,20 @@
+﻿---
+ID: "4af1cce4-e0c6-4150-8fa8-b3fed741c85c"
+Parent: "4fb4b7d3-045f-408f-b343-e58dc2ce5a9e"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Meta Values/Robots Meta/noimageindex
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: No image index
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: noimageindex
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3dd4c3de-e746-4d6f-92d7-9525f4ad2599"

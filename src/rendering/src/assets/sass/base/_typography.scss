@@ -1,0 +1,214 @@
+@import '../abstracts/typography';
+
+a:active {
+  color: $purple-50-pressed;
+  text-decoration: underline;
+}
+
+blockquote,
+.blockquote {
+  color: $purple-60;
+  font-size: $kiwi-font-size;
+  font-weight: $font-weight-medium;
+  line-height: $kiwi-line-height;
+  padding-left: 1rem;
+  margin-bottom: $coconut-paragraph-spacing;
+  position: relative;
+
+  &::before {
+    background-color: $gray-60;
+    content: '';
+    display: block;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 2px;
+  }
+
+  >p {
+    font-size: inherit;
+    font-weight: $font-weight-book;
+    line-height: inherit;
+    margin-bottom: inherit;
+  }
+}
+
+.blockquote-footer {
+  color: $gray-50;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  margin-bottom: inherit;
+  margin-top: 1rem;
+
+  &::before {
+    content: none;
+  }
+
+  >cite {
+    font-size: $grape-font-size;
+    font-style: normal;
+    font-weight: $font-weight-book;
+    line-height: $grape-line-height;
+    margin-bottom: $grape-paragraph-spacing;
+
+    >p {
+      margin-bottom: 0;
+    }
+  }
+
+  >p {
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    margin-bottom: 0;
+  }
+}
+
+h1,
+.h1,
+.honeydew {
+  font-size: $honeydew-font-size;
+  font-weight: $font-weight-bold;
+  line-height: $honeydew-line-height;
+  margin-bottom: $honeydew-paragraph-spacing;
+}
+
+h2,
+.h2,
+.coconut {
+  font-size: $coconut-font-size;
+  font-weight: $font-weight-bold;
+  line-height: $coconut-line-height;
+  margin-bottom: $coconut-paragraph-spacing;
+}
+
+h3,
+.h3,
+.pear {
+  font-size: $pear-font-size;
+  font-weight: $font-weight-bold;
+  line-height: $pear-line-height;
+  margin-bottom: $pear-paragraph-spacing;
+}
+
+h4,
+.h4 {
+  font-size: $pear-font-size;
+  font-weight: $font-weight-medium;
+  line-height: $pear-line-height;
+  margin-bottom: $pear-paragraph-spacing;
+}
+
+p.lead,
+.apple {
+  font-size: $apple-font-size;
+  font-weight: $font-weight-book;
+  line-height: $apple-line-height;
+  margin-bottom: $apple-paragraph-spacing;
+}
+
+h5,
+.h5,
+.kiwi {
+  font-size: $kiwi-font-size;
+  font-weight: $font-weight-medium;
+  line-height: $kiwi-line-height;
+  margin-bottom: $kiwi-paragraph-spacing;
+}
+
+p {
+  font-size: $kiwi-font-size;
+  font-weight: $font-weight-book;
+  line-height: $kiwi-line-height;
+  margin-bottom: $watermelon-paragraph-spacing;
+}
+
+h6,
+.h6,
+.grape {
+  font-size: $grape-font-size;
+  font-weight: $font-weight-medium;
+  line-height: $grape-line-height;
+  margin-bottom: $grape-paragraph-spacing;
+}
+
+p.small {
+  font-size: $grape-font-size;
+  font-weight: $font-weight-book;
+  line-height: $grape-line-height;
+  margin-bottom: $grape-paragraph-spacing;
+}
+
+p.legal {
+  color: $gray-50;
+  font-size: $grape-font-size;
+  font-weight: $font-weight-book;
+  line-height: $grape-line-height;
+  margin-bottom: $grape-paragraph-spacing;
+}
+
+.blueberry,
+.rte-blueberry-fix {
+  font-size: $blueberry-font-size;
+  font-weight: $font-weight-book;
+  line-height: $blueberry-line-height;
+  margin-bottom: $blueberry-paragraph-spacing;
+}
+
+.watermelon,
+.rte-watermelon-fix {
+  font-size: $watermelon-font-size;
+  font-weight: $font-weight-bold;
+  line-height: $watermelon-line-height;
+  margin-bottom: $watermelon-paragraph-spacing;
+}
+
+@include media-breakpoint-up(md) {
+
+  blockquote,
+  .blockquote {
+    padding-left: 1.5rem;
+  }
+
+  h1,
+  .h1 {
+    font-size: $watermelon-font-size;
+    font-weight: $font-weight-bold;
+    line-height: $watermelon-line-height;
+    margin-bottom: $watermelon-paragraph-spacing;
+  }
+
+  h2,
+  .h2 {
+    font-size: $honeydew-font-size;
+    font-weight: $font-weight-bold;
+    line-height: $honeydew-line-height;
+    margin-bottom: $honeydew-paragraph-spacing;
+  }
+
+  h3,
+  .h3 {
+    font-size: $coconut-font-size;
+    font-weight: $font-weight-bold;
+    line-height: $coconut-line-height;
+    margin-bottom: $coconut-paragraph-spacing;
+  }
+
+  h4,
+  .h4 {
+    font-size: $pear-font-size;
+    font-weight: $font-weight-bold;
+    line-height: $pear-line-height;
+    margin-bottom: $pear-paragraph-spacing;
+  }
+}
+
+main {
+
+  ol li,
+  ul li {
+    margin-bottom: 0.5rem;
+  }
+}

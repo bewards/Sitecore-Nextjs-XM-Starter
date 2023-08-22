@@ -1,0 +1,45 @@
+﻿---
+ID: "76b68400-5280-45e0-9889-5654f59cc6a4"
+Parent: "fda9781e-57bd-4bea-91b4-214fff28d8e9"
+Template: "b01424a2-3de2-4d52-9176-1e009cbd85c1"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Data/Image Text Callouts/Testing/ImageTextCallout-Access to Top-Ranked Care- left"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04920b3d-4051-4371-afb1-44448df8e169"
+            Hint: title
+            Value: "Access to Top-Ranked Care"
+          - ID: "0844385d-5e16-4058-b607-208c320a9aa6"
+            Hint: desktopImage
+            Value: |
+              <image mediaid="{4CC352D3-B614-49C5-958B-C084B4F2DAB7}" />
+          - ID: "0f25c434-f792-40e7-8357-c2da427add50"
+            Hint: linkIcon
+            Value: "{2893DCCF-930F-485B-9FFE-0052F0F16F48}"
+          - ID: "0fda4bef-63b3-4987-885c-a5169624b2f5"
+            Hint: imageDirection
+            Value: "{3BAD7018-A678-4311-B5E1-C99E790E7FC7}"
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              Looking for a doctor or care facility? Find listings of the care providers we partner with &mdash; including doctors, hospitals, pharmacies, urgent care facilities, and more.
+
+          - ID: "39ef4184-3344-4437-88ef-e3ec264d6aaf"
+            Hint: titleHeadingLevel
+            Value: "{9F06C920-7BCB-4F11-9ECE-26F2DBE9EA09}"
+          - ID: "4001c909-97c0-499b-9615-91e476c2cece"
+            Hint: link
+            Value: |
+              <link text="Google" linktype="external" url="http://www.google.com" anchor="" title="test google" target="" />
+          - ID: "46db1348-73f2-4128-916e-58483dd449be"
+            Hint: linkMode
+            Value: "{704D50C0-F26C-4CB3-A472-01324DF268AD}"
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c2563546-d0db-4147-8bc3-28e7f3dadeb7"

@@ -1,0 +1,35 @@
+﻿---
+ID: "1766edda-f419-4294-a1c4-92667933b52c"
+Parent: "f1d42697-18c6-44b0-8b6a-ab23c5d60427"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Partial Designs/Composites
+SharedFields:
+  - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+    Hint: Signature
+    Value: composites
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:p="p" xmlns:s="s"
+        p:p="1">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+          <r
+            uid="{E13650C1-2CA2-47AD-B876-0D579D85634E}"
+            s:id="{128E5B68-FAB7-4C1B-9FAB-E3FA0E7CE571}"
+            s:par="CacheClearingBehavior=Clear+on+publish"
+            s:ph="hp-header" />
+        </d>
+      </r>
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "b54d84a3-e0b2-43fa-9106-f4590ba88414"

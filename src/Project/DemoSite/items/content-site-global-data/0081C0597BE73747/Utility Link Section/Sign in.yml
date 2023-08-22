@@ -1,0 +1,34 @@
+﻿---
+ID: "100fbec2-953b-48d5-ae17-3cc9bc24a04b"
+Parent: "b3e8d4a9-f2ed-4e24-98bf-7c0ca3d7cd60"
+Template: "512c2857-ae92-42e3-b88e-0ab0421dbbe4"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Mobile Header Two Logos with Primary Nav and Utility Links/Utility Link Section/Sign in
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230728T215319Z
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "69fab02f-f566-443a-b320-a0b64b659466"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "c051d45f-a5c1-46b6-80a3-53c7e67f034e"
+            Hint: linkText
+            Value: Sign in/Register
+          - ID: "c5b9e650-0dd5-4656-9db9-1c6448a041fe"
+            Hint: link
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="Alt text" target="" querystring="" id="{258B9285-7EA1-41A7-9D92-5EA67C2AF900}" />
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230728T215319Z

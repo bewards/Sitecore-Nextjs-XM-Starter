@@ -1,0 +1,56 @@
+{
+  "namespace": "DemoSite.Content",
+  "references": ["Foundation.*", "Feature.*", "DemoSite.Project"],
+  "tags": ["content"],
+  "items": {
+    "includes": [
+      {
+        "name": "content-site",
+        "path": "/sitecore/content/DemoSite",
+        "scope": "itemAndChildren",
+        "allowedPushOperations": "createUpdateAndDelete"
+      },
+      {
+        "name": "content-site-medialibrary",
+        "path": "/sitecore/media library/Project/DemoSite",
+        "scope": "itemAndChildren",
+        "allowedPushOperations": "createAndUpdate"
+      },
+      {
+        "name": "content-site-media-item",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Media",
+        "scope": "singleItem",
+        "allowedPushOperations": "createAndUpdate"
+      },
+      {
+        "name": "content-site-data",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Data",
+        "scope": "singleItem",
+        "allowedPushOperations": "createAndUpdate"
+      },
+      {
+        "name": "content-site-dictionary",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Dictionary",
+        "scope": "singleItem",
+        "allowedPushOperations": "createAndUpdate"
+      },
+      {
+        "name": "content-site-pres",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Presentation",
+        "scope": "itemAndChildren",
+        "allowedPushOperations": "createAndUpdate"
+      },
+      {
+        "name": "content-site-settings",
+        "path": "/sitecore/content/DemoSite/DemoSiteWebsite/Settings",
+        "scope": "itemAndChildren",
+        "allowedPushOperations": "createAndUpdate"
+      },
+      {
+        "name": "component-screenshots",
+        "path": "/sitecore/media library/Project/DemoSite/shared/component screenshots",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+﻿---
+ID: "82810e8c-658d-5ea0-8a91-c32eefee9eae"
+Parent: "2a701e4b-a352-504f-9e3e-3166194ef204"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/DemoSite/Styleguide/Styleguide-ComponentParams Rendering Parameters/Data"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2bb53b7e-5d74-41ec-a06a-950522b48675"

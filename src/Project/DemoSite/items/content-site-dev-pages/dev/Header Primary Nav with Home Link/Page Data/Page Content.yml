@@ -1,0 +1,31 @@
+﻿---
+ID: "148cb9c4-6224-4189-9438-4472a90ee6d7"
+Parent: "795cc263-9abd-42c2-82dc-20ff296e675d"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Header Primary Nav with Home Link/Page Data/Page Content
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2>Primary Navigation with Home Link</h2>
+              <p>This page demonstrates the Header component set up with a primary navigation that contains a home link. This home link within the primary navigation is a unique link, styled differently to stand out and represents the home page. </p>
+              <p>On desktop this link is the first section or link in the primary navigation bar. It is styled differently from the other sections depending on which page the visitor is currently on. If the visitor is on the home page, or the page this link would take visitors to, the background color of this link will be the site's primary color (purple 60). On any other page the background color of this link will be a tint of the primary color (purple 10), while the primary navigation section that is an ascendant of the, or is the current page will be marked with an underline of the primary color.&nbsp;</p>
+              <p style="text-align: center;"><img alt="Screenshot of the header component with a primary navigation section containing an active home link." src="-/media/8540898259FC417BAD01B18905CA0000.ashx?h=61&amp;w=600" style="width: 600px; height: 61px; margin: 12px;" /></p>
+              <p style="text-align: center;"><img alt="Screenshot of the header with a primary navigation section containing an inactive home link." src="-/media/7C450FAB76E6441E9585D9446DCDA6A2.ashx?h=60&amp;w=600" style="width: 600px; height: 60px; margin: 12px;" /></p>
+              <p style="text-align: left;">On mobile this link is placed at the top of the hidden menu visitors can toggle open. Again the link is styled differently for the other links, larger font size and colored with the site's primary color.</p>
+              <p style="text-align: center;"><img alt="Screenshot of header component on mobile with single logo" src="-/media/DD91F7E97366406D8E83A6C2323FFEF6.ashx?h=51&amp;w=250" style="height: 51px; width: 250px; vertical-align: top; margin: 12px;" /><img alt="Screenshot of header component on mobile with primary section containing a home link." src="-/media/CD2FE64AD2024BAA84789CEA9C0A0D21.ashx?h=315&amp;w=250" style="width: 250px; height: 315px; vertical-align: top; margin: 12px;" /></p>
+              <h3 style="text-align: left;">Content Authoring</h3>
+              <p style="text-align: left;">To add this unique link to the primary navigation section, two properties have been added to the&nbsp;<em>Primary Navigation&nbsp;</em>template:&nbsp;<strong><em>Link Text&nbsp;<span style="text-decoration: underline;"></span></em></strong>and&nbsp;<strong><em>Link</em></strong>. Link Text is the text that will be displayed to site visitors, this property also allows inline HTML such as strong and em. While Link is the page this link will send visitors when they click it. The page assigned to Link is also used as the top-most page when determining is a page is a descendant of one of the primary navigation menu items.</p>
+              <p style="text-align: center;"><img alt="Screenshot of new home link properties on the primary navigation template." src="-/media/C340321232B1499A86E7C25B15008E11.ashx?h=130&amp;w=600" style="width: 600px; height: 130px; margin: 12px;" /></p>
+              <p style="text-align: left;">Both fields need to be filled out in order to properly render the link on the primary navigation.</p>
+              <h3 style="text-align: left;">Other Updates</h3>
+              <p style="text-align: left;">In order for the underline highlight to work on primary navigation items with sub-navigation menus, the&nbsp;<em>Primary Navigation Menu Button&nbsp;</em>template was also updated with new general link property.</p>
+              <p style="text-align: center;"><img alt="Screenshot of new page link property on primary navigation menu button" src="-/media/C8A457C52BA44166861D43C38DB06946.ashx?h=131&amp;w=600" style="width: 600px; height: 131px; margin: 12px;" /></p>
+              <p style="text-align: left;">For a primary navigation menu button to be highlight when a visitor is on any on the pages underneath it, the menu button needs to link to a page. To link a menu button to a page, content authors need to assign that page to the new&nbsp;<strong><em>Page Link</em></strong>&nbsp;property on the&nbsp;<em>Primary Navigation Menu Button<strong></strong></em><strong>.</strong></p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "5b0b9d5f-3287-40c6-8dca-14457a50d88c"

@@ -1,0 +1,81 @@
+.xa-variable {
+  border: 0px;
+  padding: 1px;
+  margin: 0px;
+  background-color: #ebebe4;
+  color: #545454;
+  user-select: none;
+  pointer-events: none;
+}
+
+//Navigation Bar fix
+#breadcrumbMenuSubcontrol_context_menu * {
+  box-sizing: initial;
+}
+
+//End navigation bar fix
+.menu-mobile-navigate {
+  display: none;
+}
+
+#header-container,
+#content,
+.sc-jss-empty-placeholder {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sc-jss-placeholder-error {
+  background: #ff0000;
+  outline: 5px solid #e36565;
+  padding: 10px;
+  color: #fff;
+  max-width: 500px;
+}
+
+/**** START STYLE MAX HEIGHT ****/
+.prod-mode {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  footer {
+    flex-shrink: 0;
+  }
+}
+/**** END STYLE MAX HEIGHT ****/
+
+/*
+  Hides Sitecore editor markup,
+  if you run the app in connected mode while the Sitecore cookies
+  are set to edit mode.
+*/
+.scChromeData,
+.scpm {
+  display: none !important;
+}
+
+/*
+  Styles for default JSS error components
+*/
+.sc-jss-editing-error,
+.sc-jss-placeholder-error {
+  padding: 1em;
+  background-color: lightyellow;
+}
+
+.editing-mode {
+  .sc-image-wrapper {
+    height: inherit;
+    width: inherit;
+  }
+}
+
+.scEmptyPlaceholder {
+  width: 100%;
+}

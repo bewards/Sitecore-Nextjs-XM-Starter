@@ -1,0 +1,22 @@
+﻿---
+ID: "63a32b0e-d8d2-410b-9b71-1843dc096a48"
+Parent: "c9a105d1-1c00-43ed-84f5-51b86335b1a9"
+Template: "8dd734a1-9d72-43a0-8b4a-d09fcfd55503"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Tout Card/Page Data
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{AE5B86BD-D1EB-4AA4-BDA2-7DB20C340928}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "533863f0-840e-4391-b2fc-d24ce40456fc"

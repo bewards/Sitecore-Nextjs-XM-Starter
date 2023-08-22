@@ -1,0 +1,36 @@
+﻿---
+ID: "9acd1611-9597-40d1-a64c-27726e80bcf7"
+Parent: "b2cc938f-336b-4af0-a57b-b6fb0ef6a16c"
+Template: "9d3052df-070d-45f1-92f0-2b315693cc9a"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Blog Link Listing/Page Data/Blog Link Listing RSS Display/Blog Link Listing RSS Display 8 Display
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230727T132654Z
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "894b93da-e6a6-4788-8c79-407beac20924"
+            Hint: title
+            Value: <em>Blog Link Listing</em> RSS 8 Display
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "172c921d-522f-49ea-9b3e-282b9695c5be"
+          - ID: "8f7d227e-497e-4022-b77c-a43d56437943"
+            Hint: numberOfLinksToShow
+            Value: 8
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230727T193713Z

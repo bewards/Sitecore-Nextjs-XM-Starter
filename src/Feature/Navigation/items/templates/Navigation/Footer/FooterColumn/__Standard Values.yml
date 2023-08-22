@@ -1,0 +1,27 @@
+﻿---
+ID: "88bc8a81-9b0d-4117-a547-1b796e3156dd"
+Parent: "8ceee213-8d1c-40ae-9cb7-7129a274504c"
+Template: "8ceee213-8d1c-40ae-9cb7-7129a274504c"
+Path: /sitecore/templates/Feature/DemoSite/Navigation/Footer/FooterColumn/__Standard Values
+SharedFields:
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: |
+      {4DD932C2-FE9B-494D-8853-B00AFAF084E6}
+      {C25F4DDC-C339-44F3-954B-600FBA3E6ADD}
+      {3DB1F77D-8463-4F9B-AF91-E5D7C47F92BB}
+  - ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+    Hint: __Enable item fallback
+    Value: 1
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "bb3234ec-0188-458e-86b4-d5d148c74121"

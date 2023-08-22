@@ -1,0 +1,26 @@
+﻿---
+ID: "884a72f3-337c-465a-9d00-9254b5fdabb6"
+Parent: "4d968caa-b736-4ffe-819b-ba19ac9d70d7"
+Template: "4d968caa-b736-4ffe-819b-ba19ac9d70d7"
+Path: /sitecore/templates/Feature/DemoSite/Listings/Tout Card Listings/ThreeColumnToutListingFolder/__Standard Values
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: office/32x32/folder_document.png
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: |
+      {262739DA-804B-4D2D-B3E9-478CD0413060}
+      {4D968CAA-B736-4FFE-819B-BA19AC9D70D7}
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "35945759-af47-49df-a0ec-d1af28d3c72b"

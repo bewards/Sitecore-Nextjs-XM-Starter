@@ -1,0 +1,13 @@
+﻿---
+ID: "5b691918-4a36-4852-8b6d-2b5d0653ed86"
+Parent: "e4b941aa-a417-4c73-bf81-0541e068b4c3"
+Template: "da26c636-96e1-45e4-88d6-3fcec70d5699"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Headless Variants
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "b30227e4-3250-4908-95a8-9ef74ace0401"

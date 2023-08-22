@@ -1,0 +1,27 @@
+﻿---
+ID: "539cdb3f-de1a-4c16-8c48-cb01befd327a"
+Parent: "4d938a83-04a6-4700-80da-6492e8a5be22"
+Template: "10863561-7398-4c5d-8a99-b075b90c4e41"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Title/Class Translation/MsoHead2
+SharedFields:
+- ID: "2b6bd0bd-7b87-4e8d-99c8-16bbe70e7de0"
+  Hint: Key
+  Value: MsoHead2
+- ID: "caf92d8d-e76c-41a0-9567-6c5f86b63abf"
+  Hint: Value
+  Value: Heading2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d6a5681-d4b1-486a-bcbf-ed275ee3b5a2"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125511

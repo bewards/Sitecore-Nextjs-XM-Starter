@@ -1,0 +1,70 @@
+﻿---
+ID: "97a1c4c1-9262-4652-aead-a6be959a78e3"
+Parent: "dbf95ed6-4592-42af-9146-9e4a389596be"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Styles/Page Data/Page Content
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <section class="py-5">
+              <h2>Button Styles</h2>
+              <div class="d-flex justify-content-between gap-3">
+              <button type="button" class="btn btn-primary">Primary</button>
+              <button type="button" class="btn btn-outline-primary">Primary Outline</button>
+              <button type="button" class="btn btn-secondary">Secondary</button>
+              <button type="button" class="btn btn-success">Success</button>
+              <button type="button" class="btn btn-danger">Danger</button>
+              </div>
+              </section>
+              <section class="py-5">
+              <h2>Link Styles</h2>
+              <div class="d-flex gap-3">
+              <a href="~/link.aspx?_id=A6904518754A434093499B773D05AF1A&amp;_z=z">Normal</a>
+              <a class="link--download" href="~/link.aspx?_id=A6904518754A434093499B773D05AF1A&amp;_z=z">Download</a>
+              <a class="link--arrow" href="~/link.aspx?_id=A6904518754A434093499B773D05AF1A&amp;_z=z">Arrow</a>
+              <a class="link--external" href="~/link.aspx?_id=A6904518754A434093499B773D05AF1A&amp;_z=z">External</a></div>
+              </section>
+              <section class="py-5">
+              <h2>Typography</h2>
+              <section class="py-3'">
+              <h1>Heading 1 Watermelon Bold</h1>
+              <h2>Heading 2 Honeydew Bold</h2>
+              <h3>Heading 3 Coconut Bold</h3>
+              <p class="lead">
+              Paragraph Lead 18px Book Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+              </p>
+              <h4>Heading 4 Pear Bold</h4>
+              <p>
+              Paragraph Kiwi Book Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+              </p>
+              <h5>Heading 5 Kiwi Medium</h5>
+              <p>
+              Paragraph Kiwi Book Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+              </p>
+              <h6>Heading 6 Grape Medium</h6>
+              <p>
+              Paragraph Kiwi Book Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+              </p>
+              </section>
+              <section class="py-5">
+              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <blockquote class="blockquote">
+              <p>Block Quote Kiwi Medium (or same size as content it sits inside/with) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</p>
+              <footer class="blockquote-footer">
+              <p>Deb Wasilchak</p>
+              <cite title="Grape Book">
+              <p>Chief Operating and Administrating Officer</p>
+              <p>Grape Book</p>
+              </cite>
+              </footer>
+              </blockquote>
+              </section>
+              </section>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "cedb5dc2-b7aa-47ce-bfe4-57f627ef0eef"

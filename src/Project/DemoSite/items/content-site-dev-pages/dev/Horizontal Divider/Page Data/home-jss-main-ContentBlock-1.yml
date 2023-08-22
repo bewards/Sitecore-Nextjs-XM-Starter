@@ -1,0 +1,23 @@
+﻿---
+ID: "e729d931-b161-4c00-b10b-698615b018c6"
+Parent: "09158a36-ab42-48b1-9649-c68be1c70815"
+Template: "f0627599-b3fb-537e-adfd-d52988327385"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Horizontal Divider/Page Data/home-jss-main-ContentBlock-1"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: "ContentBlock-1"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5c6571dd-9cd7-594c-8024-7153f1647020"
+            Hint: content
+            Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          - ID: "8a36e526-2683-52dd-8c09-1fb791c42e65"
+            Hint: heading
+            Value: Horizontal Divider Test Page
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "07f027fe-c56d-4673-87ff-238a5693f067"

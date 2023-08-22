@@ -1,0 +1,30 @@
+﻿---
+ID: "76c2108d-a50c-5f82-9c21-c4a19ef4cb17"
+Parent: "fea9dbe7-b167-5545-9f1f-660998ee1b1f"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/DemoSite/Styleguide-FieldUsage-Image"
+SharedFields:
+  - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+    Hint: componentName
+    Value: "Styleguide-FieldUsage-Image"
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: Office/16x16/photo_portrait.png
+  - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+    Hint: Datasource Template
+    Value: "/sitecore/templates/Project/DemoSite/Styleguide-FieldUsage-Image"
+  - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+    Hint: Datasource Location
+    Value: "./Page Components|/sitecore/content/DemoSite/Components/Styleguide-FieldUsage-Image"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "4b175fa7-1f79-4db4-b9bd-053ab3d5f2b2"

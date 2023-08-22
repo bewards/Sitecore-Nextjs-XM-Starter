@@ -1,0 +1,30 @@
+﻿---
+ID: "a4b02d1a-0bad-5a5e-9694-a739e33a73dd"
+Parent: "82810e8c-658d-5ea0-8a91-c32eefee9eae"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Project/DemoSite/Styleguide/Styleguide-ComponentParams Rendering Parameters/Data/cssClass"
+SharedFields:
+  - ID: "39847666-389d-409b-95bd-f2016f11eed5"
+    Hint: Unversioned
+    Value: 0
+  - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+    Hint: Type
+    Value: "Single-Line Text"
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 100
+  - ID: "be351a73-fcb0-4213-93fa-c302d8ab4f51"
+    Hint: Shared
+    Value: 0
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "6afa979b-451d-48a1-8578-7bcba07de9bf"

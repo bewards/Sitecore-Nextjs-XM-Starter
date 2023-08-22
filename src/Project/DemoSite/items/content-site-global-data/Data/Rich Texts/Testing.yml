@@ -1,0 +1,13 @@
+﻿---
+ID: "a0653471-f534-4e8f-9150-094032b5e136"
+Parent: "8ce31243-2894-484a-a654-cfe15d12e8e1"
+Template: "ca25e0b6-c5a8-47c0-b70c-510a361c1db1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Testing
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "7fb519be-d854-4269-a945-366f4d22de02"

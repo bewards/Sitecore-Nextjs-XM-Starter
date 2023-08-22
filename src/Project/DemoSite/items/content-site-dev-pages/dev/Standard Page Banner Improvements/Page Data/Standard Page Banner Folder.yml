@@ -1,0 +1,13 @@
+﻿---
+ID: "156de091-d3c3-4e01-b9b1-244cb0e8c21e"
+Parent: "1eeb027e-5081-4d24-a672-227e88219357"
+Template: "773bae1d-7de0-45f7-bf0b-9a9dedd48507"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Standard Page Banner Improvements/Page Data/Standard Page Banner Folder
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "6405d90f-859c-460c-a26d-263440391148"

@@ -1,0 +1,38 @@
+﻿---
+ID: "dd4cea67-ca54-4eda-9ef6-2d0a37d7ff93"
+Parent: "786aaefe-cae5-48d7-acea-e0c78c3c4109"
+Template: "353741d2-6edc-4338-86fb-2914ddc0fe1e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Links/Testing/Link Item1
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 50
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230717T215752Z
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "488b9769-3d7b-43bb-bea6-1df9be4996c9"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "bf8c78b3-ec6b-4c66-8b90-c16e18c8c830"
+            Hint: linkText
+            Value: Demo Site Creates Daniel Tiger's Neighborhood Audio Story in Partnership with Fred Rogers Productions
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230717T220258Z
+          - ID: "fd454fbf-1cab-4b5c-bba3-929c5146799e"
+            Hint: linkDestination
+            Value: |
+              <link linktype="external" url="https://www.google.com" anchor="" target="_blank" />

@@ -1,0 +1,16 @@
+﻿---
+ID: "8a61ea6c-feba-4298-8dbd-798ee55a3f48"
+Parent: "1a505b71-e6a1-455f-a0db-76c5ceecdc5e"
+Template: "abcbc0b5-cb96-48a3-8a06-806680ec9055"
+Path: /sitecore/templates/Branches/Project/DemoSite/Header/Header with Subnavigation and Utility Links/$name/Primary Navigation/Menu Button 1/Subnavigation Section 1
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "376371e7-8227-4180-8012-9f61a98e067b"
+            Hint: title
+            Value: Subnavigation Section 1
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "8184f17e-d02f-4811-8176-4c550a662fac"

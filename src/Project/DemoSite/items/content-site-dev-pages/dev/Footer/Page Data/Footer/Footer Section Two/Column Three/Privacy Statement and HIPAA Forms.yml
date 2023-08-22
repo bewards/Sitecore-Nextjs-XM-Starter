@@ -1,0 +1,21 @@
+﻿---
+ID: "03049abc-22ef-42bb-8738-0eefc086c529"
+Parent: "2ade0432-93c0-4fd3-bb6c-4e5843d3d159"
+Template: "4dd932c2-fe9b-494d-8853-b00afaf084e6"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Footer/Page Data/Footer/Footer Section Two/Column Three/Privacy Statement and HIPAA Forms
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "6c7cc1cf-4c58-4ada-80fa-221186f2667c"
+            Hint: link
+            Value: |
+              <link text="Privacy Statement &amp; HIPAA Forms" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{A6904518-754A-4340-9349-9B773D05AF1A}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2fb2c853-43ff-449d-a605-2ca31baf6c59"

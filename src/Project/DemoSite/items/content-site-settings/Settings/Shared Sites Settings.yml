@@ -1,0 +1,21 @@
+﻿---
+ID: "f837b84f-e479-4340-93df-eab3775b5e93"
+Parent: "2eb7e574-7987-4845-be3e-43696797dd6d"
+Template: "c14bf746-030f-4e59-8594-395f6d299e61"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Settings/Shared Sites Settings
+SharedFields:
+  - ID: "d5e1cc0e-0d69-4a31-8321-13994d5accf6"
+    Hint: Delegated Areas
+    Value:
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "5fce0c27-e324-47e4-ae7a-d907b81b3613"

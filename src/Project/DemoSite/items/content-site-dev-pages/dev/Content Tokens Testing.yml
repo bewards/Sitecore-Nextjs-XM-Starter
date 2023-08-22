@@ -1,0 +1,94 @@
+﻿---
+ID: "06f9717a-d333-4f5c-9643-894919ccc354"
+Parent: "615c8c66-b58a-452b-bfd5-458b950d3172"
+Template: "a768a98b-0212-4dcb-bc41-33d3fe781e85"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Content Tokens Testing
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:p="p" xmlns:s="s"
+        p:p="1">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+          <r
+            uid="{3EC8724F-6B01-4D76-8AFD-870F5A867634}"
+            p:before="*"
+            s:ds="{8EB2A4BC-B059-41AB-B28F-5B596375300B}"
+            s:id="{919D1D17-405B-499C-8473-2EAD67EFBA47}"
+            s:par="CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier"
+            s:ph="/hp-main/hp-container-5050-right-{410517C9-5723-4F18-87E5-0D41877CF493}-0" />
+          <r
+            uid="{D74750C6-B864-4D37-999F-BC627F71ADD1}"
+            p:after="r[@uid='{3EC8724F-6B01-4D76-8AFD-870F5A867634}']"
+            s:ds="{33886BF8-0878-43C5-8D8E-0CF15E7F5D46}"
+            s:id="{919D1D17-405B-499C-8473-2EAD67EFBA47}"
+            s:par="CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier"
+            s:ph="/hp-main/hp-container-5050-left-{410517C9-5723-4F18-87E5-0D41877CF493}-0" />
+          <r
+            uid="{0DD6197C-3427-4CC1-AD74-6B5F5C28A4AE}"
+            p:after="r[@uid='{D74750C6-B864-4D37-999F-BC627F71ADD1}']"
+            s:ds="{8CB9B089-6AC6-4DE0-B1CD-4DC4FED94CB5}"
+            s:id="{919D1D17-405B-499C-8473-2EAD67EFBA47}"
+            s:par="CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier"
+            s:ph="/hp-main/hp-container-5050-left-{410517C9-5723-4F18-87E5-0D41877CF493}-0" />
+          <r
+            uid="{BCA8B96A-E780-488E-B083-4683454BE92D}"
+            p:after="r[@uid='{866A44B8-8238-4E9B-96C3-5EDBE44F729A}']"
+            s:ds="{F63CAA20-1923-448B-B309-9136CFBD45B3}"
+            s:id="{919D1D17-405B-499C-8473-2EAD67EFBA47}"
+            s:par="RenderingIdentifier"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{410517C9-5723-4F18-87E5-0D41877CF493}"
+            p:after="*[1=2]"
+            s:id="{A3228731-E469-4E6D-8BA8-7FDD1DD8E961}"
+            s:par="CacheClearingBehavior=Clear on publish"
+            s:ph="hp-main" />
+        </d>
+      </r>
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{3DB41756-BCBF-44A3-AD7A-3DD7098C4E5B}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+            Hint: __Lock
+            Value: <r />
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230719T184106Z
+          - ID: "3714a0a6-c655-4136-97ff-b03268f5ebd2"
+            Hint: openGraphTitle
+            Value: content tokens test
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "6eee2c1a-bd35-429d-8522-bd99dbdc679d"
+          - ID: "9e36878a-df50-431a-9847-a5ef7781053e"
+            Hint: title
+            Value: Content Tokens Testing
+          - ID: "ac1da9d9-c87f-40fb-8acc-aeaf126df8e5"
+            Hint: pageMetaTitle
+            Value: content tokens test
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230814T144042Z

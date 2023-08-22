@@ -1,0 +1,27 @@
+﻿---
+ID: "f60a22c1-1be2-4f88-9911-b46903058db1"
+Parent: "40c9647b-2764-443d-92cc-bcfe5da976a6"
+Template: "10863561-7398-4c5d-8a99-b075b90c4e41"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Full/Class Translation/MsoBodytext
+SharedFields:
+- ID: "2b6bd0bd-7b87-4e8d-99c8-16bbe70e7de0"
+  Hint: Key
+  Value: MsoBodytext
+- ID: "caf92d8d-e76c-41a0-9567-6c5f86b63abf"
+  Hint: Value
+  Value: normal
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89875960-ab6c-46e4-878b-713770472d03"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125510

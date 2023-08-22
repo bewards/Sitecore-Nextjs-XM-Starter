@@ -1,0 +1,13 @@
+﻿---
+ID: "f8c6b525-cc02-452d-9620-13d400dcf08e"
+Parent: "3735880e-4765-47b5-ad3c-ab4ebe23417f"
+Template: "ef325ae7-f58f-48a5-b04e-46398dc269f0"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Alert Banner with Multiple Alerts/Alert Banners
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "7b6a8e01-208e-441b-8a86-669153ae819a"

@@ -1,0 +1,18 @@
+﻿---
+ID: "bfb4dac3-99dc-4d1a-ac93-f5a855f4bba5"
+Parent: "3d275004-c19d-4a4e-8f38-b016f0e95bce"
+Template: "ca25e0b6-c5a8-47c0-b70c-510a361c1db1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/500 Server Error Test/Page Data/Rich Texts
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{12CE273E-4C20-481D-91AF-5203C598D497}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "549c5e64-2b04-49e9-bd83-c8d645393607"

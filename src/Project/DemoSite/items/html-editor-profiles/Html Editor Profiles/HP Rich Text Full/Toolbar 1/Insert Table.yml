@@ -1,0 +1,28 @@
+﻿---
+ID: "2b524b03-44fc-4f91-977c-866a0c03ae14"
+Parent: "3e2b75d8-0dee-4825-835f-4020300dab47"
+Template: "a473cbd2-4e48-41b3-8b1b-5695daf90b5c"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Full/Toolbar 1/Insert Table
+BranchID: "b9ed3ccb-9ec5-4c8c-825b-3dbc2eb0e676"
+SharedFields:
+- ID: "8d4f1b9f-d46b-4842-845d-4a3795da1c0b"
+  Hint: Click
+  Value: InsertTable
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1900
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "230c9e79-2f82-4f0a-adb7-5831f6545cfd"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20050527T135122

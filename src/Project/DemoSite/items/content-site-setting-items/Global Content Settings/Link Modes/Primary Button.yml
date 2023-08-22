@@ -1,0 +1,16 @@
+﻿---
+ID: "9d59bac2-9346-4dd9-bed6-e43dc523f5fe"
+Parent: "033c6ede-1951-40db-b35a-7dd8b3cbdd23"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Link Modes/Primary Button
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: primary
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "71d9bb59-c831-464f-b1d5-bef8db9c7691"

@@ -1,0 +1,23 @@
+﻿---
+ID: "b2cc938f-336b-4af0-a57b-b6fb0ef6a16c"
+Parent: "d8b9567d-5d8a-449c-ae98-8551ea04a382"
+Template: "9be704f1-157c-4299-a575-09396ca170f1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Blog Link Listing/Page Data/Blog Link Listing RSS Display
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230720T145343Z
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "1092d99a-7849-4a89-b071-467f93d53e4f"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230720T145350Z

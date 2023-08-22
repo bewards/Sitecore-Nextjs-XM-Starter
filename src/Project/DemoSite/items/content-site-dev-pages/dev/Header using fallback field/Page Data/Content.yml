@@ -1,0 +1,18 @@
+﻿---
+ID: "6b454a79-cd70-4918-9935-1f9bb9b5d1aa"
+Parent: "9ff11fe0-88c5-4bc9-9a6a-bc4e8baa713e"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Header using fallback field/Page Data/Content
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2>Header assigned by default</h2>
+              <p>This page demonstrates how the Header component will default to the data source selected within the&nbsp;<em>Default Header</em>&nbsp;field of the site content node.</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "06688083-fb9b-422b-86aa-46ae6bb5c87f"

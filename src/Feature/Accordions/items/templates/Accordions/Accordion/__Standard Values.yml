@@ -1,0 +1,24 @@
+﻿---
+ID: "0fb17aa7-96c3-42c2-b205-44b67615b174"
+Parent: "c4965d46-987d-4010-9d3e-a3dac2e89e09"
+Template: "c4965d46-987d-4010-9d3e-a3dac2e89e09"
+Path: /sitecore/templates/Feature/DemoSite/Accordions/Accordion/__Standard Values
+SharedFields:
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: "{E0315DA6-E681-48F8-A8F1-86E7828D4130}"
+  - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+    Hint: __Default workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "36d65f46-1496-4c94-a8ea-64a681cbf6e2"

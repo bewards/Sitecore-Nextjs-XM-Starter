@@ -1,0 +1,33 @@
+﻿---
+ID: "67dcdeec-fac6-5b03-a6f4-1f2bfeac7421"
+Parent: "fa21a9b8-61bc-58fc-8890-f35f6ae8f2b7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Project/DemoSite/Styleguide/Styleguide-FieldUsage-ItemLink/Data/sharedItemLink"
+SharedFields:
+  - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+    Hint: Source
+    Value: dataSource=/sitecore/content/DemoSite/Content/Styleguide/ItemLinkField
+  - ID: "39847666-389d-409b-95bd-f2016f11eed5"
+    Hint: Unversioned
+    Value: 0
+  - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+    Hint: Type
+    Value: Droptree
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 100
+  - ID: "be351a73-fcb0-4213-93fa-c302d8ab4f51"
+    Hint: Shared
+    Value: 0
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "ead8bfe4-a03c-41a9-8625-041ec03c354e"

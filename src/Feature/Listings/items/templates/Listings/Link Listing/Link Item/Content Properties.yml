@@ -1,0 +1,17 @@
+﻿---
+ID: "f0628ee7-b1de-49b0-ac52-6cbf02acd2b3"
+Parent: "353741d2-6edc-4338-86fb-2914ddc0fe1e"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/DemoSite/Listings/Link Listing/Link Item/Content Properties
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "4fb2c932-fba8-4a28-b0eb-590fed62a2ab"

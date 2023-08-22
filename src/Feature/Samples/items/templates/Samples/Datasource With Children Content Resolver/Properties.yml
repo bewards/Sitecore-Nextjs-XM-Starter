@@ -1,0 +1,17 @@
+﻿---
+ID: "5bab5ae3-bd2c-4b05-aea1-cbffa7252921"
+Parent: "1528d2b0-3da7-4bf6-9a1a-a38f8d9ccd5c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/DemoSite/Samples/Datasource With Children Content Resolver/Properties
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "d51de194-da96-4f98-b548-51ad5989e139"

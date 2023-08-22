@@ -1,0 +1,17 @@
+﻿---
+ID: "037b78d6-edca-4f64-9017-8222e4b74bca"
+Parent: "a6dddfe1-7947-4d89-9cbe-daff0371ecf7"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/DemoSite/shared/logos
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "48783475-646a-4e67-8f4c-829357f3300c"

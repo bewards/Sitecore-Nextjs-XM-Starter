@@ -1,0 +1,13 @@
+﻿---
+ID: "4fb4b7d3-045f-408f-b343-e58dc2ce5a9e"
+Parent: "aeba2619-96a0-45a7-9d0e-81b7c4160b77"
+Template: "ce12cd98-2aa2-443d-8b09-cb49aa485962"
+Path: /sitecore/content/DemoSite/Global Content Settings/Meta Values/Robots Meta
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "8f8d9583-4db4-4cf6-a073-f47f011d1626"

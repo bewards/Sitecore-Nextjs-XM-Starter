@@ -1,0 +1,20 @@
+﻿---
+ID: "62bee280-8b48-5703-9ecc-23f4814d1f7b"
+Parent: "8029e843-1105-55de-a9c5-36d72c9d66d1"
+Template: "f0627599-b3fb-537e-adfd-d52988327385"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Styleguide/ContentReuse/LoremIpsumContentBlock
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: Lorem Ipsum Dolor Sit Amet
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5c6571dd-9cd7-594c-8024-7153f1647020"
+            Hint: content
+            Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque felis mauris, pretium id neque vitae, vulputate pellentesque tortor. Mauris hendrerit dolor et ipsum lobortis bibendum non finibus neque. Morbi volutpat aliquam magna id posuere. Duis commodo cursus dui, nec interdum velit congue nec. Aliquam erat volutpat. Aliquam facilisis, sapien quis fringilla tincidunt, magna nulla feugiat neque, a consectetur arcu orci eu augue.</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "8ae50a09-08b4-4137-ac67-fd897fdd691d"

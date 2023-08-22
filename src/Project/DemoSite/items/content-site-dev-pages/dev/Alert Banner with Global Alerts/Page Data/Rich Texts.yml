@@ -1,0 +1,18 @@
+﻿---
+ID: "a1396513-083d-46db-849e-d1ae17e3c57f"
+Parent: "9ef920bd-c2ec-4e54-865a-a7f164e35f75"
+Template: "ca25e0b6-c5a8-47c0-b70c-510a361c1db1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Alert Banner with Global Alerts/Page Data/Rich Texts
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{12CE273E-4C20-481D-91AF-5203C598D497}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "e33cb754-a63f-484c-96c9-c7339bc02490"

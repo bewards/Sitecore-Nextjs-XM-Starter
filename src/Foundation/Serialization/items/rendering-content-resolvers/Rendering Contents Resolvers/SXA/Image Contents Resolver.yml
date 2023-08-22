@@ -1,0 +1,17 @@
+﻿---
+ID: "4666b036-c36f-4dbe-a7ad-6d45e1d8dfcd"
+Parent: "e1dc4ca4-8eef-41f4-b9f8-ae3003246c22"
+Template: "814c1dbb-b118-4511-ba2b-7288ed3d490b"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/SXA/Image Contents Resolver
+SharedFields:
+- ID: "de218ede-a9ad-4b04-86c5-9ff593ccf39d"
+  Hint: Type
+  Value: Sitecore.XA.Feature.LayoutServices.Integration.Serialization.Renderings.ImageSerializer,Sitecore.XA.Feature.LayoutServices.Integration
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81b50f6d-d975-44d0-8573-d6230ea31a1f"

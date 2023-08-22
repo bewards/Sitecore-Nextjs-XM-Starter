@@ -1,0 +1,13 @@
+﻿---
+ID: "6bf39a0c-2b37-4ecb-912e-5922fe275c7e"
+Parent: "aa6ba04e-e878-4fa5-90b4-afadc3b4d7ce"
+Template: "ce12cd98-2aa2-443d-8b09-cb49aa485962"
+Path: /sitecore/content/DemoSite/Global Content Settings/CSSBackgroundColors/Standard Page Banner
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "fc11765c-6f34-4030-afe9-e4a274c64d86"

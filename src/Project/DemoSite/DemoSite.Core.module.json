@@ -1,0 +1,23 @@
+{
+  "namespace": "DemoSite.Core",
+  "references": ["InitItems"],
+  "items": {
+    "includes": [
+      {
+        "name": "html-editor-profiles",
+        "path": "/sitecore/system/Settings/Html Editor Profiles",
+        "database": "core",
+        "rules": [
+          {
+            "path": "/HP Rich Text *",
+            "scope": "itemAndDescendants"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      }
+    ]
+  }
+}

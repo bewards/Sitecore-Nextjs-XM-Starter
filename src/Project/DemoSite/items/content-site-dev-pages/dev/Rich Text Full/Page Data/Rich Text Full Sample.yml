@@ -1,0 +1,18 @@
+﻿---
+ID: "5e47a411-801f-4bfd-8f42-cd8d4d03f196"
+Parent: "548ab1c4-f0c0-483d-840a-7a184f87384b"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Rich Text Full/Page Data/Rich Text Full Sample
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2>This is the Rich Text Full Component</h2>
+              <p>This component has a single inherited field called&nbsp;<strong>Content</strong>&nbsp;where the field uses a <em>Custom Rich Text Editor profile</em> that allows content authors to <span style="color: #0e856d;"><strong>edit content</strong></span> with a full range of editing tools.</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "7953ba3f-9d31-41f9-a8a1-85d70ac24076"

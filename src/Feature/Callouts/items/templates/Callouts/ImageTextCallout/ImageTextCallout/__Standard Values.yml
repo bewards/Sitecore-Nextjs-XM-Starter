@@ -1,0 +1,29 @@
+﻿---
+ID: "d527d2d2-8552-40ac-99d2-71ef8826040f"
+Parent: "b01424a2-3de2-4d52-9176-1e009cbd85c1"
+Template: "b01424a2-3de2-4d52-9176-1e009cbd85c1"
+Path: /sitecore/templates/Feature/DemoSite/Callouts/ImageTextCallout/ImageTextCallout/__Standard Values
+SharedFields:
+  - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+    Hint: __Default workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0f25c434-f792-40e7-8357-c2da427add50"
+            Hint: linkIcon
+            Value: "{0C3DB8FF-0F8A-42CA-9E5F-537E3C074F59}"
+          - ID: "0fda4bef-63b3-4987-885c-a5169624b2f5"
+            Hint: imageDirection
+            Value: "{3BAD7018-A678-4311-B5E1-C99E790E7FC7}"
+          - ID: "39ef4184-3344-4437-88ef-e3ec264d6aaf"
+            Hint: titleHeadingLevel
+            Value: "{9F06C920-7BCB-4F11-9ECE-26F2DBE9EA09}"
+          - ID: "46db1348-73f2-4128-916e-58483dd449be"
+            Hint: linkMode
+            Value: "{9D59BAC2-9346-4DD9-BED6-E43DC523F5FE}"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "07d5a92b-8b20-42e3-9207-11753295bea0"

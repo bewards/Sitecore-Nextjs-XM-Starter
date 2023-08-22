@@ -1,0 +1,17 @@
+﻿---
+ID: "dbf9fb1b-5a72-4951-af99-b7480dcb2e9c"
+Parent: "fc84c0c1-346d-4305-8e22-e8f469c511a8"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/DemoSite/Example Custom Page Type/Custom Page Properties
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "4e8fec4c-3bf8-4d97-bdaa-114601709df2"

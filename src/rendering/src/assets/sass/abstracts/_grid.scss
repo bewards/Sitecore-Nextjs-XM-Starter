@@ -1,0 +1,47 @@
+/*
+* Grid styles
+** References:
+** - https://getbootstrap.com/docs/5.2/customize/overview/
+*/
+
+/* Device Sizes */
+$device-size-mobile: 320px;
+$device-size-tablet: 768px;
+$device-size-desktop: 1280px;
+
+/* Recommended Breakpoints */
+$recommended-breakpoint-sm: 480px;
+$recommended-breakpoint-lg: 1024px;
+
+/* Gutters */
+$gutter-mobile: 16px;
+$gutter-tablet: 40px;
+$gutter-desktop: 40px;
+
+/* Number of Columns */
+$num-columns-mobile: 4;
+$num-columns-tablet: 8;
+$num-columns-desktop: 12;
+
+/* Margins */
+$margin-mobile: 12px;
+$margin-tablet: 44px;
+$margin-desktop: 76px;
+
+/* Column Widths */
+$column-width-mobile: 64px;
+$column-width-tablet: 64px;
+$column-width-desktop: 72px;
+
+/* Breakpoint Overrides */
+$breakpoint-xs: 0;
+$breakpoint-sm: $recommended-breakpoint-sm;
+$breakpoint-md: $device-size-tablet;
+$breakpoint-lg: $recommended-breakpoint-lg;
+$breakpoint-xl: $device-size-desktop;
+
+/* Container Max Width Overrides */
+$container-max-width-sm: 456px;
+$container-max-width-md: 680px;
+$container-max-width-lg: 906px;
+$container-max-width-xl: 1220px;

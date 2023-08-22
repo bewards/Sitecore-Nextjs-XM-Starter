@@ -1,0 +1,17 @@
+﻿---
+ID: "fad68dc8-89ca-4c08-959b-78f3c5618739"
+Parent: "fedf08bb-d2b4-43a7-87a4-e5dff2ae8756"
+Template: "a8db7cb6-2e25-4d1b-af7c-85ea0adaa5b3"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/FAQ/Testing
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value:
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "49de420a-3de5-4df0-9954-a3f95b8417aa"

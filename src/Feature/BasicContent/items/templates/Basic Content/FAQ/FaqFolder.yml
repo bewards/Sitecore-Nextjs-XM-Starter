@@ -1,0 +1,36 @@
+﻿---
+ID: "a8db7cb6-2e25-4d1b-af7c-85ea0adaa5b3"
+Parent: "069f2a29-5548-4e50-b17c-b247383ca4e1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/DemoSite/Basic Content/FAQ/FaqFolder
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: Office/32x32/folder_document.png
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: |
+      {3AB5B1F9-9314-4D58-AC32-A1DF8A2254EE}
+      {F327A842-1AAB-4739-922F-D88030DD93E9}
+  - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+    Hint: __Base template
+    Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+  - ID: "f7d48a55-2158-4f02-9356-756654404f73"
+    Hint: __Standard values
+    Value: "{4887CF90-DD12-4F62-9AD9-10810A111ECE}"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: FAQ Folder
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2c392239-5d9c-4c64-a65a-cdad1ebd28a5"

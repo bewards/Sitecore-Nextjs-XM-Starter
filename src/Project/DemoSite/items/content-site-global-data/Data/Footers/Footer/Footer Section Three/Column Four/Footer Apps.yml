@@ -1,0 +1,33 @@
+﻿---
+ID: "2b03276c-aa03-4df8-bba5-ddba22d829c1"
+Parent: "897bef8c-5233-4f65-99f0-c43dce24dec2"
+Template: "3db1f77d-8463-4f9b-af91-e5d7c47f92bb"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Footers/Footer/Footer Section Three/Column Four/Footer Apps
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 200
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0ae505c5-b70f-4b9b-9d7b-300a787ab8df"
+            Hint: googlePlayImage
+            Value: |
+              <image mediaid="{599B141C-14B3-4748-A718-3FB6696361FB}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "b0dc6a37-7bc7-431d-ad11-8179ebf2eec8"
+          - ID: "b0629ef6-c60f-4551-8741-e3b92c1d7c70"
+            Hint: appStoreLink
+            Value: |
+              <link linktype="external" url="https://apps.apple.com" anchor="" target="" />
+          - ID: "c2098f9a-2be9-4b11-958c-547023a31b23"
+            Hint: googlePlayLink
+            Value: |
+              <link linktype="external" url="https://play.google.com/store" anchor="" target="" />
+          - ID: "ffb2ffd4-32ad-463a-8619-c6cc2e96c7f2"
+            Hint: appStoreImage
+            Value: |
+              <image mediaid="{E1935544-9830-4C26-BF7B-3CA43B8EF57B}" />

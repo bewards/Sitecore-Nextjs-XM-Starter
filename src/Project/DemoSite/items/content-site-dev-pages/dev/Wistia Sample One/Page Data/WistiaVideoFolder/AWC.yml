@@ -1,0 +1,23 @@
+﻿---
+ID: "4740334d-b041-479b-bdb1-46a7bd56d6ae"
+Parent: "da9d3bc9-1ad9-4c89-8794-42c934415bc9"
+Template: "b0980196-cfec-47d2-9a5c-8e157054d4b3"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Wistia Sample One/Page Data/WistiaVideoFolder/AWC
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{2C62529D-8629-4CD2-8368-AFC8C5D9D3C3}"
+          - ID: "80908f74-c269-4836-ab6d-faa51753681f"
+            Hint: embedCode
+            Value: yblkyx25a2
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "4e5658f8-0f46-4bb5-b25f-6d64f7f7c5b4"

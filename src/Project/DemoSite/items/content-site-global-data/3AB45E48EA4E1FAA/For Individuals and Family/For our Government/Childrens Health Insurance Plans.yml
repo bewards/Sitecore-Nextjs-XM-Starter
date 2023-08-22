@@ -1,0 +1,27 @@
+﻿---
+ID: "8fba291c-07b0-44a7-8756-459b01a7aa76"
+Parent: "2df4ec5b-8e12-4ef9-b530-c1c7a39c962f"
+Template: "05f033b3-a206-46a2-b34a-37a550c8cb77"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with Primary Nav and Subnavigation/Primary Navigation/For Individuals and Family/For our Government/Childrens Health Insurance Plans
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 100
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "4bcaf177-954b-482e-9c9c-a46f35b66caa"
+            Hint: linkText
+            Value: Children's Health Insurance Plans (CHIP)
+          - ID: "6c7cc1cf-4c58-4ada-80fa-221186f2667c"
+            Hint: link
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{258B9285-7EA1-41A7-9D92-5EA67C2AF900}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "06e762f0-6ad4-441c-8e0b-2cb661ac0ca9"
+          - ID: "ae35c112-c704-4949-8404-e068f2327857"
+            Hint: langAttributeValue
+            Value: en

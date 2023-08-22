@@ -1,0 +1,17 @@
+﻿---
+ID: "6a109690-04f2-4b03-8a21-298f9d95e107"
+Parent: "b0980196-cfec-47d2-9a5c-8e157054d4b3"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/DemoSite/Basic Content/Wistia Video Player/WistiaVideo/Content Properties
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "4a00a7a4-5ad9-4031-8020-461a92bb917d"

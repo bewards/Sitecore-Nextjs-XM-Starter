@@ -1,0 +1,28 @@
+﻿---
+ID: "1d5fcc5e-dc8e-4458-b87c-053c56f2bba9"
+Parent: "96084cbd-5c78-4765-97eb-61f909212c9f"
+Template: "e29a8175-d3d3-4b00-949a-3b1e8ea15e45"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with Primary Nav and Utility Links/Primary Navigation/For Individuals and Families"
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 0
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "b1a1be9b-f308-4685-865d-3aa4d2907b96"
+          - ID: "b5f94aca-b64a-4aee-94af-8f9c8645d15e"
+            Hint: title
+            Value: For Individuals & Families
+          - ID: "e552a988-a7cd-49aa-876c-da52e471fca6"
+            Hint: link
+            Value: |
+              <link text="Test link for Individuals and Families section" linktype="external" url="https://www.google.com" anchor="" title="Alt text" target="" />

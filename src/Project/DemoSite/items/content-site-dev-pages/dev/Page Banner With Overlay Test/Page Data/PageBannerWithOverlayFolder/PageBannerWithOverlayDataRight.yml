@@ -1,0 +1,46 @@
+﻿---
+ID: "80650ca8-ae7a-40b4-8743-91b22edb1694"
+Parent: "456a3267-3b18-47dc-9506-35090405a30b"
+Template: "f97eaa2d-5be6-4403-a4a3-834c992beda5"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Page Banner With Overlay Test/Page Data/PageBannerWithOverlayFolder/PageBannerWithOverlayDataRight
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0844385d-5e16-4058-b607-208c320a9aa6"
+            Hint: desktopImage
+            Value: |
+              <image mediaid="{668B025D-88F2-4436-82EF-6F382F5F1313}" />
+          - ID: "0cb7afd1-dded-4a2d-8a4a-8f1c4e3fad68"
+            Hint: bannerBody
+            Value: Get safe, easy access to your plan documents anytime you need them&mdash;whether you have an everyday need or an emergency.
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230804T143743Z
+          - ID: "33bb832d-6622-418a-8426-6d0467fc94cf"
+            Hint: bannerLinkText
+            Value: Update your preferences in MyHealth OnLine
+          - ID: "5f619705-9dd2-4af1-8278-107b301893b3"
+            Hint: bannerLinkIcon
+            Value: "{2893DCCF-930F-485B-9FFE-0052F0F16F48}"
+          - ID: "61eb06c4-f5d1-47f5-8ba9-ece18017d5ac"
+            Hint: bannerTitle
+            Value: "Go Paperless Today! Right"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2fe7b4df-ecb3-4d78-8b7d-28902d6be3ab"
+          - ID: "9f0c05ae-0db6-4bde-82f4-4777558fd17b"
+            Hint: bannerLinkDestination
+            Value: |
+              <link text="access" linktype="external" url="https://www.google.com" anchor="" title="access" target="" />
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230809T175850Z
+          - ID: "f61edd7e-20cc-4bbc-b593-2edcbca497e5"
+            Hint: bannerTitleHeadingLevel
+            Value: "{4A1B68EF-89C6-4DF4-A4EF-5899A164E5F8}"

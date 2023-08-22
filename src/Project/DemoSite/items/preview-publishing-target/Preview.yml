@@ -1,0 +1,24 @@
+﻿---
+ID: "cbac2e73-9597-4436-80a9-d1b8d9fcb836"
+Parent: "d9e44555-02a6-407a-b4fc-96b9026caadd"
+Template: "e130c748-c13b-40d5-b6c6-4b150dc3fab3"
+Path: /sitecore/system/Publishing targets/Preview
+SharedFields:
+- ID: "17394c5a-35a3-45a3-bf2c-f1ac607d1476"
+  Hint: Preview publishing target
+  Value: 1
+- ID: "39ecfd90-55d2-49d8-b513-99d15573de41"
+  Hint: Target database
+  Value: preview
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3996747e-2396-4766-b67b-997aefb3ffdd"

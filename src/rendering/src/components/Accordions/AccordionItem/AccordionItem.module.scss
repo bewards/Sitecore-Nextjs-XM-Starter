@@ -1,0 +1,64 @@
+@import '@sass/abstracts/imports';
+
+.container {
+  border-bottom: 1px solid $gray-20;
+  border-top: 1px solid $gray-20;
+  width: inherit;
+
+  + .container {
+    margin-top: -1px;
+  }
+}
+
+.header {
+  font-size: $kiwi-font-size;
+  font-weight: $font-weight-medium;
+  line-height: $kiwi-line-height;
+  margin-bottom: 0;
+}
+
+.button[type='button'] {
+  color: $gray-60;
+  justify-content: initial;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: inherit;
+
+  &:focus {
+    border-color: transparent;
+    box-shadow: 0 0 0 2px $purple-50;
+  }
+
+  > div {
+    color: $purple-50;
+    margin-left: auto;
+  }
+}
+
+.button[type='button']:hover {
+  color: $gray-60-hover;
+
+  > div {
+    color: $purple-50-hover;
+  }
+}
+
+.button[type='button']:active {
+  color: $gray-60-pressed;
+
+  > div {
+    color: $purple-50-pressed;
+  }
+}
+
+.button[aria-expanded='true'] > div {
+  transform: rotate(180deg);
+}
+
+.content {
+  padding: 0.5rem 3rem 1.5rem 1rem;
+
+  &[hidden] {
+    display: none;
+  }
+}

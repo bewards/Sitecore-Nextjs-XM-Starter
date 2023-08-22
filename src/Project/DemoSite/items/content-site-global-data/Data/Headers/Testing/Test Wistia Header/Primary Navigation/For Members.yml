@@ -1,0 +1,23 @@
+﻿---
+ID: "6394c711-ad9f-4574-a114-c2754bbe4d58"
+Parent: "a3852772-7818-4765-a8e5-dbe179730611"
+Template: "e29a8175-d3d3-4b00-949a-3b1e8ea15e45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Wistia Header/Primary Navigation/For Members
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "98e3ef0a-2389-4086-8900-143748b35398"
+          - ID: "b5f94aca-b64a-4aee-94af-8f9c8645d15e"
+            Hint: title
+            Value: For Members
+          - ID: "e552a988-a7cd-49aa-876c-da52e471fca6"
+            Hint: link
+            Value: /DemoSite/DemoSiteWebsite/Home/dev/Wistia New

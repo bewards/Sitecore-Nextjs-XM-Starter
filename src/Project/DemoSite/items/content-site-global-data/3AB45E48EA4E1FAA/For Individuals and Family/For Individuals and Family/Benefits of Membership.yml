@@ -1,0 +1,27 @@
+﻿---
+ID: "5690e2b3-b81d-45a8-8770-257ffe6737c7"
+Parent: "cf95378e-5ce6-485c-8f9e-1b92e4e24453"
+Template: "05f033b3-a206-46a2-b34a-37a550c8cb77"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with Primary Nav and Subnavigation/Primary Navigation/For Individuals and Family/For Individuals and Family/Benefits of Membership
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 0
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "4bcaf177-954b-482e-9c9c-a46f35b66caa"
+            Hint: linkText
+            Value: Benefits of Membership
+          - ID: "6c7cc1cf-4c58-4ada-80fa-221186f2667c"
+            Hint: link
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{083BF278-B54C-4669-949B-A58ACA386B61}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "158fb28b-93ca-4e76-9cab-e31f872268e9"
+          - ID: "ae35c112-c704-4949-8404-e068f2327857"
+            Hint: langAttributeValue
+            Value: en

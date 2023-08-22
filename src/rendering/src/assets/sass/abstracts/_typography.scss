@@ -1,0 +1,53 @@
+/*
+* Typography styles
+** References:
+** - https://getbootstrap.com/docs/5.2/customize/overview/
+*/
+
+/** Font Size */
+$font-size-base: 1rem;
+
+/* Font Weight */
+$font-weight-book: 400;
+$font-weight-medium: 500;
+$font-weight-bold: 700;
+
+/* Blueberry */
+$blueberry-font-size: $font-size-base * 0.75;
+$blueberry-line-height: 1.5;
+$blueberry-paragraph-spacing: 0.625rem;
+
+/* Grape */
+$grape-font-size: $font-size-base * 0.875;
+$grape-line-height: 1.5;
+$grape-paragraph-spacing: 0.5rem;
+
+/* Kiwi */
+$kiwi-font-size: $font-size-base * 1;
+$kiwi-line-height: 1.5;
+$kiwi-paragraph-spacing: 0.5rem;
+
+/* Apple */
+$apple-font-size: $font-size-base * 1.125;
+$apple-line-height: $kiwi-line-height;
+$apple-paragraph-spacing: $kiwi-paragraph-spacing;
+
+/* Pear */
+$pear-font-size: $font-size-base * 1.25;
+$pear-line-height: 1.5;
+$pear-paragraph-spacing: 0.5rem;
+
+/* Coconut */
+$coconut-font-size: $font-size-base * 1.625;
+$coconut-line-height: 1.5;
+$coconut-paragraph-spacing: 1rem;
+
+/* Honeydew */
+$honeydew-font-size: $font-size-base * 2;
+$honeydew-line-height: 1.5;
+$honeydew-paragraph-spacing: 1rem;
+
+/* Watermelon */
+$watermelon-font-size: $font-size-base * 2.625;
+$watermelon-line-height: 1.5;
+$watermelon-paragraph-spacing: 1rem;

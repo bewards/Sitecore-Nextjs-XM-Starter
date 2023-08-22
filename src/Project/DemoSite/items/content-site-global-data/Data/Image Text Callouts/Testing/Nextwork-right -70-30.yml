@@ -1,0 +1,44 @@
+﻿---
+ID: "273e7680-33ed-41de-a81e-507502043283"
+Parent: "fda9781e-57bd-4bea-91b4-214fff28d8e9"
+Template: "b01424a2-3de2-4d52-9176-1e009cbd85c1"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Data/Image Text Callouts/Testing/Nextwork-right -70-30"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04920b3d-4051-4371-afb1-44448df8e169"
+            Hint: title
+            Value: Here’s the plan for comprehensive care, when and where you need it.
+          - ID: "0844385d-5e16-4058-b607-208c320a9aa6"
+            Hint: desktopImage
+            Value: |
+              <image mediaid="{F935DEFB-19AC-4759-A254-972D55004E31}" />
+          - ID: "0fda4bef-63b3-4987-885c-a5169624b2f5"
+            Hint: imageDirection
+            Value: "{88881208-0E27-4C22-A227-CAB138164906}"
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <p>When you think of quality care, you think of UPMC. Whether your visit involves routine services or cutting-edge medical technology, the world-class hospitals of UPMC and our valued community partners provide our members with <a href="/best/" target="_blank">exceptional care</a>. <br />
+              <br />
+              The Demo Site extended network provides access to high-quality care for dependents living outside our service area. If you need <a href="/members/self-service-resources/travel-coverage.aspx" target="_blank">care while traveling</a>, we're there for you.<br />
+              <br />
+              So when your employer gives you a choice this year, choose the Demo Site that gives you in-network access to an outstanding health care experience.</p>
+          - ID: "39ef4184-3344-4437-88ef-e3ec264d6aaf"
+            Hint: titleHeadingLevel
+            Value: "{9F06C920-7BCB-4F11-9ECE-26F2DBE9EA09}"
+          - ID: "4001c909-97c0-499b-9615-91e476c2cece"
+            Hint: link
+            Value: |
+              <link text="Google" linktype="external" url="http://www.google.com" anchor="" title="google" target="" />
+          - ID: "46db1348-73f2-4128-916e-58483dd449be"
+            Hint: linkMode
+            Value: "{704D50C0-F26C-4CB3-A472-01324DF268AD}"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c29a61be-d7ca-4f78-806c-76e707409432"
+          - ID: "e1b61d29-f565-4c9b-baf6-f8f9524d1761"
+            Hint: presentationMode
+            Value: "{E0F64002-C90D-45E8-A710-7A2FC7DA69B0}"

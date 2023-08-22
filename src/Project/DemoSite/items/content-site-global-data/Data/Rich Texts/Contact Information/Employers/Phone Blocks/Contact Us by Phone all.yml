@@ -1,0 +1,46 @@
+﻿---
+ID: "33886bf8-0878-43c5-8d8e-0cf15e7f5d46"
+Parent: "f04790f2-c65c-4a6a-a1a7-745433ca19a1"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Contact Information/Employers/Phone Blocks/Contact Us by Phone all
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: Contact Us by Phone (all)
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2><span style="color: #771b61;">Contact Us by Phone</span></h2>
+              <p><strong>Prospective Clients</strong></p>
+              <p><a href="tel:+$(Employer Phone Prospective Clients)"><span class="xa-variable" contenteditable="false" data-variableid="{37CF1C8E-8555-4BE5-BAFB-C9F96C0474E1}">Employer Phone Prospective Clients</span></a>&nbsp;(TTY 711)</p>
+              <p><strong>Current Clients</strong></p>
+              <p><a href="tel:+$(Employer Phone Current Clients)"><span class="xa-variable" contenteditable="false" data-variableid="{E5852958-1CEE-4D25-BEAC-6B4D9904D4C0}">Employer Phone Current Clients</span></a>&nbsp;(TTY 712)</p>
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230724T181235Z
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "350e37b9-299a-4a84-a683-212534b812cd"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230724T182415Z

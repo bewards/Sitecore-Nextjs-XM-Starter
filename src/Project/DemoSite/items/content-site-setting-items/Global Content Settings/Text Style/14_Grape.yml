@@ -1,0 +1,16 @@
+﻿---
+ID: "656137fb-3ed6-4fb5-a437-7ef2e31530f4"
+Parent: "2a0f086a-979a-4f86-b999-fcb9e96ee063"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Text Style/14_Grape
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: grape
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "718bf487-66fa-4cb0-ac88-50980aaae427"

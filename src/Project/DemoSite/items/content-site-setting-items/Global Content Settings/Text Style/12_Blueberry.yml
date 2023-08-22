@@ -1,0 +1,20 @@
+﻿---
+ID: "24050e05-277c-4345-9e27-2b46bde9d2e4"
+Parent: "2a0f086a-979a-4f86-b999-fcb9e96ee063"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Text Style/12_Blueberry
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 50
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: blueberry
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "aabdec4b-ca1c-41b7-aab6-f1c6283445e0"

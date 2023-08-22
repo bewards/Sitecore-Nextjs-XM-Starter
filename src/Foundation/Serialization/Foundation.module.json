@@ -1,0 +1,30 @@
+{
+  "namespace": "Foundation.Base",
+  "items": {
+    "includes": [
+      {
+        "name": "templates-foundation",
+        "path": "/sitecore/templates/Foundation/DemoSite"
+      },
+      {
+        "name": "templates-feature-base",
+        "path": "/sitecore/templates/Feature",
+        "scope": "itemAndChildren",
+        "rules": [
+          {
+            "path": "/DemoSite",
+            "scope": "singleItem"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      },
+      {
+        "name": "rendering-content-resolvers",
+        "path": "/sitecore/system/Modules/Layout Service/Rendering Contents Resolvers"
+      }
+    ]
+  }
+}

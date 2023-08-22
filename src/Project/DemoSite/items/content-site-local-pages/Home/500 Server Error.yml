@@ -1,0 +1,55 @@
+﻿---
+ID: "9f1201d3-541e-4713-ab3f-b505739f45ef"
+Parent: "a6904518-754a-4340-9349-9b773d05af1a"
+Template: "dd4aed44-5422-4b0a-8af3-f4cadfe63452"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/500 Server Error
+SharedFields:
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:p="p" xmlns:s="s"
+        p:p="1">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+          <r
+            uid="{90A486A7-F735-4985-9F31-B6ACD0CB3369}">
+            <p:d />
+          </r>
+          <r
+            uid="{2EC97E34-9F33-4766-9C57-6E758EF90985}">
+            <p:d />
+          </r>
+          <r
+            uid="{BC05F6A7-A667-402A-AC53-183B16395A89}"
+            p:before="*"
+            s:id="{128E5B68-FAB7-4C1B-9FAB-E3FA0E7CE571}"
+            s:ph="hp-header" />
+          <r
+            uid="{2D7D296C-F153-4889-8D3C-E67C38B62813}"
+            p:after="r[@uid='{BC05F6A7-A667-402A-AC53-183B16395A89}']"
+            s:id="{1326CBBE-F01D-406C-8543-7AE2462F9875}"
+            s:ph="hp_footer" />
+          <r
+            uid="{10A32847-03C3-421A-BAC8-F6C2D12770BA}"
+            p:after="*[1=2]"
+            s:ds="local:/Page Data/500 Error Content"
+            s:id="{919D1D17-405B-499C-8473-2EAD67EFBA47}"
+            s:par="RenderingIdentifier"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+        </d>
+      </r>
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "3714a0a6-c655-4136-97ff-b03268f5ebd2"
+            Hint: openGraphTitle
+            Value: 500 Server Error
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "206e9397-c9b6-4247-8c86-8526ef76c7cd"
+          - ID: "ac1da9d9-c87f-40fb-8acc-aeaf126df8e5"
+            Hint: pageMetaTitle
+            Value: 500 Server Error

@@ -1,0 +1,27 @@
+﻿---
+ID: "78a10b2e-76ed-5f87-acde-e3cccba6ccc6"
+Parent: "1b439dd3-0318-5698-ab08-8069c56d545f"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/DemoSite/jss-styleguide-layout"
+SharedFields:
+  - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+    Hint: Placeholder Key
+    Value: "jss-styleguide-layout"
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 600
+  - ID: "e391b526-d0c5-439d-803e-17512eae6222"
+    Hint: Allowed Controls
+    Value: "{ED1B0D69-3138-502A-B74C-B6F8510E42FB}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "0d888486-91fb-47be-875e-654b4960b059"

@@ -1,0 +1,37 @@
+﻿---
+ID: "9efd208a-871b-48a4-9376-d313080d12de"
+Parent: "ff738c63-a13b-4028-a751-1e9a92b4bc72"
+Template: "ff738c63-a13b-4028-a751-1e9a92b4bc72"
+Path: /sitecore/templates/Feature/DemoSite/Listings/Photo Card Listing/PhotoCardListing/__Standard Values
+SharedFields:
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: "{9BD57A90-5944-4BB4-812D-471FA9A8D62A}"
+  - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+    Hint: __Default workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "108cbc4e-e304-4d85-895d-24941b501ada"
+            Hint: headingLevel
+            Value: "{9F06C920-7BCB-4F11-9ECE-26F2DBE9EA09}"
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230710T192510Z
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "01284342-f407-4257-87d2-87f9c2518cfa"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230711T140734Z

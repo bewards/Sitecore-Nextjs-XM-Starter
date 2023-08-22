@@ -1,0 +1,79 @@
+﻿---
+ID: "23f75242-0ee7-4ed0-b9d2-5ab058f5e3bb"
+Parent: "615c8c66-b58a-452b-bfd5-458b950d3172"
+Template: "a768a98b-0212-4dcb-bc41-33d3fe781e85"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Callout Block
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:p="p" xmlns:s="s"
+        p:p="1">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+          <r
+            uid="{80F3F4CA-2D2A-449B-A862-2398E6E0C5D2}"
+            p:after="r[@uid='{866A44B8-8238-4E9B-96C3-5EDBE44F729A}']"
+            s:ds="{69EFDFB0-A837-416F-A2CC-59307B5EDCBB}"
+            s:id="{919D1D17-405B-499C-8473-2EAD67EFBA47}"
+            s:par="RenderingIdentifier"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{2FE22249-DD31-4EAF-A6F0-01F8D007A259}"
+            p:after="r[@uid='{80F3F4CA-2D2A-449B-A862-2398E6E0C5D2}']"
+            s:ds="{94DACF72-5ADF-43FF-8239-0A1DBF2F4D20}"
+            s:id="{20EA8C86-93E8-4944-B1C4-12E2F12706B9}"
+            s:par=""
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{EA4BE945-A8E0-4BF1-8FAB-492D9E004EE2}"
+            p:after="r[@uid='{2FE22249-DD31-4EAF-A6F0-01F8D007A259}']"
+            s:ds="{ADFFE533-2A73-46A8-A240-802638EEFF52}"
+            s:id="{20EA8C86-93E8-4944-B1C4-12E2F12706B9}"
+            s:par=""
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{D7BA5E54-80BB-455B-853B-3C831B55685E}"
+            p:after="r[@uid='{EA4BE945-A8E0-4BF1-8FAB-492D9E004EE2}']"
+            s:ds="{32C2E0F5-D68B-4307-937E-D1E5966601EA}"
+            s:id="{20EA8C86-93E8-4944-B1C4-12E2F12706B9}"
+            s:par=""
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{A0CE472E-08E6-4036-A314-2BB99877841B}"
+            p:after="*[1=2]"
+            s:ds="{BF3FE9A4-6161-4962-9C08-28933CF6E0EC}"
+            s:id="{20EA8C86-93E8-4944-B1C4-12E2F12706B9}"
+            s:par=""
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+        </d>
+      </r>
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{3DB41756-BCBF-44A3-AD7A-3DD7098C4E5B}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "3714a0a6-c655-4136-97ff-b03268f5ebd2"
+            Hint: openGraphTitle
+            Value: Callout Block
+          - ID: "458cdbb7-949a-48f4-b830-5da8722e1734"
+            Hint: body
+            Value: An example of a callout block both with and without an image
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "f4174ab1-a7fb-448b-b439-355a7c33df61"
+          - ID: "9e36878a-df50-431a-9847-a5ef7781053e"
+            Hint: title
+            Value: Callout Block
+          - ID: "ac1da9d9-c87f-40fb-8acc-aeaf126df8e5"
+            Hint: pageMetaTitle
+            Value: Callout Block

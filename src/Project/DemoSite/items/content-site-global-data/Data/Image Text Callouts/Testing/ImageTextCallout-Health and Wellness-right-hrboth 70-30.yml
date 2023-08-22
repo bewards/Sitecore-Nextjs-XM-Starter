@@ -1,0 +1,41 @@
+﻿---
+ID: "1261b775-512f-4cf6-982e-c3912a977a5d"
+Parent: "fda9781e-57bd-4bea-91b4-214fff28d8e9"
+Template: "b01424a2-3de2-4d52-9176-1e009cbd85c1"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Data/Image Text Callouts/Testing/ImageTextCallout-Health and Wellness-right-hrboth 70-30"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04920b3d-4051-4371-afb1-44448df8e169"
+            Hint: title
+            Value: Health and Wellness
+          - ID: "0844385d-5e16-4058-b607-208c320a9aa6"
+            Hint: desktopImage
+            Value: |
+              <image mediaid="{D7FDF65E-C225-477C-80FD-327B777D78F9}" />
+          - ID: "0fda4bef-63b3-4987-885c-a5169624b2f5"
+            Hint: imageDirection
+            Value: "{88881208-0E27-4C22-A227-CAB138164906}"
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <span style="color: #383e41;">Learn how using health and wellness programs can help you quit smoking, lose weight, eat healthy, reduce stress, and more.&nbsp;</span>
+          - ID: "39ef4184-3344-4437-88ef-e3ec264d6aaf"
+            Hint: titleHeadingLevel
+            Value: "{9F06C920-7BCB-4F11-9ECE-26F2DBE9EA09}"
+          - ID: "4001c909-97c0-499b-9615-91e476c2cece"
+            Hint: link
+            Value: |
+              <link text="Learn About Health and Wellness " linktype="external" url="https://google.com" anchor="" title="Learn About Health and Wellness " target="" />
+          - ID: "46db1348-73f2-4128-916e-58483dd449be"
+            Hint: linkMode
+            Value: "{704D50C0-F26C-4CB3-A472-01324DF268AD}"
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "ada444a2-8508-4177-bba3-c2081efec02e"

@@ -1,0 +1,16 @@
+{
+  "namespace": "Feature.Accordions",
+  "references": ["Foundation.*"],
+  "items": {
+    "includes": [
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/Feature/DemoSite/Accordions"
+      },
+      {
+        "name": "renderings",
+        "path": "/sitecore/layout/Renderings/Feature/Accordions"
+      }
+    ]
+  }
+}

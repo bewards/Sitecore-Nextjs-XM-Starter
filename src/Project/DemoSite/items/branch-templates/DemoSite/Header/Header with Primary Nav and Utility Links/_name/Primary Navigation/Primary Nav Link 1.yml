@@ -1,0 +1,28 @@
+﻿---
+ID: "63a276f8-be7f-4ec1-8ffb-61d70b3ab6e5"
+Parent: "40eff848-b8ec-4904-a2e5-67f2f7a77efb"
+Template: "e29a8175-d3d3-4b00-949a-3b1e8ea15e45"
+Path: /sitecore/templates/Branches/Project/DemoSite/Header/Header with Primary Nav and Utility Links/$name/Primary Navigation/Primary Nav Link 1
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 0
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "a62a9988-0b8e-4101-9c94-1ef48f485086"
+          - ID: "b5f94aca-b64a-4aee-94af-8f9c8645d15e"
+            Hint: title
+            Value: Primary Nav Link 1
+          - ID: "e552a988-a7cd-49aa-876c-da52e471fca6"
+            Hint: link
+            Value: |
+              <link text="Test current aria flag" anchor="" linktype="internal" class="" title="Alt text" target="|Custom" querystring="" id="{A6904518-754A-4340-9349-9B773D05AF1A}" />

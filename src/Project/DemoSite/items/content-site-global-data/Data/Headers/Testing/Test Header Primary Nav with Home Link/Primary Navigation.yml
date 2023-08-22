@@ -1,0 +1,24 @@
+﻿---
+ID: "014c30cb-c00b-4ad3-831b-ea744ec4ceb4"
+Parent: "039e3a0f-fa10-40a7-a2a9-989491adbfdb"
+Template: "3778ed4a-0a91-4291-b511-7ac6d8cabef4"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header Primary Nav with Home Link/Primary Navigation
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 50
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "3f95c3df-b161-43fc-bc46-1cfd24ae6a81"
+            Hint: link
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="Alt text" target="" querystring="" id="{1ECF1583-0605-4C0D-B05B-F5B74E37D2C2}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "57be36a4-b84a-4bf0-8f6e-c1dd023e5730"
+          - ID: "b11ff6e8-22ec-47a2-82f4-fac4ffae4b61"
+            Hint: linkText
+            Value: Home

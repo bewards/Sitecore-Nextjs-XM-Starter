@@ -1,0 +1,17 @@
+﻿---
+ID: "70d1f0a8-275f-435f-a98d-2918b726ec46"
+Parent: "282d0ef7-b2c5-4b09-845a-8e45cbe694c4"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/500errDemo/Data
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "fa47331d-9d62-4476-9651-5effcb9a71ee"

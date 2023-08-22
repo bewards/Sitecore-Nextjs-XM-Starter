@@ -1,0 +1,27 @@
+﻿---
+ID: "738f522c-b49e-41ea-bfe6-9ae954cae37d"
+Parent: "70f4ff80-340f-432d-83dd-4deb67469a57"
+Template: "ce12cd98-2aa2-443d-8b09-cb49aa485962"
+Path: /sitecore/content/DemoSite/Global Content Settings/Overlay Modes
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230804T015756Z
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "e5e128a4-fa1a-48f4-b29a-997a6882ea86"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230804T020239Z

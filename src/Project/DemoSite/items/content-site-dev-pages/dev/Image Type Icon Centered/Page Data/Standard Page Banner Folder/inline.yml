@@ -1,0 +1,65 @@
+﻿---
+ID: "64b164e2-052a-434f-9ffc-412f264a1cc4"
+Parent: "4db1d1af-6be3-4b79-b929-19772f109680"
+Template: "f5bc8b22-44dd-4e69-a9d2-214d67e0eef8"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Image Type Icon Centered/Page Data/Standard Page Banner Folder/inline
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0844385d-5e16-4058-b607-208c320a9aa6"
+            Hint: desktopImage
+            Value:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230725T181144Z
+          - ID: "31e355ea-f1a7-4a0f-9483-e3b8bd007b4b"
+            Hint: backgroundColor
+            Value: "{0A12EFFE-B429-4D37-90BC-2E12C577902C}"
+          - ID: "4e936db5-802d-4b36-b5ed-55cda84b109f"
+            Hint: tabletImage
+            Value:
+          - ID: "4feb9659-28ae-48b0-bfa1-6b249295054e"
+            Hint: bannerLinkText
+            Value: Learn More
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "5edc704b-2a43-443f-9bc1-2ed1807b17e1"
+            Hint: bannerSubtitle
+            Value: Banner Subtitle H2 Coconut (Default)
+          - ID: "670e9582-9a2f-46c2-ad7f-ba066e8e1837"
+            Hint: bannerBody
+            Value: <p>The <strong><em>inline type</em></strong> gives me the ability to represent an image from the image fields that is inline styled. The image will never scale up to be larger than its original size.</p>
+          - ID: "77dee9aa-8497-44fa-baa8-8caa3f9920de"
+            Hint: bannerLinkDestination
+            Value: |
+              <link text="Learn More" linktype="external" url="https://www.google.com" anchor="" target="_blank" />
+          - ID: "7d649af9-1d53-4e20-a1fe-ab2c10afb4d2"
+            Hint: bannerTitle
+            Value: INLINE
+          - ID: "810f98b5-d45f-43b7-b1c4-eb46dd58dc8a"
+            Hint: mobileImage
+            Value: |
+              <image mediaid="{5F82F813-7255-4B07-A4E6-C9B6CF803389}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "151ee796-fa1e-47ef-ba01-698cce70af47"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "c162a9be-4303-4b35-8d4f-bf1f6af9a821"
+            Hint: imageType
+            Value: "{52E191AD-A1EE-417B-B487-B8E96F22EE73}"
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230808T175558Z
+          - ID: "e62eaf1b-0a98-4070-bb65-f74bfc0e58fb"
+            Hint: bannerLinkMode
+            Value: "{9374D14E-A968-4B18-94E4-52E6BCFAF109}"
+          - ID: "fc6c56b8-c20a-40d8-88f4-0ce2091d9e0e"
+            Hint: bannerLinkIcon
+            Value: "{2893DCCF-930F-485B-9FFE-0052F0F16F48}"

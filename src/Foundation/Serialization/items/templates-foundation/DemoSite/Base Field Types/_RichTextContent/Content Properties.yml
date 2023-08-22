@@ -1,0 +1,17 @@
+﻿---
+ID: "1da8749b-8aae-4bab-81ee-b8a33d23e4c1"
+Parent: "fa641387-ab09-4e29-94b1-68052a312e6c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/DemoSite/Base Field Types/_RichTextContent/Content Properties
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2a4f40eb-96e2-4361-9324-9f0c80ff8fff"

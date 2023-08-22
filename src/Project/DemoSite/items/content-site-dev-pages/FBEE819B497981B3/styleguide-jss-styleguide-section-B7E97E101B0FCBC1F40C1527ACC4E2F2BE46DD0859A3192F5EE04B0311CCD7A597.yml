@@ -1,0 +1,29 @@
+﻿---
+ID: "ecd1edef-71bf-5e36-8e52-bbedf58ff062"
+Parent: "ed20e49c-fd6a-515b-8a8f-cb9b4ea7efeb"
+Template: "6e5fe7c3-28eb-59fe-b1d0-9052fcb9a46e"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/styleguide/Page Data/styleguide-jss-styleguide-section-B7E97E101B0FCBC1F40C1527ACC4E2F2BE46DD0859A3192F5EE04B0311CCD7A597"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: "Styleguide-FieldUsage-RichText-3"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "01d7bcc6-295d-5bee-9a5c-666863341683"
+            Hint: sample2
+            Value: |
+              <p>Another sample rich text field, using options. Keep markup entered in rich text fields as simple as possible - ideally bare tags only (no classes). Adding a wrapping class can help with styling within rich text blocks.</p>
+              <marquee>But you can use any valid HTML in a rich text field!</marquee>
+
+          - ID: "04d46078-11b7-5878-96bb-7d762753b405"
+            Hint: heading
+            Value: Rich Text
+          - ID: "3fdb30d5-28bb-5884-910d-a3266e2e3dd8"
+            Hint: sample
+            Value: <p>This is a sample rich text field. <mark>HTML is always supported.</mark> In Sitecore, editors will see a WYSIWYG editor for these fields.</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "4bd9b560-ae46-4ed4-b0f8-521217ce692e"

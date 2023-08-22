@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "..\\..\\docker\\deploy\\platform\\",
+    "apiKey": "6FD03845-4AB4-47CE-9349-2B6FE898D68A",
+    "deploySecret": "B028B14D886146D19D2A31BF02D99DBF",
+    "deployUrl": "https://cm.demosite.localhost/sitecore/api/jss/import",
+    "layoutServiceHost": "https://cm.demosite.localhost"
+  }
+}

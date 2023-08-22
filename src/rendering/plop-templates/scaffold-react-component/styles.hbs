@@ -1,0 +1,10 @@
+@import '@sass/abstracts/imports';
+
+.{{kebabCase name}} {
+  position: relative;
+
+  // media breakpoints should be nested inline for readability
+  @include media-breakpoint-up(md) {
+    position: static;
+  }
+}

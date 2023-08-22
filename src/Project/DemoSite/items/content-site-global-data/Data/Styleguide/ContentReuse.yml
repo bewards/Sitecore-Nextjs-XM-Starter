@@ -1,0 +1,21 @@
+﻿---
+ID: "8029e843-1105-55de-a9c5-36d72c9d66d1"
+Parent: "3e6ff2f2-305e-5bbc-b5c4-b37b2f21509d"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Styleguide/ContentReuse
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: ContentReuse
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "e59d42de-0f93-4673-8d44-340fcb3324f5"

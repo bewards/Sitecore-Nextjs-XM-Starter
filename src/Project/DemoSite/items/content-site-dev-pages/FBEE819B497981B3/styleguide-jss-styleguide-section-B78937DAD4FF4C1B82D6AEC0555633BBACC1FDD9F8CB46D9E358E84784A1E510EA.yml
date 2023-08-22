@@ -1,0 +1,28 @@
+﻿---
+ID: "b0a7ca37-bb9a-5c7d-ab2b-00b963972d51"
+Parent: "ed20e49c-fd6a-515b-8a8f-cb9b4ea7efeb"
+Template: "d96aa7c7-fb7c-5402-92d7-90e54b1ebcf4"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/styleguide/Page Data/styleguide-jss-styleguide-section-B78937DAD4FF4C1B82D6AEC0555633BBACC1FDD9F8CB46D9E358E84784A1E510EA"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: "Styleguide-FieldUsage-Image-4"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04d46078-11b7-5878-96bb-7d762753b405"
+            Hint: heading
+            Value: Image
+          - ID: "0eddc3f2-8310-57be-98ce-8647add4ea49"
+            Hint: sample2
+            Value: |
+              <image mediaid="{0A6FB7A8-AAF4-4438-91AC-AD9D8642FE37}" />
+          - ID: "581a5b78-8480-59c2-a70b-f5624626d645"
+            Hint: sample1
+            Value: |
+              <image mediaid="{0A6FB7A8-AAF4-4438-91AC-AD9D8642FE37}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "03533955-05c5-422e-b9a0-68e99f2507f6"

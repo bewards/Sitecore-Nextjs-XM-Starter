@@ -1,0 +1,37 @@
+﻿---
+ID: "5d1dda5a-9e23-43c8-a96f-274b36b664f6"
+Parent: "4a51c225-f49f-4589-9a75-1f791d12699c"
+Template: "06318375-1390-4d2b-beeb-81f37cb5c114"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Embed Code/Test/TermsAndConditions
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: Terms and Conditions
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "570fcd04-b717-4342-9636-5af65158e232"
+            Hint: embedCode
+            Value: |
+              <div>
+              	<h1 class="generic-header-grey">Terms &amp; Conditions</h1>
+              </div>
+              <div class="privacy-div">
+              	<script id="CookieDeclaration" src="https://consent.cookiebot.com/82edd53a-5996-4467-a288-5f298f3caaa2/cd.js" type="text/javascript"></script>
+              	<script>
+              		setTimeout(function () {
+              			if (window.location.href.includes("#")) {
+              				window.location.href = window.location.href;
+              			}
+              		}, 500);
+              	</script>
+              </div>
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "cce9e3aa-64de-4ada-90cd-beddd599813d"

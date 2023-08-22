@@ -1,0 +1,21 @@
+﻿---
+ID: "9a6925ba-2b71-43cf-9354-b0957f1af9d2"
+Parent: "6c31af48-335e-48ab-9065-0b3f3e4c2da7"
+Template: "4dd932c2-fe9b-494d-8853-b00afaf084e6"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Footers/Footer/Footer Section Two/Column Three/Visit UPMC
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "6c7cc1cf-4c58-4ada-80fa-221186f2667c"
+            Hint: link
+            Value: |
+              <link text="Visit UPMC.com" linktype="external" url="https://www.google.com/" anchor="" target="|Custom" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "4e0fa79d-c42b-408f-9240-efc59ff5084d"

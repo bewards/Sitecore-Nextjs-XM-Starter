@@ -1,0 +1,17 @@
+﻿---
+ID: "22f03e35-a371-4e32-b5ff-8cee092fe922"
+Parent: "54cf8cf3-c37a-4801-8281-3d72903675bc"
+Template: "3778ed4a-0a91-4291-b511-7ac6d8cabef4"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header Two Logos with Primary Nav and Utility Links/Primary Navigation
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 50
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3f1ff5c2-97c7-4d8f-a887-ced23ac65cd5"

@@ -1,0 +1,32 @@
+﻿---
+ID: "2cb4ea25-e539-45c8-ba07-e627af9baef4"
+Parent: "d256e7af-e132-4aee-8471-8d3169f08ee4"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Header with Subnavigation/For Members/Page Data/Header Documentation
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1>Sub-page</h1>
+              <p>This is a sub-page to demonstrate how primary menu items with sub-navigations will be highlighted when visitors land on page.</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "ec86a14f-d352-4913-8e2a-f24f1b214d2a"
+  - Language: "es-ES"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: "Spanish!"
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "6c197209-1d6c-4fe7-99d0-2fda0b114d60"

@@ -1,0 +1,32 @@
+﻿---
+ID: "6f71146d-11dc-4895-a73b-712489861349"
+Parent: "e63193fc-0f53-4de4-bc67-488a1a659c6f"
+Template: "ca25e0b6-c5a8-47c0-b70c-510a361c1db1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Breadcrumb Sample/Breadcrumb/Breadcrumb 2/Page Data/Rich Texts
+BranchID: "3ac7734b-4846-499c-906c-ee4835f04721"
+SharedFields:
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{8AA39D8E-D965-454D-8658-F9F17CBC8512}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230720T185237Z
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "9123849c-4b4c-4936-bdc6-7ae9d260dba3"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230720T185237Z

@@ -1,0 +1,20 @@
+﻿---
+ID: "b0da152b-18a7-4892-8a49-8efcb5a47dc3"
+Parent: "ef6d7523-5022-4915-9791-239ff25ececf"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Demo Descriptions/500 Description
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <p>&nbsp;</p>
+              <h2>500 Error</h2>
+              <p>Create a basic HTML page that will display during a 500 error so visitors, including those using a screenreader, are alerted when the site or page can't be loaded or is down at the moment.</p>
+
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "e38cad0f-8f83-4e9c-97c8-3f2e64329e50"

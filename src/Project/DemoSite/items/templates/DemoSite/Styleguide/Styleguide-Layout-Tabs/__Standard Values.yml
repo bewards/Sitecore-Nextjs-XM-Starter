@@ -1,0 +1,17 @@
+﻿---
+ID: "fd48afdb-567f-5558-a9a1-8572baa5f9a2"
+Parent: "9922a65c-8e96-5b27-81a7-a007da518074"
+Template: "9922a65c-8e96-5b27-81a7-a007da518074"
+Path: "/sitecore/templates/Project/DemoSite/Styleguide/Styleguide-Layout-Tabs/__Standard Values"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "8767df19-0765-4c5f-841c-a40690e072cc"

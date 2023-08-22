@@ -1,0 +1,27 @@
+﻿---
+ID: "86466d2d-89a0-4459-8696-75a062f57643"
+Parent: "156de091-d3c3-4e01-b9b1-244cb0e8c21e"
+Template: "f5bc8b22-44dd-4e69-a9d2-214d67e0eef8"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Standard Page Banner Improvements/Page Data/Standard Page Banner Folder/StandardPageBanner_1
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "670e9582-9a2f-46c2-ad7f-ba066e8e1837"
+            Hint: bannerBody
+            Value: |
+              test&nbsp;<a href="~/link.aspx?_id=DE3BB58AA5E841FDA0FF4BB1C4D8E7D3&amp;_z=z">Accordion</a>
+          - ID: "7d649af9-1d53-4e20-a1fe-ab2c10afb4d2"
+            Hint: bannerTitle
+            Value: Join us
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "da197d3e-1e53-41e4-9d57-be3fcd8e9c76"

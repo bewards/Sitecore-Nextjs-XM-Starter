@@ -1,0 +1,24 @@
+﻿---
+ID: "3bcb4c3a-1cce-4334-a322-e6f55d357d9a"
+Parent: "a29f88eb-5b8f-415f-8cbd-139e76a34d08"
+Template: "e29a8175-d3d3-4b00-949a-3b1e8ea15e45"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with Primary Nav/Primary Navigation/For Members"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "12a99fc7-114e-493e-a074-0fe7d5914d80"
+          - ID: "b5f94aca-b64a-4aee-94af-8f9c8645d15e"
+            Hint: title
+            Value: For Members
+          - ID: "e552a988-a7cd-49aa-876c-da52e471fca6"
+            Hint: link
+            Value: |
+              <link text="Test link for For Members section" linktype="external" url="https://www.bing.com/" anchor="" title="Alt text" target="" />

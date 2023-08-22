@@ -1,0 +1,33 @@
+﻿---
+ID: "2f806b99-6304-4aeb-b31b-f1f261f8a2d0"
+Parent: "65b76f34-af44-4d29-9da5-9d33e68727a1"
+Template: "f5bc8b22-44dd-4e69-a9d2-214d67e0eef8"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/404 Not Found/Page Data/Standard Page Banner/404 Banner
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0844385d-5e16-4058-b607-208c320a9aa6"
+            Hint: desktopImage
+            Value: |
+              <image mediaid="{D790BA44-DED2-4C19-9309-0959A6BEE23D}" alt="icon 404 error" height="" width="" hspace="" vspace=""></image>
+          - ID: "5edc704b-2a43-443f-9bc1-2ed1807b17e1"
+            Hint: bannerSubtitle
+            Value: The page you requested cannot be found.
+          - ID: "670e9582-9a2f-46c2-ad7f-ba066e8e1837"
+            Hint: bannerBody
+            Value: |
+              The URL may be misspelled or the page you're looking for is no longer available.<br />
+              <br />
+              <a href="~/link.aspx?_id=A6904518754A434093499B773D05AF1A&amp;_z=z" class="btn-primary">Visit the Demo Site Homepage</a>
+          - ID: "7d649af9-1d53-4e20-a1fe-ab2c10afb4d2"
+            Hint: bannerTitle
+            Value: We're Sorry
+          - ID: "810f98b5-d45f-43b7-b1c4-eb46dd58dc8a"
+            Hint: mobileImage
+            Value: |
+              <image mediaid="{F1BF0CFC-D2A5-44D3-B7B4-44B3E0DF7211}" alt="icon 404error mobile" height="" width="" hspace="" vspace="" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "a7d81225-c8ca-4dbe-bfee-57cc1ebdb3e6"

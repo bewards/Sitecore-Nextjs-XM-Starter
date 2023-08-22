@@ -1,0 +1,13 @@
+﻿---
+ID: "4ed41700-f354-49f1-96c0-f4426982fa0a"
+Parent: "181302b4-ceef-4f97-822c-efc83aaf712c"
+Template: "8045f907-8294-4e77-bbcd-f4b37ae3d7ee"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Wistia Videos
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "16aa929c-179a-4452-8f4d-b147d7f40627"

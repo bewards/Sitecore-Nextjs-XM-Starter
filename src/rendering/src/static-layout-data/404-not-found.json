@@ -1,0 +1,224 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": { "name": "demosite" },
+      "pageState": "normal",
+      "language": "en",
+      "itemPath": "/404-not-found"
+    },
+    "route": {
+      "name": "404 Not Found",
+      "displayName": "404 Not Found",
+      "fields": {
+        "body": { "value": "" },
+        "bodyScripts": { "value": "" },
+        "title": { "value": "" },
+        "pageMetaKeywords": { "value": "" },
+        "appendSiteSuffix": { "value": true },
+        "pageMetaDescription": {
+          "value": "DemoSite offers the best products."
+        },
+        "pageMetaTitle": { "value": "Demo Site" },
+        "openGraphDescription": { "value": "" },
+        "openGraphImage": { "value": {} },
+        "openGraphLocale": { "value": "en_US" },
+        "openGraphTitle": { "value": "Demo Site" },
+        "canonicalUrl": { "value": "" },
+        "openGraphSiteName": { "value": "Demo Site" },
+        "openGraphType": { "value": "website" },
+        "openGraphURL": { "value": "" },
+        "robotsDirectiveValue": [],
+        "isBreadcrumbRoot": { "value": false },
+        "breadcrumbTitle": { "value": "" }
+      },
+      "databaseName": "master",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "e1c4b027-ee90-4445-aaed-be3b7549e260",
+      "itemLanguage": "en",
+      "itemVersion": 1,
+      "layoutId": "c7407deb-8f43-4ea5-bc03-d6248f90829c",
+      "templateId": "dd4aed44-5422-4b0a-8af3-f4cadfe63452",
+      "templateName": "Error Page",
+      "placeholders": {
+        "jss-header": [
+          {
+            "uid": "67441396-027a-4078-9d8d-44c64833b6b5",
+            "componentName": "Header",
+            "dataSource": "",
+            "fields": {
+              "enableTranslation": { "value": false },
+              "homeLinkText": { "value": "" },
+              "secondLogo": { "value": {} },
+              "firstLogoLink": {
+                "value": {
+                  "href": "https://www.demosite.com/",
+                  "text": "",
+                  "linktype": "external",
+                  "url": "https://www.demosite.com/",
+                  "anchor": "",
+                  "title": "",
+                  "target": ""
+                }
+              },
+              "homeLink": { "value": { "href": "" } },
+              "secondLogoLink": { "value": { "href": "" } },
+              "utilityNavCustomerTypes": [],
+              "firstLogo": {
+                "value": {
+                  "src": "/sc_logo.svg",
+                  "hspace": "0",
+                  "vspace": "0",
+                  "alt": "Alt text",
+                  "width": "248",
+                  "height": "21"
+                }
+              },
+              "currentPage": "/404-not-found",
+              "lang": "en",
+              "translation": { "href": "/404-not-found", "locale": "es-ES" },
+              "primaryNav": {
+                "link": { "value": { "href": "" } },
+                "linkText": { "value": "" },
+                "navSections": [
+                  {
+                    "link": {
+                      "value": {
+                        "text": "",
+                        "anchor": "",
+                        "linktype": "internal",
+                        "class": "",
+                        "title": "",
+                        "target": "",
+                        "querystring": "",
+                        "id": "{C9CE3D4A-22CE-478A-9C19-1A056BC9C586}",
+                        "href": "/individuals/"
+                      }
+                    },
+                    "title": { "value": "For Individuals & Families" },
+                    "isDescendant": false
+                  },
+                  {
+                    "link": {
+                      "value": {
+                        "href": "/employers/",
+                        "text": "For Employers & Producers",
+                        "linktype": "internal",
+                        "url": "/employers/",
+                        "anchor": "",
+                        "title": "",
+                        "target": ""
+                      }
+                    },
+                    "title": { "value": "For Employers & Producers" },
+                    "isDescendant": false
+                  },
+                  {
+                    "link": {
+                      "value": {
+                        "href": "/members/",
+                        "text": "For Members",
+                        "linktype": "internal",
+                        "url": "/members/",
+                        "anchor": "",
+                        "title": "",
+                        "target": ""
+                      }
+                    },
+                    "title": { "value": "For Members" },
+                    "isDescendant": false
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "jss-main": [
+          {
+            "uid": "cc810e56-b7d8-4e33-94f1-422d25db8b80",
+            "componentName": "StandardPageBanner",
+            "dataSource": "{2F806B99-6304-4AEB-B31B-F1F261F8A2D0}",
+            "params": {
+              "imageDirection": "{\"Value\":{\"value\":\"left\"}}",
+              "presentationMode": "{\"Value\":{\"value\":\"30-70\"}}",
+              "contentBackgroundColor": "{\"Value\":{\"value\":\"bg-purple-10 text-gray-70\"}}"
+            },
+            "fields": {
+              "bannerLinkDestination": { "value": { "href": "" } },
+              "bannerTitle": { "value": "We're Sorry" },
+              "bannerLinkText": { "value": "" },
+              "bannerSubtitleTextStyle": {
+                "id": "61984bbc-1ec5-4c6b-b3f7-5e6fd4c45095",
+                "url": "",
+                "name": "26_Coconut",
+                "displayName": "26_Coconut",
+                "fields": { "Value": { "value": "coconut" } }
+              },
+              "bannerTitleHeadingLevel": {
+                "id": "78b20101-98d3-4c0a-a17d-ef383c11a009",
+                "url": "",
+                "name": "H1",
+                "displayName": "H1",
+                "fields": { "Value": { "value": "h1" } }
+              },
+              "bannerBody": {
+                "value": "The URL may be misspelled or the page you're looking for is no longer available.<br />\r\n<br />\r\n<a href=\"/\" class=\"btn-primary h-auto\">Visit the Demo Site Homepage</a>"
+              },
+              "bannerLinkIcon": {
+                "id": "0c3db8ff-0f8a-42ca-9e5f-537e3c074f59",
+                "url": "",
+                "name": "None",
+                "displayName": "None",
+                "fields": { "Value": { "value": "none" } }
+              },
+              "bannerLinkMode": {
+                "id": "704d50c0-f26c-4cb3-a472-01324df268ad",
+                "url": "",
+                "name": "Standalone Link",
+                "displayName": "Standalone Link",
+                "fields": { "Value": { "value": "standalone" } }
+              },
+              "bannerSubtitle": { "value": "The page you requested cannot be found." },
+              "bannerSubtitleHeadingLevel": {
+                "id": "9f06c920-7bcb-4f11-9ece-26f2dbe9ea09",
+                "url": "",
+                "name": "H2",
+                "displayName": "H2",
+                "fields": { "Value": { "value": "h2" } }
+              },
+              "bannerTitleTextStyle": {
+                "id": "61984bbc-1ec5-4c6b-b3f7-5e6fd4c45095",
+                "url": "",
+                "name": "26_Coconut",
+                "displayName": "26_Coconut",
+                "fields": { "Value": { "value": "coconut" } }
+              },
+              "desktopImage": {
+                "value": {
+                  "src": "/static-assets/404/404_error.png",
+                  "alt": "icon 404 error",
+                  "width": "1000",
+                  "height": "1000"
+                }
+              },
+              "mobileImage": {
+                "value": {
+                  "src": "/static-assets/404/404_error_mobile.png",
+                  "alt": "icon 404error mobile",
+                  "width": "864",
+                  "height": "328"
+                }
+              },
+              "tabletImage": { "value": {} },
+              "backgroundColor": null,
+              "imageType": null
+            }
+          }
+        ],
+        "jss-footer": [],
+        "sxa-composites": [],
+        "jss-top-main": []
+      }
+    }
+  }
+}

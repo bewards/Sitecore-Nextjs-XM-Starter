@@ -1,0 +1,18 @@
+﻿---
+ID: "900e6354-e16d-41ae-819b-678aa671ca18"
+Parent: "a0653471-f534-4e8f-9150-094032b5e136"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Testing/Standard Page Banner - Intro"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2><br />Standard Page Banner</h2>
+              <p>The Page Banner is presented as the first component below the Header with a configurable Image/Text presentation format. On desktop, the component will have a minimum height set for the Image. If there is enough content to go beyond the minimum height, the content will then dictate the height of the component, leaving padding between the top and bottom, increasing the size of the Image. The image will be set in cover mode so that there is no non-image background space and it fills the entire height.</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "6b83d4bd-8cc6-43fe-9d9a-c57f0d0c420c"

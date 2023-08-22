@@ -1,0 +1,13 @@
+﻿---
+ID: "30ef9226-ca3a-4a9f-a901-407d8059ab27"
+Parent: "181302b4-ceef-4f97-822c-efc83aaf712c"
+Template: "ab8bb748-9879-4e56-8dd2-6abd5538d2fc"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Dynamic Buttons
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "4b4c5a17-de15-412f-8cdc-30170b204fb7"

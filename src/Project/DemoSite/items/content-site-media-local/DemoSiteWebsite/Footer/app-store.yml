@@ -1,0 +1,46 @@
+﻿---
+ID: "a727b1d1-85a1-4696-b19f-06c1d60f0701"
+Parent: "cf191ac0-55cd-4fca-a7f7-4cc3a3b5be42"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/DemoSite/DemoSiteWebsite/Footer/app-store"
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: "-/media/A727B1D185A14696B19F06C1D60F0701.ashx?h=16&thn=1&w=16"
+  - ID: "22eac599-f13b-4607-a89d-c091763a467d"
+    Hint: Width
+    Value: 120
+  - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+    Hint: Blob
+    BlobID: "6ebc6557-4913-4c40-909e-bedb063a7139"
+    Value: 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
+  - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+    Hint: Size
+    Value: 2101
+  - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+    Hint: Mime Type
+    Value: image/png
+  - ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+    Hint: Extension
+    Value: png
+  - ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+    Hint: Dimensions
+    Value: 120 x 40
+  - ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+    Hint: Height
+    Value: 40
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+            Hint: Alt
+            Value: download on the app store
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "b7550fb7-a80b-4c2b-af6c-f008999cb954"

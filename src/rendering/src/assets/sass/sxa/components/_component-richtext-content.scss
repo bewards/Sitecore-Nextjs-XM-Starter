@@ -1,0 +1,12 @@
+@import '@sass/sxa/abstracts/vars';
+@import '@sass/sxa/abstracts/mixins';
+
+.content,
+.rich-text {
+  border: $rich-content-border;
+  line-height: 1.5;
+  overflow: hidden;
+  * {
+    max-width: 100%;
+  }
+}

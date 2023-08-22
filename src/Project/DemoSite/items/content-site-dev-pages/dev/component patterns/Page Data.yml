@@ -1,0 +1,30 @@
+﻿---
+ID: "8be049ad-00e3-43a7-adb4-4c4d440bebe5"
+Parent: "4f177c6f-cb60-402e-8a83-0f38685281e1"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/component patterns/Page Data
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: Office/32x32/document_attachment.png
+  - ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+    Hint: __Hidden
+    Value: 1
+  - ID: "a791f095-2521-4b4d-bef9-21dda221f608"
+    Hint: __Style
+    Value: "font-style:italic; font-size:0.85em; color: gray;"
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 0
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "7b3a2607-81e6-411e-abe1-bc6c89ff954a"

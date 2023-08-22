@@ -1,0 +1,38 @@
+@import '@sass/abstracts/imports';
+
+.container-3070 {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: repeat(2, auto);
+  gap: $gutter-mobile;
+  justify-content: stretch;
+  justify-items: start;
+  align-content: start;
+  align-items: start;
+  margin: 0;
+
+  @include media-breakpoint-up(md) {
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: auto;
+    column-gap: $gutter-tablet;
+    row-gap: 0px;
+  }
+
+  &__col {
+    width: 100%;
+
+    &--30 {
+      hyphens: auto;
+
+      @include media-breakpoint-up(md) {
+        grid-column: span 3;
+      }
+    }
+
+    &--70 {
+      @include media-breakpoint-up(md) {
+        grid-column: span 7;
+      }
+    }
+  }
+}

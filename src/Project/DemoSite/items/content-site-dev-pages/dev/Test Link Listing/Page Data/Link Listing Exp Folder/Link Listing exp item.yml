@@ -1,0 +1,47 @@
+﻿---
+ID: "350230ad-7539-40ad-989e-e3fa53ff1284"
+Parent: "bb673f61-29a3-4ad6-829c-10f05074a531"
+Template: "535ca928-9ed4-48f6-8a09-45fad36a4754"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Test Link Listing/Page Data/Link Listing Exp Folder/Link Listing exp item
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+            Hint: __Lock
+            Value: <r />
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230801T143714Z
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{2C62529D-8629-4CD2-8368-AFC8C5D9D3C3}"
+          - ID: "4e9e232b-9a3a-4acc-857f-3f9ec34786c3"
+            Hint: linkTitle
+            Value: Link Listing Item Created From experience Editor
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "82060463-3426-4cb3-b199-52e52582a295"
+          - ID: "9eb81f5e-32f9-4562-bd6b-9a6e6de36cc9"
+            Hint: linkItems
+            Value: |
+              {DD4CEA67-CA54-4EDA-9EF6-2D0A37D7FF93}
+              {CC28AF5F-4D6D-4A34-90CB-15F147F7FDB6}
+              {1363C800-5D89-41F3-85EE-9A9A374B450F}
+              {EF9623D9-E19B-4C27-B181-7896A0C130D0}
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230801T144454Z

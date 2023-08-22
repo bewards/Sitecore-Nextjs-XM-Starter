@@ -1,0 +1,21 @@
+﻿---
+ID: "e43f2568-9b29-40be-8fc4-61904821f463"
+Parent: "d3938942-2ec4-4f65-8d93-d372ef6870f1"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/DemoSite/Callouts/CalloutBlock
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: Callout Block
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "b9d7253c-fa15-46c6-82ec-cfdbddfe53de"

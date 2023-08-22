@@ -1,0 +1,22 @@
+﻿---
+ID: "86b017a4-0ee6-4f06-ba8d-f91d4cbeae05"
+Parent: "e2767296-64ba-42af-a5ff-33c163839054"
+Template: "0e9d289b-b2c8-4413-87bc-3b7acbfcd23e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Alert Banners/MaintenanceAlert
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0873e998-ae64-497e-8a91-26176714a24a"
+            Hint: title
+            Value: Maintenance
+          - ID: "109eae0a-ee73-438f-b7ff-2b5f8180e295"
+            Hint: statusType
+            Value: "{89064588-3914-4BE4-8DD3-21F88D92FDB2}"
+          - ID: "3efab781-0e1d-434a-bb7c-dbbcd504c680"
+            Hint: body
+            Value: <p>We are currently experiencing issues with our site search. Thank you for your patience as we resolve these issues.</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2eec9cec-247a-418b-8417-a05da2456bc1"

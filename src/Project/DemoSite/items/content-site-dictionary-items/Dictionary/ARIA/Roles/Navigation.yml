@@ -1,0 +1,25 @@
+﻿---
+ID: "73526f2f-2947-4ec0-8e11-6eb83a0d7ee9"
+Parent: "71c55c5a-6b62-4e4d-bda8-6054f114c350"
+Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Dictionary/ARIA/Roles/Navigation
+SharedFields:
+  - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
+    Hint: Key
+    Value: "Aria-Role-Navigation"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
+        Hint: Phrase
+        Value: Navigation
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "0ed32d27-91fd-42e6-8a1b-763fd84dcb1b"

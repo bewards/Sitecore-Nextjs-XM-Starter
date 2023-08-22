@@ -1,0 +1,38 @@
+﻿---
+ID: "dd4db5cf-63e9-4055-82bb-64a654387b42"
+Parent: "887c1756-6bde-4921-b3e8-3b8622c78726"
+Template: "02404208-46d4-49bf-988b-eb363a52a1c9"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Component/WebEdit Buttons/Edit html
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/16x16/Pencil.png
+- ID: "1bb289d6-44d7-4fcc-af15-db32b841f957"
+  Hint: Click
+  Value: |
+    chrome:field:editcontrol({command:"webedit:edithtml"})
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1"
+- ID: "e8cc41c7-c304-4282-b782-e21ca32d324c"
+  Hint: Icon
+  Value: Office/16x16/Pencil.png
+Languages:
+- Language: en
+  Fields:
+  - ID: "371e0d96-4f00-4b80-ad14-6284e00493ba"
+    Hint: Tooltip
+    Value: Edit the text
+  - ID: "c523aba8-d1a1-4dcb-aeee-52635a4ab2ae"
+    Hint: Header
+    Value: Edit Text
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "34d8127d-b976-49eb-a62b-d36655fcac91"

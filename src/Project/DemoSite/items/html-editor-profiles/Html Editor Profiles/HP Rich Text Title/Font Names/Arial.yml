@@ -1,0 +1,28 @@
+﻿---
+ID: "e96265b5-6e4f-44b9-ab33-502ef291be4e"
+Parent: "c0f17b62-08a3-4e31-b17c-c9008c8bc344"
+Template: "2b421e6f-e820-4a04-9a4a-e421a0262b61"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Title/Font Names/Arial
+BranchID: "14d0d756-dd94-4cfa-aed6-6d2585535700"
+SharedFields:
+- ID: "433e22b5-06aa-4a97-a4ac-7cb059ebbac6"
+  Hint: Value
+  Value: arial
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "519cd02a-a857-4894-9c9b-ac9bdc472937"
+      Hint: Header
+      Value: Arial
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11a38a63-292a-48c1-9e05-99dff3e5b3f1"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125513

@@ -1,0 +1,31 @@
+﻿---
+ID: "e2938875-cb20-4266-b0de-14438d22ef28"
+Parent: "52de041f-d7e8-4c4b-9c6d-4ad7934055ec"
+Template: "2b421e6f-e820-4a04-9a4a-e421a0262b61"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Title/Paragraphs/Definition Term
+BranchID: "14d0d756-dd94-4cfa-aed6-6d2585535700"
+SharedFields:
+- ID: "433e22b5-06aa-4a97-a4ac-7cb059ebbac6"
+  Hint: Value
+  Value: <dt>
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 110
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "519cd02a-a857-4894-9c9b-ac9bdc472937"
+      Hint: Header
+      Value: Definition Term
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fafe83ec-7409-4fc0-9c24-77cd9ce436de"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125532

@@ -1,0 +1,24 @@
+﻿---
+ID: "08ebd36a-c4e5-479c-a8a8-61ba75826768"
+Parent: "c626493f-1cc3-4986-a701-f28b83d649f7"
+Template: "814c1dbb-b118-4511-ba2b-7288ed3d490b"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Footer Resolver
+SharedFields:
+  - ID: "de218ede-a9ad-4b04-86c5-9ff593ccf39d"
+    Hint: Type
+    Value: DemoSite.Feature.Navigation.Platform.ContentResolvers.FooterContentsResolver, DemoSite.Feature.Navigation.Platform
+  - ID: "fb43a64d-060f-4fa9-b1c3-1511442175e1"
+    Hint: IncludeServerUrlInMediaUrls
+    Value:
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "9bc2cf55-2329-4a8e-985d-cb9963325ca1"

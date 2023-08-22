@@ -1,0 +1,31 @@
+﻿---
+ID: "3db41756-bcbf-44a3-ad7a-3dd7098c4e5b"
+Parent: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+Template: "a768a98b-0212-4dcb-bc41-33d3fe781e85"
+Path: /sitecore/templates/Branches/Project/DemoSite/Generic Page/$name
+SharedFields:
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:p="p" xmlns:s="s"
+        p:p="1">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+          <r
+            uid="{BCA8B96A-E780-488E-B083-4683454BE92D}"
+            p:after="*[1=2]"
+            s:ds="local:/Page Data/Rich Texts/Rich Text Full Example"
+            s:id="{919D1D17-405B-499C-8473-2EAD67EFBA47}"
+            s:par="Styles=%7B5842790B-016D-4271-94F7-40AA3EBCC07D%7D%7C%7B04EE3635-9362-4021-A8FB-324181E1EEA9%7D&amp;DynamicPlaceholderId"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+        </d>
+      </r>
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "efee2166-0dd9-48e1-9d8f-c13b08976433"

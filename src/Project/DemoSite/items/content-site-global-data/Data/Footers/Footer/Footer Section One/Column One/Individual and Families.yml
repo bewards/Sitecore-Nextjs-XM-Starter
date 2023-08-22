@@ -1,0 +1,21 @@
+﻿---
+ID: "d7e0ac4f-09d7-4aff-8d84-c7c32990d7f7"
+Parent: "c8baa466-0fab-4a22-b7da-30f109db0bb1"
+Template: "4dd932c2-fe9b-494d-8853-b00afaf084e6"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Footers/Footer/Footer Section One/Column One/Individual and Families
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "6c7cc1cf-4c58-4ada-80fa-221186f2667c"
+            Hint: link
+            Value: |
+              <link text="Individual &amp; Families" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{A6904518-754A-4340-9349-9B773D05AF1A}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "23ca3771-bf11-4274-abfa-a95da147d538"

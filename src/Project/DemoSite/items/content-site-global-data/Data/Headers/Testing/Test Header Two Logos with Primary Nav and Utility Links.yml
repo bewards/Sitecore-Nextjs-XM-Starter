@@ -1,0 +1,38 @@
+﻿---
+ID: "54cf8cf3-c37a-4801-8281-3d72903675bc"
+Parent: "1824d5b4-82c3-4bae-810f-86a1e0ad3d05"
+Template: "b16be6d1-3791-4c45-bac8-2daad22ed438"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header Two Logos with Primary Nav and Utility Links"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0ef38ce7-c157-4358-b974-d7914624fd50"
+            Hint: firstLogo
+            Value: |
+              <image mediaid="{B85A2C9E-762B-4E9F-B3EF-4D5821E07DBA}" />
+          - ID: "114ade78-be36-4079-86e7-334fcce8c524"
+            Hint: homeLink
+            Value:
+          - ID: "1e5012a9-22e3-4609-b6d6-21a6e9e34c93"
+            Hint: enableTranslation
+            Value:
+          - ID: "1fd22c9d-ee75-4bb0-a98a-69c229bc258e"
+            Hint: secondLogoLink
+            Value: |
+              <link linktype="external" url="https://www.yahoo.com/" />
+          - ID: "357197ab-7dfa-4142-8779-c7f820e1e0dd"
+            Hint: homeLinkText
+            Value:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "756dc9bc-575e-4db0-90e1-0611d5ec9ac1"
+          - ID: "a7d256a7-2c54-420a-9f08-40c9730ae9ed"
+            Hint: secondLogo
+            Value: |
+              <image mediaid="{89D9643B-38E7-4D84-82C6-0A457615ED1E}" />
+          - ID: "f1ec5da5-d1a2-426e-adaa-c2263eb87957"
+            Hint: firstLogoLink
+            Value: |
+              <link text="Test link" linktype="external" url="https://www.google.com" anchor="" title="Alt text" target="_blank" />

@@ -1,0 +1,44 @@
+﻿---
+ID: "d950cc0b-1471-46fb-a973-58e036a4ebb6"
+Parent: "fda9781e-57bd-4bea-91b4-214fff28d8e9"
+Template: "b01424a2-3de2-4d52-9176-1e009cbd85c1"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Data/Image Text Callouts/Testing/ImageTextCallout-Community Events-right-button 30-70"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04920b3d-4051-4371-afb1-44448df8e169"
+            Hint: title
+            Value: Community Events
+          - ID: "0844385d-5e16-4058-b607-208c320a9aa6"
+            Hint: desktopImage
+            Value: |
+              <image mediaid="{FB253C71-E32F-432F-B8C4-FBB6A8154081}" />
+          - ID: "0fda4bef-63b3-4987-885c-a5169624b2f5"
+            Hint: imageDirection
+            Value: "{3BAD7018-A678-4311-B5E1-C99E790E7FC7}"
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <span style="color: #383e41;">Come meet our representatives at events in your area. Take advantage of health walks, community health fairs, flu shot clinics, and other special events.</span>
+          - ID: "39ef4184-3344-4437-88ef-e3ec264d6aaf"
+            Hint: titleHeadingLevel
+            Value: "{DADC67B2-13B5-4DDF-8175-7D469B403D2B}"
+          - ID: "4001c909-97c0-499b-9615-91e476c2cece"
+            Hint: link
+            Value: |
+              <link text="Learn About Our Community Events" linktype="external" url="https://google.com" anchor="" title="Learn About Our Community Events" target="" />
+          - ID: "46db1348-73f2-4128-916e-58483dd449be"
+            Hint: linkMode
+            Value: "{9374D14E-A968-4B18-94E4-52E6BCFAF109}"
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "658283ae-77b7-4f05-a3bb-bfae118d920c"
+          - ID: "e1b61d29-f565-4c9b-baf6-f8f9524d1761"
+            Hint: presentationMode
+            Value: "{928FFBE7-009B-4D1D-958E-8B5CD5B918FE}"

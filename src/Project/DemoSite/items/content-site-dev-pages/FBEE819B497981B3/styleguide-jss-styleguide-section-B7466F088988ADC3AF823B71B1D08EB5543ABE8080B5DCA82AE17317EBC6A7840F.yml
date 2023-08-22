@@ -1,0 +1,26 @@
+﻿---
+ID: "196874f3-0a59-51a9-b20b-7bea07bc2856"
+Parent: "ed20e49c-fd6a-515b-8a8f-cb9b4ea7efeb"
+Template: "9c840ad4-af7f-515b-ab7f-386827d4c409"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/styleguide/Page Data/styleguide-jss-styleguide-section-B7466F088988ADC3AF823B71B1D08EB5543ABE8080B5DCA82AE17317EBC6A7840F"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: "Styleguide-FieldUsage-Number-6"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04d46078-11b7-5878-96bb-7d762753b405"
+            Hint: heading
+            Value: Number
+          - ID: "212d1e4b-2a81-5ae1-a8f6-fee4b2fbe326"
+            Hint: description
+            Value: <small>Number tells Sitecore to use a number entry for editing.</small>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "6717426b-100c-4095-b717-7c0d0e0f0a82"
+          - ID: "d67f3346-c76f-5cdf-a3bc-0124f116018d"
+            Hint: sample
+            Value: 1.21

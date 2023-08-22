@@ -1,0 +1,23 @@
+﻿---
+ID: "f39ef4d7-5827-48ee-af06-e0d53ff216a4"
+Parent: "8be049ad-00e3-43a7-adb4-4c4d440bebe5"
+Template: "f0627599-b3fb-537e-adfd-d52988327385"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/component patterns/Page Data/home-jss-main-ContentBlock-1"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: "ContentBlock-1"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5c6571dd-9cd7-594c-8024-7153f1647020"
+            Hint: content
+            Value: "<p>I am a content block <em>rich-text</em> field</p>"
+          - ID: "8a36e526-2683-52dd-8c09-1fb791c42e65"
+            Hint: heading
+            Value: I am a content block heading
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "002eaaec-d80b-4b62-84c2-e4945cc1e71b"

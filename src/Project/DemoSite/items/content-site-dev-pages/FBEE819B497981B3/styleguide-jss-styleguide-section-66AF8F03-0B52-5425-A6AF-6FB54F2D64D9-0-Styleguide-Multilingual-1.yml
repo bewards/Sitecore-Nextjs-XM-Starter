@@ -1,0 +1,23 @@
+﻿---
+ID: "ae88c5dd-5258-5f5c-b110-e6f4b4e390fc"
+Parent: "ed20e49c-fd6a-515b-8a8f-cb9b4ea7efeb"
+Template: "c598e2a7-165f-56da-bf5a-96ba78825c81"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/styleguide/Page Data/styleguide-jss-styleguide-section-66AF8F03-0B52-5425-A6AF-6FB54F2D64D9-0-Styleguide-Multilingual-1"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: "Styleguide-Multilingual-1"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04d46078-11b7-5878-96bb-7d762753b405"
+            Hint: heading
+            Value: Translation Patterns
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "0c355fcf-7738-47db-a529-da8f805db333"
+          - ID: "fec5248e-d33c-51ed-9bde-68870d2f9869"
+            Hint: sample
+            Value: This text can be translated in en.yml

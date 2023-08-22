@@ -1,0 +1,24 @@
+﻿---
+ID: "1841e384-d8dd-4c89-a3c4-e00a28deb401"
+Parent: "c8a28dcc-220e-4011-a901-c32e42778062"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Samples/500 Error Throw
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: Error500Throw
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: "{B7052A97-8321-4349-9A81-ACABF4BDD18C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2da74773-01c8-4fc9-9d59-c1e0181eac21"

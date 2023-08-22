@@ -1,0 +1,21 @@
+﻿---
+ID: "795cc263-9abd-42c2-82dc-20ff296e675d"
+Parent: "1ecf1583-0605-4c0d-b05b-f5b74e37d2c2"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Header Primary Nav with Home Link/Page Data
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 50
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "5b6b1ed7-f220-4ddd-991e-8c5d8dbf02a9"

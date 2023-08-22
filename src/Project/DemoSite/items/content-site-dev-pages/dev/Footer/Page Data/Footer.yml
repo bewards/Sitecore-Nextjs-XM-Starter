@@ -1,0 +1,17 @@
+﻿---
+ID: "4c990c2f-0450-404e-bdd8-534073870bee"
+Parent: "67f23e6d-a276-4636-a8c0-9116039a1e06"
+Template: "282f0d8a-f305-4cbc-93fa-8d177741e68b"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Footer/Page Data/Footer
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "2a521ced-55bc-455e-8e1f-620d96bc55f1"
+            Hint: bottomRightLink
+            Value: |
+              <link text="Active Privacy &amp; Breach Alerts" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{A6904518-754A-4340-9349-9B773D05AF1A}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "9dc87645-c9a6-49d2-bd88-6625642eb49a"

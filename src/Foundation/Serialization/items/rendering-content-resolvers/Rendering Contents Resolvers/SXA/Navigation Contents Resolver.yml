@@ -1,0 +1,17 @@
+﻿---
+ID: "5737da40-c7fd-491b-b9a1-38bf149b86bf"
+Parent: "e1dc4ca4-8eef-41f4-b9f8-ae3003246c22"
+Template: "814c1dbb-b118-4511-ba2b-7288ed3d490b"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/SXA/Navigation Contents Resolver
+SharedFields:
+- ID: "de218ede-a9ad-4b04-86c5-9ff593ccf39d"
+  Hint: Type
+  Value: Sitecore.XA.Feature.LayoutServices.Integration.Serialization.Renderings.NavigationSerializer,Sitecore.XA.Feature.LayoutServices.Integration
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c5c7943-93d7-480c-9d78-9daf37e0bffa"

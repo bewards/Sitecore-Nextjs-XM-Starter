@@ -1,0 +1,17 @@
+﻿---
+ID: "b51c784a-46cc-4cb1-a96e-d91c6ad7839e"
+Parent: "e9778725-f086-4afc-b374-bc80feb1896e"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/DemoSite/Callouts/CalloutBlock/CalloutBlock/Content Properties
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "18bb3c28-d1ec-4148-b8b0-225e7a641c84"

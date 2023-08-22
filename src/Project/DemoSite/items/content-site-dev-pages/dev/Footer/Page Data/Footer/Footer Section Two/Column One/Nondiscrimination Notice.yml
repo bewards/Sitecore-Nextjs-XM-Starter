@@ -1,0 +1,21 @@
+﻿---
+ID: "c5f5175f-251a-4693-927a-72644ccd3981"
+Parent: "4320c5ed-ac14-4788-b733-8f16ba9c1e5f"
+Template: "4dd932c2-fe9b-494d-8853-b00afaf084e6"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Footer/Page Data/Footer/Footer Section Two/Column One/Nondiscrimination Notice
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "6c7cc1cf-4c58-4ada-80fa-221186f2667c"
+            Hint: link
+            Value: |
+              <link text="Nondiscrimination Notice (PDF)" linktype="external" url="https://google.com" anchor="" target="_blank" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "0ee92442-a3af-4d0d-b686-ca1455c77687"

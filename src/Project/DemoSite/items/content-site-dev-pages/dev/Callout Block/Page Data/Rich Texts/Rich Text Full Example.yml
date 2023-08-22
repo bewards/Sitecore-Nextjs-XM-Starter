@@ -1,0 +1,23 @@
+﻿---
+ID: "bd95a923-c8a2-41af-bb1a-c955b1cec2cd"
+Parent: "f2fe03cc-988b-457f-8065-e63294085308"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Callout Block/Page Data/Rich Texts/Rich Text Full Example
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{0CFB43C5-BA12-4184-ADBE-BA4E5CBDA1E6}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2>Rich Text Full Component</h2>
+              <p>This is a sample Rich Text Full Component. Etiam sodales augue volutpat est scelerisque, quis pharetra dolor vulputate. Sed quis dui non nunc efficitur scelerisque. Fusce in vestibulum dolor. Nullam metus mi, egestas at feugiat nec, sollicitudin eu risus. Sed sed ante nec tellus tristique fermentum. Morbi purus dolor, iaculis sed sodales vitae, accumsan non odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. In volutpat vitae magna eget fringilla. Nulla et mattis elit. Ut blandit aliquam tempor. Nam auctor dapibus dolor, ut lacinia ex. Nam tincidunt at ante quis sagittis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi eget feugiat turpis. Cras eu accumsan nisi.</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "6d90d61c-df0e-4e3f-9151-21f61a036c65"

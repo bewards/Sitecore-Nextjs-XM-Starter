@@ -1,0 +1,39 @@
+﻿---
+ID: "9f6a46c9-e32a-44ce-8b79-706853492cd8"
+Parent: "99089110-8822-4b88-8a52-60032fb978df"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Dynamic Buttons/Page Data/Rich Texts/Rich Text Full Example
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{0CFB43C5-BA12-4184-ADBE-BA4E5CBDA1E6}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2 style="text-align: center;">Dynamic Buttons Component</h2>
+              <p>The Dynamic Buttons component is a feature component that displays a series of nested links/buttons. Visitors start on the initial group and can navigate to a different section by clicking any of the displayed buttons marked with the rotated carrot icon. If a visitor wants to go back to the previous section they were on, they can use the provided <em>back</em>&nbsp;button. For additional convenience, if a section has eight (8) or more options an additional&nbsp;<em>back&nbsp;</em>button will be rendered at the top of the section.</p>
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230717T134442Z
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "24285388-7405-44c1-935a-075d992927bc"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230717T170000Z

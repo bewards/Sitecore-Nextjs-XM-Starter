@@ -1,0 +1,30 @@
+﻿---
+ID: "2a0df2a9-89b0-5030-ba09-187102b02aed"
+Parent: "fea9dbe7-b167-5545-9f1f-660998ee1b1f"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/DemoSite/Styleguide-SitecoreContext"
+SharedFields:
+  - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+    Hint: componentName
+    Value: "Styleguide-SitecoreContext"
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: Office/16x16/control_panel.png
+  - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+    Hint: Datasource Template
+    Value: "/sitecore/templates/Project/DemoSite/Styleguide-SitecoreContext"
+  - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+    Hint: Datasource Location
+    Value: "./Page Components|/sitecore/content/DemoSite/Components/Styleguide-SitecoreContext"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "de76e9f9-0e35-4459-97c7-16aec1b5279f"

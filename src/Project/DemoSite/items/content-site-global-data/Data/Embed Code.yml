@@ -1,0 +1,13 @@
+﻿---
+ID: "c45b7036-b983-46cb-8cb8-62da7a09c595"
+Parent: "181302b4-ceef-4f97-822c-efc83aaf712c"
+Template: "c4156174-4a02-47db-b364-1a132fcb4f0b"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Embed Code
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3decefbb-fccf-4f3f-a63c-843493f7b9be"

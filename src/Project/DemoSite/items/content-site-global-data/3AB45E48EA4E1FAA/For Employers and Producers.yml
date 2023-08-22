@@ -1,0 +1,24 @@
+﻿---
+ID: "d402c45c-ed6e-4e72-a2c4-1cb6d8b2a0f2"
+Parent: "e480469a-250f-4386-9bfc-ede6764bcbe5"
+Template: "c5d60182-5b2d-44ae-89dd-1c60042a0ae6"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with Primary Nav and Subnavigation/Primary Navigation/For Employers and Producers
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 0
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "52cb9a62-a550-48dc-a07d-796e6ea762e1"
+            Hint: pageLink
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A32F0CB0-2B29-4F18-B155-2FB325A56B87}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "32942b7c-e45d-4d4d-9089-6d3dc59f29ce"
+          - ID: "ef246b46-c1fe-4967-9359-b23889a79e41"
+            Hint: title
+            Value: For Employers & Producers

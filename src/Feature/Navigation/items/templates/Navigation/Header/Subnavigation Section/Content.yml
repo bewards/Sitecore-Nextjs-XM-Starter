@@ -1,0 +1,17 @@
+﻿---
+ID: "bfa0371c-2c7f-44b6-a69a-b16825616d11"
+Parent: "abcbc0b5-cb96-48a3-8a06-806680ec9055"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/DemoSite/Navigation/Header/Subnavigation Section/Content
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c4bdc059-b948-422a-b73c-3d0587cdc664"

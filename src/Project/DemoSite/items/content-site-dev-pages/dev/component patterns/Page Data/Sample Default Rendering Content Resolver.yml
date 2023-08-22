@@ -1,0 +1,46 @@
+﻿---
+ID: "1db3f9ae-8b53-41d9-b85d-547d92005c77"
+Parent: "8be049ad-00e3-43a7-adb4-4c4d440bebe5"
+Template: "1e8c95d9-afcd-49ce-8697-297a2cace148"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/component patterns/Page Data/Sample Default Rendering Content Resolver
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0c906d70-cb58-419d-a895-57b3b237dd5d"
+            Hint: body
+            Value: |
+              <p>This is content from a Datasource Item in the Body Field of type <strong>Rich-Text</strong>.</p>
+              <p>The JSON Sitecore Rendering is used without any content resolver field modifications or it is set to "Datasource Resolver"</p>
+              <p>When to use:</p>
+              <ul>
+                  <li>The component uses only content template field data</li>
+                  <li>The default layout data output is sufficient without needing GraphQL</li>
+              </ul>
+          - ID: "27fdc50c-30b6-4e77-a4fa-38d4fc64ab4d"
+            Hint: contentList
+            Value: |
+              {1B896BAE-EDF6-580B-8D79-58ECB35BABBE}
+              {258B9285-7EA1-41A7-9D92-5EA67C2AF900}
+          - ID: "3d13ec14-a5fe-4b75-aad1-3f319f6b05f4"
+            Hint: link
+            Value: |
+              <link class="" id="{A6904518-754A-4340-9349-9B773D05AF1A}" querystring="" anchor="" target="|Custom" title="" linktype="internal" text="Datasource Link Field Back to Home Item" url="/DemoSite/DemoSiteWebsite/Home" />
+          - ID: "413e1da2-6c2c-4a69-9d2c-6427459ab2cf"
+            Hint: image
+            Value: |
+              <image mediaid="{0A6FB7A8-AAF4-4438-91AC-AD9D8642FE37}" />
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8c18fe5d-b9b6-4a3b-b972-b1d065f9ea0c"
+            Hint: itemLink
+            Value: "{F39EF4D7-5827-48EE-AF06-E0D53FF216A4}"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "6d5e12fb-95b1-4392-afcd-36658d7c066e"
+          - ID: "c4a89c91-b18a-49df-82dc-4b864b4a15da"
+            Hint: title
+            Value: "Rendering Content Resolver: Datasource Resolver"

@@ -1,0 +1,13 @@
+﻿---
+ID: "b7b8e58a-68c1-4307-a119-0b2cbda6ab22"
+Parent: "aa6ba04e-e878-4fa5-90b4-afadc3b4d7ce"
+Template: "ce12cd98-2aa2-443d-8b09-cb49aa485962"
+Path: /sitecore/content/DemoSite/Global Content Settings/CSSBackgroundColors/Callout Block
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "859ef4b2-04e3-4b62-adf1-32c6cc047fb0"

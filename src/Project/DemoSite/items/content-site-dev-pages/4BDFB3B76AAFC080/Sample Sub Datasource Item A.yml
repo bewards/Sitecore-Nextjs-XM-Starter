@@ -1,0 +1,20 @@
+﻿---
+ID: "734c59b0-45c3-4d5b-b048-1f950081aade"
+Parent: "6527f3c0-133c-48cc-a4f3-13d90ff6c32a"
+Template: "dc995e86-f5a4-4712-9a73-e4e23bdbb8e2"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/component patterns/Page Data/Sample Datasource With Children Content Resolver/Sample Sub Datasource Item A
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "f92150c3-f7d4-4fdb-9711-dead46e6a97d"
+          - ID: "d7de1569-b577-4387-8690-055cf52d499a"
+            Hint: subItemTitle
+            Value: "Sample Sub Datasource Item A Content!"

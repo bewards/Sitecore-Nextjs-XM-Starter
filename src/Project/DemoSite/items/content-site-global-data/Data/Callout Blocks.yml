@@ -1,0 +1,13 @@
+﻿---
+ID: "87f9f9ee-a880-4138-95a3-9e703d6c01fd"
+Parent: "181302b4-ceef-4f97-822c-efc83aaf712c"
+Template: "f96e5f1b-40c1-404b-b346-219502de506a"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Callout Blocks
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "db78bf52-1144-48ef-8772-f4f92d75fe53"

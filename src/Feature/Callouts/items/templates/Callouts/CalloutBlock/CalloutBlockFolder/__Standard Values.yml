@@ -1,0 +1,26 @@
+﻿---
+ID: "1b00a0aa-cc31-416d-9d72-8fdbe8c8db03"
+Parent: "f96e5f1b-40c1-404b-b346-219502de506a"
+Template: "f96e5f1b-40c1-404b-b346-219502de506a"
+Path: /sitecore/templates/Feature/DemoSite/Callouts/CalloutBlock/CalloutBlockFolder/__Standard Values
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: office/32x32/folder_document.png
+  - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+    Hint: __Masters
+    Value: |
+      {E9778725-F086-4AFC-B374-BC80FEB1896E}
+      {F96E5F1B-40C1-404B-B346-219502DE506A}
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "56fbfeff-22b6-40d8-93cc-53fef199eedb"

@@ -1,0 +1,20 @@
+﻿---
+ID: "928ffbe7-009b-4d1d-958e-8b5cd5b918fe"
+Parent: "c1e5d1cf-6c2e-4591-8aab-61b3f12f8261"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Presentation Modes/Callouts/30 70
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: "30-70"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: "30-70"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "4671c594-a011-4901-b8e0-58ab49970fe5"

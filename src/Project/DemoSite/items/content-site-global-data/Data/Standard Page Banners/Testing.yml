@@ -1,0 +1,13 @@
+﻿---
+ID: "92c20006-578e-4cc4-b813-b64dde1a708c"
+Parent: "77bda007-1267-449d-a0f2-814ee670d215"
+Template: "773bae1d-7de0-45f7-bf0b-9a9dedd48507"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Standard Page Banners/Testing
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "8df21db3-6124-42a0-bed0-b55bdedb2f74"

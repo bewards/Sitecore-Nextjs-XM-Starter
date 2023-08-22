@@ -1,0 +1,20 @@
+﻿---
+ID: "b0b9e64a-0675-5bdc-a211-b90975edb573"
+Parent: "c03ecfc9-5043-5fbc-8ce6-b26e26610370"
+Template: "62002612-2686-51c1-800b-4000477ca6a6"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/styleguide/Page Data/styleguide-jss-styleguide-section-B73482E131E5A083D77A50554BC74A4758E29636DF6824F6E2F272EE778C28A095/styleguide-jss-styleguide-section-B75151F05CFDC4CAFFE44E5BAED9D59BEA82565EC11CE75B7DEF3634495EC1DAB7"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: "Styleguide-FieldUsage-ItemLink-10-item-0"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "83a58cc9-5619-589a-a8ed-a97cd936042f"
+            Hint: textField
+            Value: Referenced item textField
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "63818df1-5855-4107-9972-4db1240329e3"

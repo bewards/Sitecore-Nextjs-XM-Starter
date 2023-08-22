@@ -1,0 +1,16 @@
+﻿---
+ID: "40de46ca-8bb7-4236-9023-7e0ff3f33792"
+Parent: "3fe786a3-2469-4698-b423-89d8d7346537"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Alert Banner Status/Yellow Warning
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: warning
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "44655dba-68d9-4b03-b110-46648aa7fb46"

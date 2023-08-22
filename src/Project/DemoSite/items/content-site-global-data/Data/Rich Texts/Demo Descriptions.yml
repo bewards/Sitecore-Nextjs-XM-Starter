@@ -1,0 +1,13 @@
+﻿---
+ID: "ef6d7523-5022-4915-9791-239ff25ececf"
+Parent: "8ce31243-2894-484a-a654-cfe15d12e8e1"
+Template: "ca25e0b6-c5a8-47c0-b70c-510a361c1db1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Rich Texts/Demo Descriptions
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "a341c625-0942-4bff-98db-6562994c41fc"

@@ -1,0 +1,16 @@
+{
+  "namespace": "Feature.Callouts",
+  "references": ["Foundation.*"],
+  "items": {
+    "includes": [
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/Feature/DemoSite/Callouts"
+      },
+      {
+        "name": "renderings",
+        "path": "/sitecore/layout/Renderings/Feature/Callouts"
+      }
+    ]
+  }
+}

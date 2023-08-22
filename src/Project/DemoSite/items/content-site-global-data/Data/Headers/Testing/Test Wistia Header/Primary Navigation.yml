@@ -1,0 +1,17 @@
+﻿---
+ID: "a3852772-7818-4765-a8e5-dbe179730611"
+Parent: "2491b799-13c5-4bdb-8405-92a6a9c2bf12"
+Template: "3778ed4a-0a91-4291-b511-7ac6d8cabef4"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Wistia Header/Primary Navigation
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 50
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3f1ff5c2-97c7-4d8f-a887-ced23ac65cd5"

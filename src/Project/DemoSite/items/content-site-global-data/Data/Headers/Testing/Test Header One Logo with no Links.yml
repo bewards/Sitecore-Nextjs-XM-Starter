@@ -1,0 +1,24 @@
+﻿---
+ID: "0fc15f58-caff-45e6-bcde-e72c636c6162"
+Parent: "1824d5b4-82c3-4bae-810f-86a1e0ad3d05"
+Template: "b16be6d1-3791-4c45-bac8-2daad22ed438"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with no Links"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0ef38ce7-c157-4358-b974-d7914624fd50"
+            Hint: firstLogo
+            Value: |
+              <image mediaid="{4318F27D-748E-4CB7-8377-3D92D32F7094}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c51a324f-aaec-4784-bd8c-c390adb58d86"
+          - ID: "a7d256a7-2c54-420a-9f08-40c9730ae9ed"
+            Hint: secondLogo
+            Value:
+          - ID: "f1ec5da5-d1a2-426e-adaa-c2263eb87957"
+            Hint: firstLogoLink
+            Value: |
+              <link text="Test link" linktype="external" url="https://www.google.com" anchor="" title="Alt text" target="" />

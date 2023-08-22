@@ -1,0 +1,98 @@
+﻿---
+ID: "14fcf90e-9abb-471a-b80c-4923ee09876b"
+Parent: "f1d42697-18c6-44b0-8b6a-ab23c5d60427"
+Template: "c2a8e276-1757-4957-9dd5-8669b79fd80d"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Partial Designs/Metadata
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+  - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+    Hint: Signature
+    Value: "metadata-partial-design"
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:p="p" xmlns:s="s"
+        p:p="1">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+          <r
+            uid="{A869CFAB-17D4-4102-BA1E-D324F952FB28}"
+            p:before="*"
+            s:id="{3A91FC31-BA4C-4BC7-B6E4-29B4BB768736}"
+            s:par="Reset Caching Options&amp;CacheClearingBehavior=Clear%20on%20publish"
+            s:ph="body-bottom" />
+          <r
+            uid="{6DBD0178-ADC4-465D-AD4E-79DCF6C324A1}"
+            p:after="r[@uid='{A869CFAB-17D4-4102-BA1E-D324F952FB28}']"
+            s:id="{24374313-44B3-4E9C-9C55-C4194019D1B3}"
+            s:par="Reset Caching Options&amp;CacheClearingBehavior=Clear%20on%20publish"
+            s:ph="body-bottom" />
+          <r
+            uid="{5DB95B38-C97D-4D0C-9E30-78F97F4E9C5B}"
+            p:after="r[@uid='{6DBD0178-ADC4-465D-AD4E-79DCF6C324A1}']"
+            s:id="{3EA2AA92-8885-4C28-9C5D-37E94721A481}"
+            s:par="Reset Caching Options&amp;CacheClearingBehavior=Clear%20on%20publish"
+            s:ph="head" />
+          <r
+            uid="{82E124A7-90B7-4DB7-8185-C311827CAD59}"
+            p:after="r[@uid='{5DB95B38-C97D-4D0C-9E30-78F97F4E9C5B}']"
+            s:id="{5DA64EA1-D631-4880-A1F6-9C5291B4E1AE}"
+            s:par="Reset Caching Options&amp;CacheClearingBehavior=Clear%20on%20publish"
+            s:ph="head" />
+          <r
+            uid="{227E01B4-4651-4855-B543-E0C93B904C1B}"
+            p:after="r[@uid='{82E124A7-90B7-4DB7-8185-C311827CAD59}']"
+            s:id="{B9EE29F7-2CCE-4172-9E51-D65DB818E3FA}"
+            s:par="Reset Caching Options&amp;CacheClearingBehavior=Clear%20on%20publish"
+            s:ph="head" />
+          <r
+            uid="{EB83783A-C778-414E-8822-2F02B573EB44}"
+            p:after="r[@uid='{227E01B4-4651-4855-B543-E0C93B904C1B}']"
+            s:id="{E3E3F484-0C27-42CC-9F36-E2D33430C8CD}"
+            s:par="Reset Caching Options&amp;CacheClearingBehavior=Clear%20on%20publish"
+            s:ph="head" />
+          <r
+            uid="{B3F04309-A75A-4E7E-9B49-0698459FA95E}"
+            p:after="r[@uid='{EB83783A-C778-414E-8822-2F02B573EB44}']"
+            s:id="{B07712AD-28B9-4B93-A524-D8BD29CA9D8D}"
+            s:par="Reset Caching Options&amp;CacheClearingBehavior=Clear%20on%20publish"
+            s:ph="head" />
+          <r
+            uid="{A40BB592-9ACF-49AE-A332-E06369E75F4F}"
+            p:after="r[@uid='{B3F04309-A75A-4E7E-9B49-0698459FA95E}']"
+            s:id="{CA9D504B-B04F-4327-BCEB-A789BA5C3865}"
+            s:par="Reset Caching Options&amp;CacheClearingBehavior=Clear%20on%20publish"
+            s:ph="head" />
+          <r
+            uid="{C0550150-603C-473C-9034-88617125349D}"
+            p:after="r[@uid='{A40BB592-9ACF-49AE-A332-E06369E75F4F}']"
+            s:id="{0A6935A8-3AC2-4977-8677-1F4360B212EE}"
+            s:par="Reset Caching Options&amp;CacheClearingBehavior=Clear%20on%20publish"
+            s:ph="head" />
+          <r
+            uid="{DD489DA2-14B4-4874-87F8-E078CBF96270}"
+            p:after="*[1=2]"
+            s:id="{3B138D20-BB25-449D-898A-670997743402}"
+            s:par="Reset Caching Options&amp;CacheClearingBehavior=Clear%20on%20publish"
+            s:ph="head" />
+        </d>
+      </r>
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{C7A35BB6-7B78-49A5-A0CE-23A6DFA3E00E}"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: Metadata
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2667cd22-eb2a-48ce-a8d1-b51ebe0d6d1c"

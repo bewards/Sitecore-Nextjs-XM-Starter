@@ -1,0 +1,20 @@
+﻿---
+ID: "8716e043-291e-4c31-9317-fd5f0d6925af"
+Parent: "e565ae22-86bb-4cbf-bbf0-7af81db2da78"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: "/sitecore/content/DemoSite/Global Content Settings/Presentation Modes/Standard Page Banner/50-50"
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 0
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: "50-50"
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "36128183-b8bb-4e0f-a072-dffe8c7ccbbf"

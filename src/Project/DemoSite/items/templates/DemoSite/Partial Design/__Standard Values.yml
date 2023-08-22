@@ -1,0 +1,32 @@
+﻿---
+ID: "95168a40-569e-4719-9467-f7b5e0d29b6c"
+Parent: "0bad4011-beea-4158-9e2d-4a4beb7a73e6"
+Template: "0bad4011-beea-4158-9e2d-4a4beb7a73e6"
+Path: /sitecore/templates/Project/DemoSite/Partial Design/__Standard Values
+SharedFields:
+  - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+    Hint: Signature
+    Value: "__standard-values"
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+          l="{C7407DEB-8F43-4EA5-BC03-D6248F90829C}" />
+        <d
+          id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}"
+          l="{72C595AD-68BB-44BC-B5CD-2A857039515F}" />
+      </r>
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2422152c-7a60-4522-ba10-c5e0541f491f"

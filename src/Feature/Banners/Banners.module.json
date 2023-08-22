@@ -1,0 +1,16 @@
+{
+  "namespace": "Feature.Banners",
+  "references": ["Foundation.*"],
+  "items": {
+    "includes": [
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/Feature/DemoSite/Banners"
+      },
+      {
+        "name": "renderings",
+        "path": "/sitecore/layout/Renderings/Feature/Banners"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+﻿---
+ID: "e9bf7d60-0168-4035-8035-f0c963532959"
+Parent: "d27d1da5-a724-4641-8361-88286ad96ba3"
+Template: "419f8ffb-2713-4cec-86a7-7585a727fe25"
+Path: /sitecore/system/Workflows/Demo Site Workflow/In Review/Approve and Auto Publish/Validation Action
+SharedFields:
+  - ID: "202f2a2c-6274-467f-a9c8-3ec4585a3060"
+    Hint: Critical Error
+    Value: You cannot approve an item with validation errors.
+  - ID: "281ab75c-db54-4471-9675-c01fb380fb62"
+    Hint: Error
+    Value: You cannot approve an item with validation errors.
+  - ID: "322164dc-27ac-404e-b7dc-b74c13cdba1e"
+    Hint: Type
+    Value: Sitecore.Workflows.Simple.ValidatorsAction, Sitecore.Kernel
+  - ID: "95fd25aa-742d-41d2-8d04-6406bba8c60d"
+    Hint: Max Result
+    Value: Warning
+  - ID: "a50d7933-f230-4434-9538-29c802f0ce23"
+    Hint: Fatal Error
+    Value: You cannot approve an item with validation errors.
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "f6e0c745-c1eb-4919-8784-862863e06de3"

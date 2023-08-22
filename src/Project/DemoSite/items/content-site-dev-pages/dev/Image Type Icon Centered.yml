@@ -1,0 +1,126 @@
+﻿---
+ID: "f6fda48a-11be-4c2e-a21c-afaadcfd08bb"
+Parent: "615c8c66-b58a-452b-bfd5-458b950d3172"
+Template: "a768a98b-0212-4dcb-bc41-33d3fe781e85"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Image Type Icon Centered
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:p="p" xmlns:s="s"
+        p:p="1">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+          <r
+            uid="{BD6A7013-0ECA-4D82-9DE6-6D99128756EC}"
+            p:after="r[@uid='{866A44B8-8238-4E9B-96C3-5EDBE44F729A}']"
+            s:ds="{64B164E2-052A-434F-9FFC-412F264A1CC4}"
+            s:id="{A0924D50-04DB-4596-852D-DEA9C384DCFE}"
+            s:par="imageDirection=%7B3BAD7018-A678-4311-B5E1-C99E790E7FC7%7D&amp;presentationMode=%7BC5830218-B52E-4D8B-B218-2AC2826A22E4%7D&amp;contentBackgroundColor=%7B8CE15CC8-5AB3-413E-997E-B41E56F29C7A%7D&amp;Styles=%7B5842790B-016D-4271-94F7-40AA3EBCC07D%7D%7C%7B62117A86-FEFE-453E-883B-DF79AE723948%7D%7C%7B6DF3F54C-DA68-4B60-A648-24F9B1442C9B%7D&amp;DynamicPlaceholderId=1"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{27457FAA-3077-4685-9494-8FF59F778CC7}"
+            p:after="r[@uid='{BD6A7013-0ECA-4D82-9DE6-6D99128756EC}']"
+            s:ds="{36A36EF8-237E-4769-9FB1-AD874D1BF86A}"
+            s:id="{A0924D50-04DB-4596-852D-DEA9C384DCFE}"
+            s:par="imageDirection=%7B3BAD7018-A678-4311-B5E1-C99E790E7FC7%7D&amp;presentationMode=%7BC5830218-B52E-4D8B-B218-2AC2826A22E4%7D&amp;contentBackgroundColor=%7B25632724-9A94-4634-A5E5-63427E1E117C%7D"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{3E0DF42A-73DF-4A1A-AAD2-3D1E6C655ED1}"
+            p:after="r[@uid='{27457FAA-3077-4685-9494-8FF59F778CC7}']"
+            s:ds="{B3016B6D-9F8F-4229-8C3C-2A26FC999391}"
+            s:id="{A0924D50-04DB-4596-852D-DEA9C384DCFE}"
+            s:par="imageDirection=%7B3BAD7018-A678-4311-B5E1-C99E790E7FC7%7D&amp;presentationMode=%7BC5830218-B52E-4D8B-B218-2AC2826A22E4%7D&amp;contentBackgroundColor=%7B25632724-9A94-4634-A5E5-63427E1E117C%7D"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{CEA40B0A-9EAA-42D0-B375-825B66E58299}"
+            p:after="r[@uid='{3E0DF42A-73DF-4A1A-AAD2-3D1E6C655ED1}']"
+            s:ds="{6CFA482C-6C8F-436C-BBCD-9EC07C20F412}"
+            s:id="{A0924D50-04DB-4596-852D-DEA9C384DCFE}"
+            s:par="imageDirection=%7B3BAD7018-A678-4311-B5E1-C99E790E7FC7%7D&amp;presentationMode=%7BC5830218-B52E-4D8B-B218-2AC2826A22E4%7D&amp;contentBackgroundColor=%7B2C399A17-3315-45BA-AAE5-36565DB6B328%7D&amp;Styles=%7B5842790B-016D-4271-94F7-40AA3EBCC07D%7D%7C%7B6DF3F54C-DA68-4B60-A648-24F9B1442C9B%7D&amp;DynamicPlaceholderId=2"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{50FB1FCF-214C-48D5-9C4E-0590B8218DD7}"
+            p:after="r[@uid='{CEA40B0A-9EAA-42D0-B375-825B66E58299}']"
+            s:id="{72FA44E4-BBC2-43AA-8F6B-902914C72383}"
+            s:par="enableAriaHidden&amp;CacheClearingBehavior=Clear%20on%20publish"
+            s:ph="hp-main" />
+          <r
+            uid="{CAC9D6AE-6800-423F-9841-856D4F0C8F34}"
+            p:after="r[@uid='{50FB1FCF-214C-48D5-9C4E-0590B8218DD7}']"
+            s:ds="{38C7FA86-1006-4462-8FF0-4EFAAD9446A3}"
+            s:id="{4D361062-7A6E-41B5-9D90-2E17E5852AE7}"
+            s:par="horizontalBorderMode=%7BCDDC9642-F377-4F4E-A136-30B9333DC537%7D"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{DBAAA8B4-F141-468F-AA6D-7DC58D7ADE47}"
+            p:after="r[@uid='{CAC9D6AE-6800-423F-9841-856D4F0C8F34}']"
+            s:ds="{F85275AF-CEEF-4F68-AA8C-5F5773768DA2}"
+            s:id="{4D361062-7A6E-41B5-9D90-2E17E5852AE7}"
+            s:par="horizontalBorderMode=%7BCDDC9642-F377-4F4E-A136-30B9333DC537%7D"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{0579256F-42ED-4041-BFE0-7EE107D9EA77}"
+            p:after="r[@uid='{DBAAA8B4-F141-468F-AA6D-7DC58D7ADE47}']"
+            s:ds="{EC3937B7-1E4B-4CA1-AED7-3EF5206051CB}"
+            s:id="{4D361062-7A6E-41B5-9D90-2E17E5852AE7}"
+            s:par="horizontalBorderMode=%7BCDDC9642-F377-4F4E-A136-30B9333DC537%7D"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{D8164601-BC82-4A6C-9750-C8CB6A99E453}"
+            p:after="*[1=2]"
+            s:ds="{68879F8D-89A6-4B85-9C70-F5C59DE6BEC3}"
+            s:id="{4D361062-7A6E-41B5-9D90-2E17E5852AE7}"
+            s:par="horizontalBorderMode=%7BCDDC9642-F377-4F4E-A136-30B9333DC537%7D"
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+        </d>
+      </r>
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{3DB41756-BCBF-44A3-AD7A-3DD7098C4E5B}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230718T125419Z
+          - ID: "3714a0a6-c655-4136-97ff-b03268f5ebd2"
+            Hint: openGraphTitle
+            Value: Image Type Icon Centered
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "506c43d2-fc52-4d63-8b37-a1b13209a46e"
+          - ID: "9e36878a-df50-431a-9847-a5ef7781053e"
+            Hint: title
+            Value: Image Type Icon Centered
+          - ID: "ac1da9d9-c87f-40fb-8acc-aeaf126df8e5"
+            Hint: pageMetaTitle
+            Value: Image Type Icon Centered
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230811T195524Z

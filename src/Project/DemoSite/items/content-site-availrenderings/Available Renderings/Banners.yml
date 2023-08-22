@@ -1,0 +1,21 @@
+﻿---
+ID: "936e07df-e736-46dc-9791-c17b56dbf3d3"
+Parent: "1580bd1f-eacf-4065-a876-947bdab28569"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Presentation/Available Renderings/Banners
+SharedFields:
+  - ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+    Hint: Renderings
+    Value: "{A0924D50-04DB-4596-852D-DEA9C384DCFE}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "cbda670b-506a-41d0-af3b-189b18ce0214"

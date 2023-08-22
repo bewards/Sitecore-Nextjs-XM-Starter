@@ -1,0 +1,13 @@
+﻿---
+ID: "30fbdb95-afa3-4933-b863-0732c41bae5e"
+Parent: "2eb7e574-7987-4845-be3e-43696797dd6d"
+Template: "c71d8566-35c8-49b7-a84d-9d176e9cbd05"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Settings/Sitemap
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "dbc6c702-e060-433b-967c-4de9b6f28922"

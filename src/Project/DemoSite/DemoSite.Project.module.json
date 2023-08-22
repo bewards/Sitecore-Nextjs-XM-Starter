@@ -1,0 +1,45 @@
+{
+  "namespace": "DemoSite.Project",
+  "references": ["InitItems", "Foundation.*", "Feature.*"],
+  "items": {
+    "includes": [
+      {
+        "name": "placeholders",
+        "path": "/sitecore/layout/Placeholder Settings/Project/DemoSite"
+      },
+      {
+        "name": "layouts",
+        "path": "/sitecore/layout/Layouts/Project/DemoSite"
+      },
+      {
+        "name": "renderings",
+        "path": "/sitecore/layout/Renderings/Project/DemoSite"
+      },
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/Project/DemoSite"
+      },
+      {
+        "name": "branch-templates",
+        "path": "/sitecore/templates/Branches/Project/DemoSite"
+      },
+      {
+        "name": "languages",
+        "path": "/sitecore/system/Languages",
+        "allowedPushOperations": "createOnly"
+      },
+      {
+        "name": "workflow",
+        "path": "/sitecore/system/Workflows/Demo Site Workflow"
+      },
+      {
+        "name": "validationrules",
+        "path": "/sitecore/system/Settings/Validation Rules/Field Rules/DemoSite"
+      },
+      {
+        "name": "scripts",
+        "path": "/sitecore/system/Modules/PowerShell/Script Library/DemoSite"
+      }
+    ]
+  }
+}

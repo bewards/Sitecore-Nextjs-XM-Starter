@@ -1,0 +1,31 @@
+﻿---
+ID: "7a55b03a-fc7a-4258-8b52-ad332d98e2a2"
+Parent: "dccf1705-1cf2-4f01-8dc7-50feae82efd2"
+Template: "2b421e6f-e820-4a04-9a4a-e421a0262b61"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Full/Paragraphs/Formatted
+BranchID: "14d0d756-dd94-4cfa-aed6-6d2585535700"
+SharedFields:
+- ID: "433e22b5-06aa-4a97-a4ac-7cb059ebbac6"
+  Hint: Value
+  Value: <pre>
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "519cd02a-a857-4894-9c9b-ac9bdc472937"
+      Hint: Header
+      Value: Formatted
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28847d01-cce1-411c-8fa1-6eb7e54e4838"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125531

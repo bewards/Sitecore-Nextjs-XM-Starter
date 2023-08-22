@@ -1,0 +1,27 @@
+﻿---
+ID: "1e89a893-0501-5afc-ae3d-1da6d1cfe9a1"
+Parent: "ed20e49c-fd6a-515b-8a8f-cb9b4ea7efeb"
+Template: "c1bb6ebf-6508-5b09-8774-c7c6a843d37a"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/styleguide/Page Data/styleguide-jss-styleguide-section-B7E19927515D82E3AAF326827054E684ED0E40AEB7F77A6E6A0BF880A21D248241"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: "Styleguide-FieldUsage-Text-1"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "04d46078-11b7-5878-96bb-7d762753b405"
+            Hint: heading
+            Value: "Single-Line Text"
+          - ID: "7d74dbd0-58c6-5715-8e30-ebf860f469ab"
+            Hint: sample
+            Value: |
+              This is a sample text field. <mark>HTML is encoded.</mark> In Sitecore, editors will see a <input type="text">.
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "54cef938-f97f-4e04-95e2-bfc8d1a1926e"
+          - ID: "e7fb9fe3-1bcc-5125-8d56-0ca0bf42cc5a"
+            Hint: sample2
+            Value: This is another sample text field using rendering options. <mark>HTML supported with encode=false.</mark> Cannot edit because editable=false.

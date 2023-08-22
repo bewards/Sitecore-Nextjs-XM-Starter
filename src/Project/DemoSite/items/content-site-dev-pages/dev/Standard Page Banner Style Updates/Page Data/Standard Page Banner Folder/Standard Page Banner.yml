@@ -1,0 +1,46 @@
+﻿---
+ID: "27e62d62-d097-4b54-a82c-2914df691143"
+Parent: "873ad6d0-56aa-45ee-99cf-f3082356acba"
+Template: "f5bc8b22-44dd-4e69-a9d2-214d67e0eef8"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Standard Page Banner Style Updates/Page Data/Standard Page Banner Folder/Standard Page Banner
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{2C62529D-8629-4CD2-8368-AFC8C5D9D3C3}"
+          - ID: "4feb9659-28ae-48b0-bfa1-6b249295054e"
+            Hint: bannerLinkText
+            Value: Learn how to access our Daniel Tiger story
+          - ID: "5edc704b-2a43-443f-9bc1-2ed1807b17e1"
+            Hint: bannerSubtitle
+            Value: TEACH THE CHILD IN YOUR LIFE ABOUT VACCINES
+          - ID: "670e9582-9a2f-46c2-ad7f-ba066e8e1837"
+            Hint: bannerBody
+            Value: Many children are nervous about receiving a vaccine. We've partnered with Fred Rogers Productions to offer a free audio story in which Daniel Tiger talks about his efforts to be brave as he prepares to get a shot.
+          - ID: "77dee9aa-8497-44fa-baa8-8caa3f9920de"
+            Hint: bannerLinkDestination
+            Value: |
+              <link linktype="external" url="https://www.google.com" />
+          - ID: "7d649af9-1d53-4e20-a1fe-ab2c10afb4d2"
+            Hint: bannerTitle
+            Value: MEMBERS
+          - ID: "810f98b5-d45f-43b7-b1c4-eb46dd58dc8a"
+            Hint: mobileImage
+            Value: |
+              <image mediaid="{5F82F813-7255-4B07-A4E6-C9B6CF803389}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "479bbd73-8d33-433a-817f-a0cd62846d53"
+          - ID: "9b84f6d5-dad9-48ba-82b6-6940411d1016"
+            Hint: bannerTitleTextStyle
+            Value: "{656137FB-3ED6-4FB5-A437-7EF2E31530F4}"
+          - ID: "fc6c56b8-c20a-40d8-88f4-0ce2091d9e0e"
+            Hint: bannerLinkIcon
+            Value: "{2893DCCF-930F-485B-9FFE-0052F0F16F48}"

@@ -1,0 +1,16 @@
+﻿---
+ID: "3213d816-6185-4760-a93d-2257b1c120ff"
+Parent: "6cc89e2f-8954-4fb1-9844-9baf74967df7"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Heading Levels/H5
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: h5
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "9c6ed15f-9556-49af-bb7a-abf0bb38872a"

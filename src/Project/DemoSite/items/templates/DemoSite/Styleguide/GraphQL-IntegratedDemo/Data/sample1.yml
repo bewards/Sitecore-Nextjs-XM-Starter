@@ -1,0 +1,30 @@
+﻿---
+ID: "361f1aea-9eb6-51b5-b9da-73cc9731d837"
+Parent: "c6fcf4b4-654e-58e9-b2d3-abe379dfb7c3"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Project/DemoSite/Styleguide/GraphQL-IntegratedDemo/Data/sample1"
+SharedFields:
+  - ID: "39847666-389d-409b-95bd-f2016f11eed5"
+    Hint: Unversioned
+    Value: 0
+  - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+    Hint: Type
+    Value: "Single-Line Text"
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 100
+  - ID: "be351a73-fcb0-4213-93fa-c302d8ab4f51"
+    Hint: Shared
+    Value: 0
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\JssImport
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "0cede140-872b-4066-816a-589f2c2b4657"

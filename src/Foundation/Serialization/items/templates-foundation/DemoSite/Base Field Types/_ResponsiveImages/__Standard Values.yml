@@ -1,0 +1,34 @@
+﻿---
+ID: "2e409563-dd58-43f0-8df4-ce2cc56d29c1"
+Parent: "22a9d411-866c-4e51-ba89-0b5a50856ced"
+Template: "22a9d411-866c-4e51-ba89-0b5a50856ced"
+Path: /sitecore/templates/Foundation/DemoSite/Base Field Types/_ResponsiveImages/__Standard Values
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230811T183203Z
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "f452163e-7c1e-46b1-97f4-bc3d4154c592"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "c162a9be-4303-4b35-8d4f-bf1f6af9a821"
+            Hint: imageType
+            Value: "{2BF4BB3F-7C8D-40C4-83E9-A8574F904BA2}"
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230815T192726Z

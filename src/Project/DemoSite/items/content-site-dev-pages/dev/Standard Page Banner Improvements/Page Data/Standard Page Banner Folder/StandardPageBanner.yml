@@ -1,0 +1,52 @@
+﻿---
+ID: "03302b21-c6d1-4a29-884f-d06d3ead8e31"
+Parent: "156de091-d3c3-4e01-b9b1-244cb0e8c21e"
+Template: "f5bc8b22-44dd-4e69-a9d2-214d67e0eef8"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Standard Page Banner Improvements/Page Data/Standard Page Banner Folder/StandardPageBanner
+SharedFields:
+  - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+    Hint: __Workflow
+    Value: "{33D3E219-6951-4F62-A015-183C3E1C4CF0}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "238aeaa5-4358-480e-9721-76049a107f8e"
+            Hint: bannerSubtitleTextStyle
+            Value: "{746421B9-17E0-4753-9F3C-2728E0A8B35F}"
+          - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+            Hint: __Workflow state
+            Value: "{6EBC5940-1303-480A-B0EF-996E5C7A63DC}"
+          - ID: "4feb9659-28ae-48b0-bfa1-6b249295054e"
+            Hint: bannerLinkText
+            Value: Find your doctor now on our provider search tool
+          - ID: "5edc704b-2a43-443f-9bc1-2ed1807b17e1"
+            Hint: bannerSubtitle
+            Value: "When you choose Demo Site, you’ll get access to:"
+          - ID: "670e9582-9a2f-46c2-ad7f-ba066e8e1837"
+            Hint: bannerBody
+            Value: |
+              <ul>
+                  <li><a href="/best/" target="_blank" class="orchid500-link">large network of top-ranked doctors and hospitals.</a></li>
+                  <li><a href="#" class="orchid500-link">Access to community-based doctors and hospitals.</a></li>
+                  <li><a href="online-tools.aspx" class="orchid500-link">Exclusive digital health tools, including Virtual Urgent Care.</a></li>
+                  <li><a href="service.aspx">Our exceptional Member Services team.</a></li>
+                  <li><a href="network.aspx">An extended nationwide network that covers students and dependents (up to age 26).</a></li>
+              </ul>
+          - ID: "77dee9aa-8497-44fa-baa8-8caa3f9920de"
+            Hint: bannerLinkDestination
+            Value: |
+              <link linktype="external" url="https://www.google.com" />
+          - ID: "7d649af9-1d53-4e20-a1fe-ab2c10afb4d2"
+            Hint: bannerTitle
+            Value: Choosing health coverage is a major decision. Now more than ever, it&rsquo;s important to get access to the care you and your dependents need&mdash;when you need it.
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "bfb4434d-e94a-4836-80ee-71abfd5554af"
+          - ID: "9b84f6d5-dad9-48ba-82b6-6940411d1016"
+            Hint: bannerTitleTextStyle
+            Value: "{746421B9-17E0-4753-9F3C-2728E0A8B35F}"
+          - ID: "e62eaf1b-0a98-4070-bb65-f74bfc0e58fb"
+            Hint: bannerLinkMode
+            Value: "{9D59BAC2-9346-4DD9-BED6-E43DC523F5FE}"

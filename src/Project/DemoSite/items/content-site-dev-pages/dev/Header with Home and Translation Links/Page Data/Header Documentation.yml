@@ -1,0 +1,46 @@
+﻿---
+ID: "409144a3-f80e-463f-b370-c4184ea3ea5a"
+Parent: "a24d5fbf-dad5-4df4-bf08-9bf158764b9d"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Header with Home and Translation Links/Page Data/Header Documentation
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1 style="text-align: left;">Home &amp; Translation Links</h1>
+              <p style="text-align: left;">The header component has the option to include a tertiary navigation section, containing a link to a content author specified page and a link to take users to the Spanish/English version of the page they're currently on. On desktop, these links will be right-aligned above the utility links. For mobile screens, the home link will relocate to the bottom of the hidden menu, while the translation link will change to look like button and be placed evenly spaced between the logos and menu button.</p>
+              <p style="text-align: center;"><img alt="Header component with home and translation link" src="-/media/8C0A46BD55CB4A59943B6C381F55D404.ashx?h=133&amp;w=600" style="height: 133px; width: 600px; margin: 12px;" /></p>
+              <p style="text-align: center;"><img alt="Header component with home and translation links on mobile" src="-/media/4220622E1D3A45A4BEC7501EEB0AD2CE.ashx?h=103&amp;w=250" style="width: 250px; height: 103px; vertical-align: top; margin: 12px;" /><img alt="Header component with home and translation link on mobile - menu opened" src="-/media/0BBC56F2F90C47919C3BB7497172060B.ashx?h=453&amp;w=250" style="width: 250px; height: 453px; vertical-align: top; margin: 12px;" /></p>
+              <p style="text-align: left;">To add the home link to the header component content authors need to fill out both the&nbsp;<em>Home Link Text&nbsp;</em>and&nbsp;<em>Home Link</em>&nbsp;properties on the header component. If either are left blank, the home link will not render.&nbsp;</p>
+              <p style="text-align: center;"><img alt="The home and translation link properties on the header component." src="-/media/5862D88B4D044373A5AC815B637A119F.ashx?h=181&amp;w=600" style="height: 181px; width: 600px; margin: 12px;" /></p>
+              <p style="text-align: left;">To include the translation link content authors simply need to toggle the&nbsp;<em>Enable Translation Link</em>&nbsp;property. The link will be dynamically generated to link site visitors to Spanish/English version of the current page they are on. The link text is pulled from the&nbsp;<em>Translation Link</em>&nbsp;dictionary item.</p>
+              <p style="text-align: center;"><img alt="Dictionary item of translation link" src="-/media/AC055BF6CE9D47C78389E3A15C2A2E7E.ashx?h=258&amp;w=600" style="height: 258px; width: 600px; margin: 12px;" /></p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "f4fbafd5-5ce7-4268-b967-ddc191267f54"
+  - Language: "es-ES"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h1>Inicio y enlaces de traducci&oacute;n</h1>
+              <p>El componente de encabezado tiene la opci&oacute;n de incluir una secci&oacute;n de navegaci&oacute;n terciaria, que contiene un enlace a una p&aacute;gina especificada por el autor del contenido y un enlace para llevar a los usuarios a la versi&oacute;n en espa&ntilde;ol/ingl&eacute;s de la p&aacute;gina en la que se encuentran actualmente. En el escritorio, estos enlaces estar&aacute;n alineados a la derecha sobre los enlaces de utilidades. Para las pantallas m&oacute;viles, el enlace de inicio se reubicar&aacute; en la parte inferior del men&uacute; oculto, mientras que el enlace de traducci&oacute;n cambiar&aacute; para parecerse a un bot&oacute;n y se colocar&aacute; espaciado uniformemente entre los logotipos y el bot&oacute;n de men&uacute;.</p>
+              <p style="text-align: center;"><img alt="" src="-/media/8C0A46BD55CB4A59943B6C381F55D404.ashx?h=133&amp;w=600" style="height: 133px; width: 600px; margin: 12px;" /></p>
+              <p style="text-align: center;"><img alt="" src="-/media/4220622E1D3A45A4BEC7501EEB0AD2CE.ashx?h=103&amp;w=250" style="width: 250px; height: 103px; vertical-align: top; margin: 12px;" /><img alt="" src="-/media/0BBC56F2F90C47919C3BB7497172060B.ashx?h=453&amp;w=250" style="height: 453px; width: 250px; vertical-align: top; margin: 12px;" /></p>
+              <p style="text-align: left;">Para agregar el v&iacute;nculo de inicio al contenido del componente de encabezado, los autores deben completar tanto el texto del v&iacute;nculo de inicio como las propiedades del v&iacute;nculo de inicio en el componente de encabezado. Si se deja en blanco, el enlace de inicio no se procesar&aacute;.</p>
+              <p style="text-align: center;"><img alt="" src="-/media/5862D88B4D044373A5AC815B637A119F.ashx?h=181&amp;w=600" style="width: 600px; height: 181px; margin: 12px;" /></p>
+              <p style="text-align: left;">Para incluir el contenido del enlace de traducci&oacute;n, los autores simplemente necesitan alternar la propiedad Habilitar enlace de traducci&oacute;n. El enlace se generar&aacute; din&aacute;micamente para vincular a los visitantes del sitio a la versi&oacute;n en espa&ntilde;ol/ingl&eacute;s de la p&aacute;gina actual en la que se encuentran. El texto del enlace se extrae del elemento del diccionario Translation Link.</p>
+              <p style="text-align: center;"><img alt="" src="-/media/AC055BF6CE9D47C78389E3A15C2A2E7E.ashx?h=258&amp;w=600" style="width: 600px; height: 258px; margin: 12px;" /></p>
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "06c3b61c-6ce3-4186-b726-35a0cb4b08fa"

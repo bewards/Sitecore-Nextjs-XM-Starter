@@ -1,0 +1,48 @@
+﻿---
+ID: "a0136369-ca1b-48a4-936b-9db5f46340d3"
+Parent: "06854e7f-135f-4ccc-a38b-63b530f5c7fe"
+Template: "fc18f915-eac6-460a-8777-6e1376a9ea09"
+Path: /sitecore/Forms/DemoSite/Embedded Form Sample/Page/Section/Text
+SharedFields:
+  - ID: "71c6de8e-4718-4977-b83e-b49552ee14b0"
+    Hint: Conditions
+    Value: |
+      {"fieldConditions":[]}
+  - ID: "84ece662-5034-40cb-9c60-744db64bb294"
+    Hint: Field Key
+    Value: 485F142D1FBB401697CDD191D5B61B48
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 0
+  - ID: "c6caa979-c3ac-4ffc-861e-2961f5fc3c48"
+    Hint: Html Tag
+    Value: h3
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230626T185635Z
+          - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+            Hint: __Owner
+            Value: |
+              sitecore\Admin
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "b055e2a8-3942-4af9-af88-3e846f80477d"
+          - ID: "9666782b-21bb-40ce-b38f-8f6c53fa5070"
+            Hint: Text
+            Value: Sample Embedded Form Example
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230626T185635Z

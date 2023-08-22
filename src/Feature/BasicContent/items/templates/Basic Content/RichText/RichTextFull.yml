@@ -1,0 +1,27 @@
+﻿---
+ID: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Parent: "c4c0852c-9283-4aa0-9c8a-8881c4914ee5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/DemoSite/Basic Content/RichText/RichTextFull
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: office/32x32/template.png
+  - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+    Hint: __Base template
+    Value: "{FA641387-AB09-4E29-94B1-68052A312E6C}"
+  - ID: "f7d48a55-2158-4f02-9356-756654404f73"
+    Hint: __Standard values
+    Value: "{88FD6E86-0E16-4084-A641-D3D97F50DBF6}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "83e8a5d9-45d9-4562-b28a-1fa6d513aaa0"

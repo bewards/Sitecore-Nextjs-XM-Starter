@@ -1,0 +1,23 @@
+﻿---
+ID: "a170cbed-a82f-48a2-a8ee-59f7627ef7a1"
+Parent: "181302b4-ceef-4f97-822c-efc83aaf712c"
+Template: "f21983d8-c426-4a3f-9307-c53fa3fb7dd1"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Page Banner With Overlay
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230816T204127Z
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "901318c0-03be-41cd-aaff-84f69dcb02d4"
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230816T204127Z

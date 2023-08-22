@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+  <appSettings>
+    <add key="testSetting" value="testing xdt transform" xdt:Locator="Match(key)" xdt:Transform="InsertIfMissing" />
+    <!-- env:define for local development only - env for other environments set manually on app services -->
+    <add key="env:define" value="Local" xdt:Transform="InsertIfMissing" />
+  </appSettings>
+  <system.web>
+    <customErrors mode="On" xdt:Transform="Remove" xdt:Locator="Match(mode)" />
+    <customErrors mode="On" xdt:Transform="SetAttributes" xdt:Locator="Match(mode)" />
+  </system.web>
+</configuration>

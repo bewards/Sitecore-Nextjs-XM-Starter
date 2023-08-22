@@ -1,0 +1,24 @@
+﻿---
+ID: "3742f5c2-3d31-46c6-a237-331a188e9228"
+Parent: "a3852772-7818-4765-a8e5-dbe179730611"
+Template: "e29a8175-d3d3-4b00-949a-3b1e8ea15e45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Wistia Header/Primary Navigation/For Employers and Producers
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3c4962d3-37f5-4d16-a75b-9b756bf2dd84"
+          - ID: "b5f94aca-b64a-4aee-94af-8f9c8645d15e"
+            Hint: title
+            Value: For Employers & Producers
+          - ID: "e552a988-a7cd-49aa-876c-da52e471fca6"
+            Hint: link
+            Value: |
+              <link text="Test link for Employers and Producers section" linktype="external" url="https://www.yahoo.com/" anchor="" title="Alt text" target="" />

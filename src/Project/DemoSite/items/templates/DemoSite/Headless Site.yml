@@ -1,0 +1,33 @@
+﻿---
+ID: "0073fae7-226a-4779-ba2b-c6ca36e8d554"
+Parent: "20f00fc6-81fd-48e0-820a-fb906b2b09fa"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/DemoSite/Headless Site
+SharedFields:
+  - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    Hint: __Icon
+    Value: Office/32x32/window_star.png
+  - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+    Hint: __Base template
+    Value: |
+      {9ED66404-64C9-4122-90E1-869CB3CEA566}
+      {DCB42A80-68C9-46F9-B036-BC44A27D96FE}
+      {448108A3-CEA9-42E3-A86C-2D2BD325870E}
+      {3BC304DB-FE8F-4AA8-B95C-8C331E823F4C}
+      {20D0DFC4-BC72-4B55-BA99-8D6E672B1AED}
+      {6B5A6B92-657A-4AFE-A528-0B2F83EA9824}
+  - ID: "f7d48a55-2158-4f02-9356-756654404f73"
+    Hint: __Standard values
+    Value: "{53760056-241A-480C-8053-E05093EC2040}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "8d92492e-eb9a-4939-a6c0-0c2a938533f1"

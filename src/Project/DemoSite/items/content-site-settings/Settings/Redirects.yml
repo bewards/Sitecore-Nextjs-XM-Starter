@@ -1,0 +1,22 @@
+﻿---
+ID: "0399531c-1b09-4887-a066-bf46a9aae214"
+Parent: "2eb7e574-7987-4845-be3e-43696797dd6d"
+Template: "c2dc4690-af44-48c7-bb21-90d1ad246732"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Settings/Redirects
+SharedFields:
+  - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+    Hint: __Security
+    Value: |
+      ar|sitecore\UPMC HP Author|pd|+item:delete|
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "1b14e475-3d72-4a2f-850e-fd342708ea6d"

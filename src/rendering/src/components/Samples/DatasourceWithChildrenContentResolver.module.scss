@@ -1,0 +1,18 @@
+.datasourceWithChildrenContentResolver {
+  margin-top: 50px;
+
+  h2 {
+    font-size: 36px;
+    background-color: black;
+    color: white;
+  }
+  section {
+    border-left: 5px solid black;
+    padding-left: 12px;
+    margin-top: 16px;
+
+    &:first-of-type {
+      margin-top: 0;
+    }
+  }
+}

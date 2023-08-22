@@ -1,0 +1,20 @@
+﻿---
+ID: "d2554d27-6e5c-4b7b-94f1-8921056978e6"
+Parent: "4fb4b7d3-045f-408f-b343-e58dc2ce5a9e"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Meta Values/Robots Meta/nofollow
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: No follow
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: nofollow
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c1be63f7-93e7-49eb-923c-1dbd3a45684a"

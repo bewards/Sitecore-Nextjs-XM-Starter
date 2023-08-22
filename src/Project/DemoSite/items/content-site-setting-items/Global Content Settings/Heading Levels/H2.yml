@@ -1,0 +1,16 @@
+﻿---
+ID: "9f06c920-7bcb-4f11-9ece-26f2dbe9ea09"
+Parent: "6cc89e2f-8954-4fb1-9844-9baf74967df7"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Heading Levels/H2
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: h2
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "2b6cc887-3f3f-43a9-b269-c4e0d1879f33"

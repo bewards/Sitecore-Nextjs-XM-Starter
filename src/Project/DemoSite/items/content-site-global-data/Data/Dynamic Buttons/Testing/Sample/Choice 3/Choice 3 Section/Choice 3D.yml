@@ -1,0 +1,20 @@
+﻿---
+ID: "c4968f02-bfa1-4f28-9abc-6c9f279080a3"
+Parent: "f06abce4-a928-4075-8dbe-3ed5c9c5dcd8"
+Template: "9c46baf3-8f0b-4c17-a79f-b103c51f23be"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Dynamic Buttons/Testing/Sample/Choice 3/Choice 3 Section/Choice 3D
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "2efe6884-aeb6-4f29-8508-6424e683df3f"
+            Hint: choiceText
+            Value: Choice 3D
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "66e8fadc-7f9e-4433-b84f-3202080137c3"
+          - ID: "d80415ab-ffe9-4b56-98cc-d0970ae6481f"
+            Hint: linkLocation
+            Value: |
+              <link text="Link description" linktype="external" url="http://yahoo.com" anchor="" target="" />

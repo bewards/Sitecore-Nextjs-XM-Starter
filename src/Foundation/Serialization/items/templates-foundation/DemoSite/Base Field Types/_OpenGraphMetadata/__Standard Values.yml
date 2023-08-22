@@ -1,0 +1,17 @@
+﻿---
+ID: "72dcc712-bdf5-499a-9bcc-4469c9c59087"
+Parent: "b239670f-0b2f-4175-91c7-5e4792cd86ca"
+Template: "b239670f-0b2f-4175-91c7-5e4792cd86ca"
+Path: /sitecore/templates/Foundation/DemoSite/Base Field Types/_OpenGraphMetadata/__Standard Values
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "fd767ec6-d35a-48f2-a76a-1d72e4a75930"

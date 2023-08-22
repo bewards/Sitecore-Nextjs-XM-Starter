@@ -1,0 +1,16 @@
+﻿---
+ID: "89064588-3914-4be4-8dd3-21f88d92fdb2"
+Parent: "3fe786a3-2469-4698-b423-89d8d7346537"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Alert Banner Status/Gray Maintenance
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: maintenance
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "db27361c-6b3e-44a8-8027-8358e6301bc7"

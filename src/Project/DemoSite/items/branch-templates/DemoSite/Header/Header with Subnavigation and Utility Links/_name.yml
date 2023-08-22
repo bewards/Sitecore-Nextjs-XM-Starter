@@ -1,0 +1,20 @@
+﻿---
+ID: "0fd9a528-b50b-455a-9551-de0a94a5bc8b"
+Parent: "45c7e681-3485-4285-8313-0b7a605022a9"
+Template: "b16be6d1-3791-4c45-bac8-2daad22ed438"
+Path: /sitecore/templates/Branches/Project/DemoSite/Header/Header with Subnavigation and Utility Links/$name
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "114ade78-be36-4079-86e7-334fcce8c524"
+            Hint: homeLink
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />
+          - ID: "357197ab-7dfa-4142-8779-c7f820e1e0dd"
+            Hint: homeLinkText
+            Value: <em>Demo Site</em> Demo Site
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "d5b11530-9b91-4552-9399-2817bbffff06"

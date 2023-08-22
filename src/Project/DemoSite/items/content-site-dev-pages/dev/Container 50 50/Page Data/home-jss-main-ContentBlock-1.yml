@@ -1,0 +1,75 @@
+﻿---
+ID: "e1951edc-bdf2-474a-a68b-4d365a6a4ec5"
+Parent: "f444c6af-d056-496c-b128-006f6268f5e1"
+Template: "f0627599-b3fb-537e-adfd-d52988327385"
+Path: "/sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Container 50 50/Page Data/home-jss-main-ContentBlock-1"
+Languages:
+  - Language: en
+    Fields:
+      - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+        Hint: __Display name
+        Value: "ContentBlock-1"
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5c6571dd-9cd7-594c-8024-7153f1647020"
+            Hint: content
+            Value: |
+              <section class="py-5">
+              <h2>Button Styles</h2>
+              <div class="d-flex justify-content-between gap-3">
+              <button type="button" class="btn btn-primary">Primary</button>
+              <button type="button" class="btn btn-outline-primary">Primary Outline</button>
+              <button type="button" class="btn btn-secondary">Secondary</button>
+              <button type="button" class="btn btn-success">Success</button>
+              <button type="button" class="btn btn-danger">Danger</button>
+              </div>
+              </section>
+              <section class="py-5">
+              <h2>Link Styles</h2>
+              <div class="d-flex gap-3">
+              <a href="~/link.aspx?_id=A6904518754A434093499B773D05AF1A&amp;_z=z">Normal</a>
+              <a class="link--download" href="~/link.aspx?_id=A6904518754A434093499B773D05AF1A&amp;_z=z">Download</a>
+              <a class="link--arrow" href="~/link.aspx?_id=A6904518754A434093499B773D05AF1A&amp;_z=z">Arrow</a></div>
+              </section>
+              <section class="py-5">
+              <h2>Typography</h2>
+              <section class="py-3'">
+              <h3>Headings</h3>
+              <div class="d-flex gap-3">
+              <h1>H1</h1>
+              <h2>H2</h2>
+              <h3>H3</h3>
+              <h4>H4</h4>
+              <h5>H5</h5>
+              <h6>H6</h6>
+              </div>
+              </section>
+              <section class="py-3">
+              <h3>Body Copy</h3>
+              <h4>Default</h4>
+              <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+              <h4>Lead</h4>
+              <p class="lead">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+              <h4>Small</h4>
+              <p class="small">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+              </section>
+              <section class="py-3">
+              <h3>Block Quote</h3>
+              <blockquote>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </blockquote>
+              </section>
+              </section>
+          - ID: "8a36e526-2683-52dd-8c09-1fb791c42e65"
+            Hint: heading
+            Value: Styleguide Test Page
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "5d3b1d95-8b91-4b43-aa8c-c204ab901cb4"

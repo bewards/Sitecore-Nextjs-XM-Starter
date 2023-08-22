@@ -1,0 +1,16 @@
+﻿---
+ID: "a083a0ca-2754-465b-b5de-163a854fc2ca"
+Parent: "fad68dc8-89ca-4c08-959b-78f3c5618739"
+Template: "3ab5b1f9-9314-4d58-ac32-a1df8a2254ee"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/FAQ/Testing/FaqTest
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "c7fea86a-b594-4df4-a9c5-c0b027dbbeb5"
+          - ID: "f3e4c4a8-3310-4a45-b2ed-4c4467d0c874"
+            Hint: componentTitle
+            Value: FAQ Test Title

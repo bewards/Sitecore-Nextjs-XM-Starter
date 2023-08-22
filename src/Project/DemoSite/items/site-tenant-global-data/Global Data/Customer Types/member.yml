@@ -1,0 +1,44 @@
+﻿---
+ID: "711ff4c2-2071-42ee-a656-8fbc81b6349e"
+Parent: "3cc4cd95-553a-4c2b-a141-e8670ad0c181"
+Template: "a6ce10fb-88ab-43c9-881c-b5898636a3fb"
+Path: /sitecore/content/DemoSite/Global Data/Customer Types/member
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "22333389-bcb2-4c4a-81cd-ac10d1556144"
+            Hint: forgotPasswordLink
+            Value: |
+              <link text="Forgot username or password" linktype="external" url="https://google.com" anchor="" target="" />
+          - ID: "227b3715-a528-42a6-93f0-b8e1c6be38f5"
+            Hint: registerLink
+            Value: |
+              <link text="Register for MyHealth OnLine" linktype="external" url="https://www.google.com" anchor="" target="" />
+          - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+            Hint: __Created
+            Value: 20230717T145105Z
+          - ID: "3df6422b-aa48-4186-a839-34777b45ea28"
+            Hint: portalDestinationLink
+            Value: |
+              <link text="Log in" linktype="external" url="https://google.com" anchor="" target="" />
+          - ID: "49640053-59e5-427b-ab0e-2dcce4068da4"
+            Hint: dropdownLabel
+            Value: Member
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "475ed6ad-0793-4784-80d8-611aff4f485c"
+          - ID: "b9dc62e6-18dc-4c44-817f-9effcf929917"
+            Hint: forgotPasswordLongInstructions
+            Value: |
+              <p>If you forgot your user ID or need assistance, please call our Help Desk at 1-800-937-0438.</p>
+              <p>First-time users can create a Provider OnLine account.</p>
+              <p>To learn how to register, watch our instructional Provider OnLine registration video.</p>
+          - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+            Hint: __Updated by
+            Value: |
+              sitecore\Admin
+          - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+            Hint: __Updated
+            Value: 20230718T142102Z

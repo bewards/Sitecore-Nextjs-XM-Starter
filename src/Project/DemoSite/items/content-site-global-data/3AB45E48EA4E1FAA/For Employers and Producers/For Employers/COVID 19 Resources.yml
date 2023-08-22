@@ -1,0 +1,27 @@
+﻿---
+ID: "3d093c9e-da20-4b41-8b73-9d99b3653800"
+Parent: "0d7ab4ef-96ab-4320-8ffd-ff610b50d8bb"
+Template: "05f033b3-a206-46a2-b34a-37a550c8cb77"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with Primary Nav and Subnavigation/Primary Navigation/For Employers and Producers/For Employers/COVID 19 Resources
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 100
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "4bcaf177-954b-482e-9c9c-a46f35b66caa"
+            Hint: linkText
+            Value: "COVID-19 Resources"
+          - ID: "6c7cc1cf-4c58-4ada-80fa-221186f2667c"
+            Hint: link
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{258B9285-7EA1-41A7-9D92-5EA67C2AF900}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "3b86134b-650c-4b89-bb90-863ee94d3b10"
+          - ID: "ae35c112-c704-4949-8404-e068f2327857"
+            Hint: langAttributeValue
+            Value: en

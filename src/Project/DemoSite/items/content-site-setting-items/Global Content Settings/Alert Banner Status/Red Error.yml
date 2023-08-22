@@ -1,0 +1,16 @@
+﻿---
+ID: "24b9ede2-5c0b-47df-9876-44654f37deec"
+Parent: "3fe786a3-2469-4698-b423-89d8d7346537"
+Template: "3f3d6c36-c422-48e4-997a-a130f16a7ef7"
+Path: /sitecore/content/DemoSite/Global Content Settings/Alert Banner Status/Red Error
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "0a67a2d6-4211-48c7-afdb-8a32bbc88a4d"
+            Hint: Value
+            Value: error
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "7b753b55-2d66-4954-b0b8-5f6896c7867e"

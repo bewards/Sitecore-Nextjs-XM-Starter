@@ -1,0 +1,60 @@
+@import '@sass/abstracts/imports';
+
+.alert {
+  &.maintenance {
+    background-color: $black;
+    color: $white;
+  }
+
+  &.warning {
+    background-color: $light-yellow;
+    border-bottom: 4px solid $bright-yellow;
+  }
+
+  &.error {
+    background-color: $light-red;
+    border-bottom: 4px solid $bright-red;
+  }
+}
+
+.title {
+  color: inherit;
+}
+
+.icon-flex-item {
+  display: flex;
+  align-items: normal;
+  flex-direction: row;
+  padding-top: 0.5rem;
+
+  @include media-breakpoint-up(md) {
+    align-items: center;
+  }
+}
+
+.alert-icon {
+  width: 4rem;
+  height: 4rem;
+  padding-right: 1rem;
+
+  &.maintenance {
+    fill: $gray-50;
+  }
+  &.warning {
+    fill: $bright-yellow;
+  }
+  &.error {
+    fill: $bright-red;
+  }
+}
+
+.alert-container {
+  width: 100%;
+}
+
+.alert-placeholder {
+  background-color: $light-yellow;
+  border-bottom: 1px solid $bright-yellow;
+  padding: 1rem;
+  width: 100%;
+}

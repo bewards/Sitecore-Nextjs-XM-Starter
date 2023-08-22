@@ -1,0 +1,21 @@
+﻿---
+ID: "7594f59b-f109-4fc1-96b3-91e39c12b6a7"
+Parent: "575068b6-0554-4b60-a622-7d474e6afeac"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Header with Subnavigation/For Families/Page Data
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 50
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "5b6b1ed7-f220-4ddd-991e-8c5d8dbf02a9"

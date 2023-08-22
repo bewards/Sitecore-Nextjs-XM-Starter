@@ -1,0 +1,23 @@
+﻿---
+ID: "48e865ca-b8c6-43f4-be4a-141eeefd7fad"
+Parent: "a1396513-083d-46db-849e-d1ae17e3c57f"
+Template: "decc20e1-4160-426c-b81c-7c25edfcbe45"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/Alert Banner with Global Alerts/Page Data/Rich Texts/Rich Text Full Example
+BranchID: "9ae2795d-db8a-486f-8d67-c7f78c6a55b9"
+SharedFields:
+  - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+    Hint: __Originator
+    Value: "{0CFB43C5-BA12-4184-ADBE-BA4E5CBDA1E6}"
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "1fa1544c-f2ec-4889-917f-b81db2c11be3"
+            Hint: content
+            Value: |
+              <h2>Alert Banner</h2>
+              <p>This is a sample Alert Banner Component. The alert banner is a rendering that shows a banner with important information at the very top of the page, directly underneath the header navigation. This banner has been  set up so that it can apply globally on the site (appears on all pages) or on a subsection of the site (on a specific page and any pages that appear below it in the content tree).</p>
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "20cf8b33-9b87-491f-966a-4c04d01c07dd"

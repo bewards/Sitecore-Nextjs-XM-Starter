@@ -1,0 +1,23 @@
+@import '@sass/abstracts/imports';
+
+.container-5050 {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: repeat(2, auto);
+  gap: $gutter-mobile;
+  justify-content: stretch;
+  justify-items: start;
+  align-content: start;
+  align-items: start;
+
+  @include media-breakpoint-up(md) {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;
+    column-gap: $gutter-tablet;
+    row-gap: 0px;
+  }
+
+  &__col {
+    width: 100%;
+  }
+}

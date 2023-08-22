@@ -1,0 +1,21 @@
+﻿---
+ID: "1e60c540-b9bd-4095-b40f-7bd11ce2e971"
+Parent: "bdc9fddd-0e7f-40e2-809c-ed0d12d6e4e2"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/DemoSite/DemoSiteWebsite/Samples/Responsive Image Samples
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 50
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "9032eb80-1548-4580-aef8-d4bf0b74e63f"

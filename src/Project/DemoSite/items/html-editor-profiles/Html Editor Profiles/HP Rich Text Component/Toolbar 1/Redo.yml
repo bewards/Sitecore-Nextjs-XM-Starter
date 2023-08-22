@@ -1,0 +1,28 @@
+﻿---
+ID: "c1e8b99b-24dd-4c98-9ac7-c6d687983ae9"
+Parent: "7ec1a57c-5ffb-4a9f-8e39-bb679589578f"
+Template: "a473cbd2-4e48-41b3-8b1b-5695daf90b5c"
+Path: /sitecore/system/Settings/Html Editor Profiles/HP Rich Text Component/Toolbar 1/Redo
+BranchID: "b9ed3ccb-9ec5-4c8c-825b-3dbc2eb0e676"
+SharedFields:
+- ID: "8d4f1b9f-d46b-4842-845d-4a3795da1c0b"
+  Hint: Click
+  Value: Redo
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb7fce4b-89ac-4c2d-87fc-eb337d6e5f62"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125542

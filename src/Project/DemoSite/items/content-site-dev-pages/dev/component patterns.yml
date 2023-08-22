@@ -1,0 +1,62 @@
+﻿---
+ID: "4f177c6f-cb60-402e-8a83-0f38685281e1"
+Parent: "615c8c66-b58a-452b-bfd5-458b950d3172"
+Template: "a768a98b-0212-4dcb-bc41-33d3fe781e85"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Home/dev/component patterns
+SharedFields:
+  - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+    Hint: __Renderings
+    Value: |
+      <r xmlns:p="p" xmlns:s="s"
+        p:p="1">
+        <d
+          id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+          <r
+            uid="{AFBB87D0-5D23-4571-AF9B-453CEE94C313}"
+            p:after="r[@uid='{0B598233-D470-44FE-9113-1307C53865C9}']"
+            s:ds="local:/Page Data/Sample Default Rendering Content Resolver"
+            s:id="{3D048A0B-0758-45C0-A23F-BDAC5C1231F7}"
+            s:par=""
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{6D25F137-D8D2-4B92-A40B-C3E0C3F2395F}"
+            p:after="r[@uid='{AFBB87D0-5D23-4571-AF9B-453CEE94C313}']"
+            s:ds="local:/Page Data/Sample Datasource With Children Content Resolver"
+            s:id="{3F41E7F1-C245-4B93-A4FE-6E269F0AFCDA}"
+            s:par=""
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+          <r
+            uid="{C8FDB330-2A15-473A-8C57-84A3767EA451}"
+            p:after="r[@uid='{866A44B8-8238-4E9B-96C3-5EDBE44F729A}']" />
+          <r
+            uid="{369FEB0B-4F7B-4BCA-B136-C3AA7E02282D}"
+            p:after="*[1=2]"
+            s:ds="local:/Page Data/GraphQL Samples"
+            s:id="{806BBE43-F779-4DB6-982B-96C7345FDBDA}"
+            s:par=""
+            s:ph="hp-main"
+            s:ccb="Clear on publish" />
+        </d>
+      </r>
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "3714a0a6-c655-4136-97ff-b03268f5ebd2"
+            Hint: openGraphTitle
+            Value: component patterns
+          - ID: "458cdbb7-949a-48f4-b830-5da8722e1734"
+            Hint: body
+            Value:
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "619ff0b7-54d7-403b-82eb-52fe05689b34"
+          - ID: "9e36878a-df50-431a-9847-a5ef7781053e"
+            Hint: title
+            Value: Component Patterns Page Title Field
+          - ID: "ac1da9d9-c87f-40fb-8acc-aeaf126df8e5"
+            Hint: pageMetaTitle
+            Value: Component Patterns

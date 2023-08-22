@@ -1,0 +1,27 @@
+﻿---
+ID: "64ec0fd1-5dcb-4da2-be2b-199e4efb8911"
+Parent: "cf95378e-5ce6-485c-8f9e-1b92e4e24453"
+Template: "05f033b3-a206-46a2-b34a-37a550c8cb77"
+Path: /sitecore/content/DemoSite/DemoSiteWebsite/Data/Headers/Testing/Test Header One Logo with Primary Nav and Subnavigation/Primary Navigation/For Individuals and Family/For Individuals and Family/Health Insurance Basics
+SharedFields:
+  - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+    Hint: __Sortorder
+    Value: 50
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "4bcaf177-954b-482e-9c9c-a46f35b66caa"
+            Hint: linkText
+            Value: Health Insurance Basics
+          - ID: "6c7cc1cf-4c58-4ada-80fa-221186f2667c"
+            Hint: link
+            Value: |
+              <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{258B9285-7EA1-41A7-9D92-5EA67C2AF900}" />
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "de58d423-150e-4fc2-b7fa-f4dd1a711beb"
+          - ID: "ae35c112-c704-4949-8404-e068f2327857"
+            Hint: langAttributeValue
+            Value: en

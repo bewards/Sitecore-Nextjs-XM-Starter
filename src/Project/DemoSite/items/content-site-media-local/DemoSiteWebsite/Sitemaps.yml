@@ -1,0 +1,17 @@
+﻿---
+ID: "269cf553-2cf8-4464-b600-34bc15525580"
+Parent: "c4b91f29-b0a6-488f-82f2-db89765f75ab"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/DemoSite/DemoSiteWebsite/Sitemaps
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Anonymous
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "f417a0f2-33f5-4c43-9d56-b14bde094417"

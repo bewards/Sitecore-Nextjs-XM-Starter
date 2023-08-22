@@ -1,0 +1,17 @@
+﻿---
+ID: "96540323-7902-485f-8c62-64e38597bf82"
+Parent: "a56c52e5-b2b4-4dad-a08d-74f2e8a1c7f1"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/DemoSite/Samples/GraphQL Samples/Properties
+Languages:
+  - Language: en
+    Versions:
+      - Version: 1
+        Fields:
+          - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+            Hint: __Created by
+            Value: |
+              sitecore\Admin
+          - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+            Hint: __Revision
+            Value: "58efbe42-8c8a-4193-b8e2-2d8027892162"
