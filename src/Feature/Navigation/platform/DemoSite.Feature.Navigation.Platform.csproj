@@ -52,7 +52,6 @@
   <ItemGroup>
     <Compile Include="Constants.cs" />
     <Compile Include="ContentResolvers\BreadcrumbContentResolver.cs" />
-    <Compile Include="ContentResolvers\DynamicButtonsContentsResolver.cs" />
     <Compile Include="ContentResolvers\FooterContentsResolver.cs" />
     <Compile Include="ContentResolvers\HeaderContentsResolver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
